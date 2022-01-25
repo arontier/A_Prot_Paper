@@ -1,0 +1,42 @@
+{
+  "UID": "T0991",
+  "CHAIN_ID": "T0991",
+  "SEQUENCE1": "AYKLIKMAGGNSAIQTYAREDKTTQTLSTQKTISVLRNGSTSTRIIKVHINSTAPVTINTCDPTKCGPTVPMGVSFKSSMPEDADPAEVLKAAKAALALFEANLNSAFNKNVDEISVA",
+  "SEQUENCE2": "AYKLIKMAGGNSAIQTYAREDKTTQTLSTQKTISVLRNGSTSTRIIKVHINSTAPVTINTCDPTKCGPTVPMGVSFKSSMPEDADPAEVLKAAKAALALFEANLNSAFNKNVDEISVA",
+  "MD5": "9f88d4521e7477b3381671155777f784",
+  "DOMAINS": [],
+  "BINDING_SITES": [],
+  "MSA": {
+    "uc30-201710.div_min": {
+      "options": {
+        "db": "uc30-201710",
+        "e_val": "1e-3",
+        "subsampling": "div_min",
+        "coverage": 30,
+        "n_seq": 256
+      },
+      "n_eff": 1.0,
+      "raw_n_seq": 1,
+      "filtered_n_seq": 1,
+      "selected_n_seq": 1,
+      "sequences": [
+        [
+          "T0991",
+          "AYKLIKMAGGNSAIQTYAREDKTTQTLSTQKTISVLRNGSTSTRIIKVHINSTAPVTINTCDPTKCGPTVPMGVSFKSSMPEDADPAEVLKAAKAALALFEANLNSAFNKNVDEISVA",
+          0
+        ]
+      ]
+    }
+  },
+  "SS": {
+    "options": {},
+    "structure": null
+  },
+  "DISORDER": {
+    "options": {},
+    "structure": null
+  },
+  "STRUCTURE": null,
+  "STRUCTURES": null,
+  "LENGTH": 118
+}

@@ -1,0 +1,6109 @@
+{
+  "UID": "T1026",
+  "CHAIN_ID": "A",
+  "UNP": null,
+  "SEQUENCE1": "MVSNWNWSGKKGRRTPRRGYTRPFKSAVPTTRVVVHQSAVLKKDDVSGSEIKPEGDVARYKIRKVMLSCTLRMRPGELVNYLIVKCSSPIVNWSAAFTAPALMVKESCQDMITIIGKGKVESNGVAGSDCTKSFNKFIRLGAGISQTQHLYVVMYTSEAVKTVLEHRVYIEV",
+  "SEQUENCE2": "--------------------------AVPTTRVVVHQSAVLKKDDVSGSEIKPEGDVARYKIRKVMLSCTLRMRPGELVNYLIVKCSSPIVNWSAAFTAPALMVKESCQDMITIIGKGKVESNGVAGSDCTKSFNKFIRLGAGISQTQHLYVVMYTSEAVKTVLEHRVYIEV",
+  "DOMAINS": {
+    "D1": {
+      "method": "CASP",
+      "positions": "27-172"
+    }
+  },
+  "MSA": {
+    "msa_transformer_bfd.div_min": {
+      "e_val": "1e-3",
+      "subsampling": "div_min",
+      "coverage": 30,
+      "n_seq": 13,
+      "raw_n_seq": 13,
+      "filtered_n_seq": 13,
+      "selected_n_seq": 13,
+      "sequences": [
+        [
+          "T1026",
+          "MVSNWNWSGKKGRRTPRRGYTRPFKSAVPTTRVVVHQSAVLKKDDVSGSEIKPEGDVARYKIRKVMLSCTLRMRPGELVNYLIVKCSSPIVNWSAAFTAPALMVKESCQDMITIIGKGKVESNGVAGSDCTKSFNKFIRLGAGISQTQHLYVVMYTSEAVKTVLEHRVYIEV",
+          0
+        ],
+        [
+          "tr|V9TN95|V9TN95_9VIRU",
+          "VRTNWPMRRAVGKRSSRRGYGRFY-PNTPTSRVLYHSSAVLQKDSITGTEIKPDGEVGRYNMKRIMLTCTVKIPPGELMNFLVVKSSSPLVNWANLFTTPALLVKESAQDMVSIIAKGKIESSGAGVSEVTKSFNKFVKLGSGVSQTQHVYIIMYTSASAKVVLEHRMYIEV",
+          1
+        ],
+        [
+          "tr|C7FE69|C7FE69_9VIRU",
+          "MVSTWNWSGRKGRRTPRRPYGRPYKSSVPTTRVVVHQSAVLKKDEVAGTEIKPEGDVARYKMKKVMLTCTLRMAPGELVNYLIVKCNSPIASWSAAFTSPALLVKESCQDMITIIAKGKVESNGVAGTDCTKSFNRFIKLGAGITQTQHLYVVLYTSVALKAVLEHRVYDEV",
+          2
+        ],
+        [
+          "tr|K4Q5I8|K4Q5I8_9VIRU",
+          "MVSNWNWSGKKGRRTPRRGYSRPYKSAVPTTRVVVHQSAVLKKDEVSGSEIKPEGDVARYKMKKVMLTCTLRMPPGELVNYLIVKCNSPIVNWSAAFTSPALLVKESCQDMITIIGKGKVESNGVAGTDCTKSFNRFIKLGVGVSQTRHVYVVLYTSVACKAVLEHRMYIEV",
+          3
+        ],
+        [
+          "tr|A0A173LZ46|A0A173LZ46_9VIRU",
+          "MVSNWNWNGMKRRRTPRRGYGRPYKPVVPITRVVVHQSALLKKDEVVGCEIKPDGDVARYKMRKVMLTCTLRMPPGELVNYIIVKSSSPIANWSAAFTAPALLVKESCQDMISIIAKGKVESNGVAGTDCTKSFNKFIRLGAGISQTQHLYVVMYTSVALKVVLEHRVYIEL",
+          4
+        ],
+        [
+          "tr|V9TNH9|V9TNH9_9VIRU",
+          "MTSAWNWNGAKGMRSRRRPRGRPFRPLPPTSKLLLHESTVFNKDDIVGKEIKPSE-SVRYKMRKVMVTCTVRMPPGELLNFIIVKCSSPLVNWAGSFTQPALLVKENSQDMITILARGKIETTGLSGHDCAKSFSRFVRLGSGVSQSQHLYLVIFTSEAMKAVLEHRMYLDV",
+          5
+        ],
+        [
+          "tr|V9TNG9|V9TNG9_9VIRU",
+          "MAPFAQW-AVKKRRTPRGGARRYSKAVAPTTKVAFHQSTVLNKEDIVGFEIKPP-DITRYKIRRVVLFCTFRMPPGELLNYLIVKTNSPLLNWGAVFTAPGLMVKEQFQDMVTIVTGGKLEGSGVAGSTSLKAMRKVVSLGAGVAQTQHMYVVFFSSDSMKAILEGRVYVAI",
+          6
+        ],
+        [
+          "sp|Q87012|CAPSD_SCSVF",
+          "-MVAVRW-GRKGLRSQRRKYSR-IAYKPPSSKVVSHVESVLNKRDVTGAEVKPFADGSRYSMKKVMLIATLTMAPGELVNYLIVKSNSPIANWSSSFSNPSLMVKESVQDTVTIVGGGKLESSGTAGKDVTKSFRKFVKLGSGISQTQHLYLIIYSSDAMKITLETRMYIDV",
+          7
+        ],
+        [
+          "sp|Q87019|CAPSD_SCSVJ",
+          "-MAQLRW-GRKGVRSQRRKYSRPVAYKPPSSKVVSHVETVLNKKDVTGAEMKPFNDGSRYSMKKIMVSATLTMAPGELLNYLIVKSNSPIANWSSSFSNPSLMVKESVQDTVTILRRGKLESSGTAGKDVTKSFSRFVNLGLGISQTQHLYLIIYSSDAMKITLETRMYIDV",
+          8
+        ],
+        [
+          "tr|A0A1W5YSD8|A0A1W5YSD8_9VIRU",
+          "-MAMANW-GIRRRRSSRRPVRTFI-SKVPSTKVLWSTSAVLTKGTIAGVEIRPAGEGVRYKMNKVMLCGTLTMNPGQLLNYIIVKSNAKITDWQSSFSSPSLFIKEAMQDVVTIVGQGKVEPSGYSGSEVTRSFRRSVRLSAGISQTQHLYGIFYPSSDMKMILEARMYIQV",
+          9
+        ],
+        [
+          "tr|M1T7L4|M1T7L4_9VIRU",
+          "--------SVKKRRPVRRKYGS----KAAVHDYAADVSFIVPENTIKLFRIEPTDKLPRYFIWKMFMSLVCKIRPGKLLHWAMIKSTWNILDPSTVLDAPGLFIKPVNSHLVKLVCSGEVAP---GASEIECLIRKTTVLRRNVTEVDFLYLAFYCTSGVSINYQNRI----",
+          10
+        ],
+        [
+          "tr|F2Q6Z9|F2Q6Z9_BBTV",
+          "--------SIKKRRVGRRKYGS----KAATHDYSPLGSILVPENTVKVFRIEPTDKLPRYFIWKMFMLLVCKVKPGRILHWAMIKSSWEINQPTTCLEAPGLFIKPEHSHLVKLVCSGELE-AGVATSDVECLLRKTTVLRKNVTEVDYLYLAFYCSSGVSINYQNRI----",
+          11
+        ],
+        [
+          "tr|B0LBX5|B0LBX5_9VIRU",
+          "--------ALKKRKAVRRKYGS----KATTHDYAVDTSFIVPENTIKLYRIEPTDKLPRYFIWKMFMLLVCKVRPGRILHWAMIKSSWDVKDPTVVLEAPGLFIKPANSHLVKLVCSGELAP---GTSEVECLLRKTTLLRRNVTELDFLYLAFYCSSGVTINYQNRI----",
+          12
+        ]
+      ]
+    },
+    "msa_t_uc201710-30_bfd.div_min": {
+      "e_val": "1e-3",
+      "subsampling": "div_min",
+      "coverage": 30,
+      "n_seq": 13,
+      "raw_n_seq": 13,
+      "filtered_n_seq": 13,
+      "selected_n_seq": 13,
+      "sequences": [
+        [
+          "T1026",
+          "MVSNWNWSGKKGRRTPRRGYTRPFKSAVPTTRVVVHQSAVLKKDDVSGSEIKPEGDVARYKIRKVMLSCTLRMRPGELVNYLIVKCSSPIVNWSAAFTAPALMVKESCQDMITIIGKGKVESNGVAGSDCTKSFNKFIRLGAGISQTQHLYVVMYTSEAVKTVLEHRVYIEV",
+          0
+        ],
+        [
+          "tr|V9TN95|V9TN95_9VIRU",
+          "VRTNWPMRRAVGKRSSRRGYGRFY-PNTPTSRVLYHSSAVLQKDSITGTEIKPDGEVGRYNMKRIMLTCTVKIPPGELMNFLVVKSSSPLVNWANLFTTPALLVKESAQDMVSIIAKGKIESSGAGVSEVTKSFNKFVKLGSGVSQTQHVYIIMYTSASAKVVLEHRMYIEV",
+          1
+        ],
+        [
+          "tr|C7FE69|C7FE69_9VIRU",
+          "MVSTWNWSGRKGRRTPRRPYGRPYKSSVPTTRVVVHQSAVLKKDEVAGTEIKPEGDVARYKMKKVMLTCTLRMAPGELVNYLIVKCNSPIASWSAAFTSPALLVKESCQDMITIIAKGKVESNGVAGTDCTKSFNRFIKLGAGITQTQHLYVVLYTSVALKAVLEHRVYDEV",
+          2
+        ],
+        [
+          "tr|K4Q5I8|K4Q5I8_9VIRU",
+          "MVSNWNWSGKKGRRTPRRGYSRPYKSAVPTTRVVVHQSAVLKKDEVSGSEIKPEGDVARYKMKKVMLTCTLRMPPGELVNYLIVKCNSPIVNWSAAFTSPALLVKESCQDMITIIGKGKVESNGVAGTDCTKSFNRFIKLGVGVSQTRHVYVVLYTSVACKAVLEHRMYIEV",
+          3
+        ],
+        [
+          "tr|A0A173LZ46|A0A173LZ46_9VIRU",
+          "MVSNWNWNGMKRRRTPRRGYGRPYKPVVPITRVVVHQSALLKKDEVVGCEIKPDGDVARYKMRKVMLTCTLRMPPGELVNYIIVKSSSPIANWSAAFTAPALLVKESCQDMISIIAKGKVESNGVAGTDCTKSFNKFIRLGAGISQTQHLYVVMYTSVALKVVLEHRVYIEL",
+          4
+        ],
+        [
+          "tr|V9TNH9|V9TNH9_9VIRU",
+          "MTSAWNWNGAKGMRSRRRPRGRPFRPLPPTSKLLLHESTVFNKDDIVGKEIKPSE-SVRYKMRKVMVTCTVRMPPGELLNFIIVKCSSPLVNWAGSFTQPALLVKENSQDMITILARGKIETTGLSGHDCAKSFSRFVRLGSGVSQSQHLYLVIFTSEAMKAVLEHRMYLDV",
+          5
+        ],
+        [
+          "tr|V9TNG9|V9TNG9_9VIRU",
+          "MAPFAQW-AVKKRRTPRGGARRYSKAVAPTTKVAFHQSTVLNKEDIVGFEIKPP-DITRYKIRRVVLFCTFRMPPGELLNYLIVKTNSPLLNWGAVFTAPGLMVKEQFQDMVTIVTGGKLEGSGVAGSTSLKAMRKVVSLGAGVAQTQHMYVVFFSSDSMKAILEGRVYVAI",
+          6
+        ],
+        [
+          "sp|Q87012|CAPSD_SCSVF",
+          "-MVAVRW-GRKGLRSQRRKYSR-IAYKPPSSKVVSHVESVLNKRDVTGAEVKPFADGSRYSMKKVMLIATLTMAPGELVNYLIVKSNSPIANWSSSFSNPSLMVKESVQDTVTIVGGGKLESSGTAGKDVTKSFRKFVKLGSGISQTQHLYLIIYSSDAMKITLETRMYIDV",
+          7
+        ],
+        [
+          "sp|Q87019|CAPSD_SCSVJ",
+          "-MAQLRW-GRKGVRSQRRKYSRPVAYKPPSSKVVSHVETVLNKKDVTGAEMKPFNDGSRYSMKKIMVSATLTMAPGELLNYLIVKSNSPIANWSSSFSNPSLMVKESVQDTVTILRRGKLESSGTAGKDVTKSFSRFVNLGLGISQTQHLYLIIYSSDAMKITLETRMYIDV",
+          8
+        ],
+        [
+          "tr|A0A1W5YSD8|A0A1W5YSD8_9VIRU",
+          "-MAMANW-GIRRRRSSRRPVRTFI-SKVPSTKVLWSTSAVLTKGTIAGVEIRPAGEGVRYKMNKVMLCGTLTMNPGQLLNYIIVKSNAKITDWQSSFSSPSLFIKEAMQDVVTIVGQGKVEPSGYSGSEVTRSFRRSVRLSAGISQTQHLYGIFYPSSDMKMILEARMYIQV",
+          9
+        ],
+        [
+          "tr|M1T7L4|M1T7L4_9VIRU",
+          "--------SVKKRRPVRRKYGS----KAAVHDYAADVSFIVPENTIKLFRIEPTDKLPRYFIWKMFMSLVCKIRPGKLLHWAMIKSTWNILDPSTVLDAPGLFIKPVNSHLVKLVCSGEVAP---GASEIECLIRKTTVLRRNVTEVDFLYLAFYCTSGVSINYQNRI----",
+          10
+        ],
+        [
+          "tr|F2Q6Z9|F2Q6Z9_BBTV",
+          "--------SIKKRRVGRRKYGS----KAATHDYSPLGSILVPENTVKVFRIEPTDKLPRYFIWKMFMLLVCKVKPGRILHWAMIKSSWEINQPTTCLEAPGLFIKPEHSHLVKLVCSGELE-AGVATSDVECLLRKTTVLRKNVTEVDYLYLAFYCSSGVSINYQNRI----",
+          11
+        ],
+        [
+          "tr|B0LBX5|B0LBX5_9VIRU",
+          "--------ALKKRKAVRRKYGS----KATTHDYAVDTSFIVPENTIKLYRIEPTDKLPRYFIWKMFMLLVCKVRPGRILHWAMIKSSWDVKDPTVVLEAPGLFIKPANSHLVKLVCSGELAP---GTSEVECLLRKTTLLRRNVTELDFLYLAFYCSSGVTINYQNRI----",
+          12
+        ]
+      ]
+    },
+    "msa_t_ur202003-30_bfd.div_min": {
+      "e_val": "1e-3",
+      "subsampling": "div_min",
+      "coverage": 30,
+      "n_seq": 16,
+      "raw_n_seq": 16,
+      "filtered_n_seq": 16,
+      "selected_n_seq": 16,
+      "sequences": [
+        [
+          "T1026",
+          "MVSNWNWSGKKGRRTPRRGYTRPFKSAVPTTRVVVHQSAVLKKDDVSGSEIKPEGDVARYKIRKVMLSCTLRMRPGELVNYLIVKCSSPIVNWSAAFTAPALMVKESCQDMITIIGKGKVESNGVAGSDCTKSFNKFIRLGAGISQTQHLYVVMYTSEAVKTVLEHRVYIEV",
+          0
+        ],
+        [
+          "UniRef100_A0A650FYV8",
+          "VRTNWPLRRSVGKRSYRRGYGRFYKNNSPTSKVLVHASSVLQKESITGAEIKPSDDVGRYKMKKVMLTCTVKMPPGELMNFLVVRSSSVLANWANLFSTPALLVKEPAQDMVTIIAKGKIESVGSGVSEVTKSFNRFIYLGSGVSQTQHVYVIMYSSASVKVVLEHRMYVEV",
+          1
+        ],
+        [
+          "tr|V9TSM1|V9TSM1_9VIRU",
+          "VRTNWPLRRAVGKRSNRRGYGRFY-PNTPTSRVLYHSSAVLQKESITGTEIKPDGEVGRYKMKKIMLTCTVKIPPGELMNFLVVKSSSPLVNWANIFTTPALLVKESAQDMVTIIAKGKIESSGAGVSEVTKSFNKFIYLGSGVSQTQHVYIIMYSSASVKVVLEHRMYIEV",
+          2
+        ],
+        [
+          "UniRef100_A0A2H4T2E2",
+          "MVSNWSSSGRKWRHSGRKGGGRPFKPIVPTTRLVVHSTALLNKDDVVGCEIRPK-DISRYKMRKVMLTCTVRMPPGELLNYLVVKCSSPLVNWGAAFSSPALLVKEDCQDMITILGKGKIESSGVAGSDCTKSFSRFVKLGSGVTQTQHLYVILYTSVSMKSVLEHRMYVEV",
+          3
+        ],
+        [
+          "tr|K4Q5I8|K4Q5I8_9VIRU",
+          "MVSNWNWSGKKGRRTPRRGYSRPYKSAVPTTRVVVHQSAVLKKDEVSGSEIKPEGDVARYKMKKVMLTCTLRMPPGELVNYLIVKCNSPIVNWSAAFTSPALLVKESCQDMITIIGKGKVESNGVAGTDCTKSFNRFIKLGVGVSQTRHVYVVLYTSVACKAVLEHRMYIEV",
+          4
+        ],
+        [
+          "tr|A0A173LZ46|A0A173LZ46_9VIRU",
+          "MVSNWNWNGMKRRRTPRRGYGRPYKPVVPITRVVVHQSALLKKDEVVGCEIKPDGDVARYKMRKVMLTCTLRMPPGELVNYIIVKSSSPIANWSAAFTAPALLVKESCQDMISIIAKGKVESNGVAGTDCTKSFNKFIRLGAGISQTQHLYVVMYTSVALKVVLEHRVYIEL",
+          5
+        ],
+        [
+          "tr|V9TNH9|V9TNH9_9VIRU",
+          "MTSAWNWNGAKGMRSRRRPRGRPFRPLPPTSKLLLHESTVFNKDDIVGKEIKPSE-SVRYKMRKVMVTCTVRMPPGELLNFIIVKCSSPLVNWAGSFTQPALLVKENSQDMITILARGKIETTGLSGHDCAKSFSRFVRLGSGVSQSQHLYLVIFTSEAMKAVLEHRMYLDV",
+          6
+        ],
+        [
+          "tr|A2VC03|A2VC03_9VIRU",
+          "MASTWNWSGKKGRRTLRRPYGRPYKSYVPTTRVVVHQSAVLKKDEVAGTEIKPEGDVVRYKMKKVMLTCTLRMAPGELVNYVIVKCNSPIASWSAAFTSPALLVKESCQDMITIVAKGKVESNGVAGTDCTKSFNRFIKLGSGITQTQHLYVVLYTSVALKAVLEHRVYVEV",
+          7
+        ],
+        [
+          "tr|V9TNG9|V9TNG9_9VIRU",
+          "MAPFAQW-AVKKRRTPRGGARRYSKAVAPTTKVAFHQSTVLNKEDIVGFEIKPP-DITRYKIRRVVLFCTFRMPPGELLNYLIVKTNSPLLNWGAVFTAPGLMVKEQFQDMVTIVTGGKLEGSGVAGSTSLKAMRKVVSLGAGVAQTQHMYVVFFSSDSMKAILEGRVYVAI",
+          8
+        ],
+        [
+          "sp|Q87012|CAPSD_SCSVF",
+          "-MVAVRW-GRKGLRSQRRKYSR-IAYKPPSSKVVSHVESVLNKRDVTGAEVKPFADGSRYSMKKVMLIATLTMAPGELVNYLIVKSNSPIANWSSSFSNPSLMVKESVQDTVTIVGGGKLESSGTAGKDVTKSFRKFVKLGSGISQTQHLYLIIYSSDAMKITLETRMYIDV",
+          9
+        ],
+        [
+          "UniRef100_A0A482G1X8",
+          "-MGSLNWGRKA-TRTYRRKYSKIVKR-PPSTKIVNRSDIILKSRDVAGIEIKAFADSTRYTTKNLMLVGTFSMAPGQLLRYLIVKTTSPISAYSAVFSNPSLMVSEIGQDMVTILKKGKIESSGLSG-DVVKSFERFVRLGPGVPSSQHLYVIFYSSDGMKGVIENRSYIEV",
+          10
+        ],
+        [
+          "sp|Q87019|CAPSD_SCSVJ",
+          "-MAQLRW-GRKGVRSQRRKYSRPVAYKPPSSKVVSHVETVLNKKDVTGAEMKPFNDGSRYSMKKIMVSATLTMAPGELLNYLIVKSNSPIANWSSSFSNPSLMVKESVQDTVTILRRGKLESSGTAGKDVTKSFSRFVNLGLGISQTQHLYLIIYSSDAMKITLETRMYIDV",
+          11
+        ],
+        [
+          "tr|A0A1W5YSD8|A0A1W5YSD8_9VIRU",
+          "-MAMANW-GIRRRRSSRRPVRTFI-SKVPSTKVLWSTSAVLTKGTIAGVEIRPAGEGVRYKMNKVMLCGTLTMNPGQLLNYIIVKSNAKITDWQSSFSSPSLFIKEAMQDVVTIVGQGKVEPSGYSGSEVTRSFRRSVRLSAGISQTQHLYGIFYPSSDMKMILEARMYIQV",
+          12
+        ],
+        [
+          "UniRef100_B0LBX0",
+          "--ARYPKKSLKKRKAVRRKYGSKA---TTSHDYAIDTSFIVPETTIKLYRIEPTDKLPRYFIWKMFMLLVCKVRPGRILHWAMIKSSWDIHQPEAVLEAPGLFIKPANSHLVKLVCSGELEAVGGGTTDVECLLRKTTLLRRNVTELDFLYLAFYCTSGVTINYQNRITYHV",
+          13
+        ],
+        [
+          "UniRef100_B9VUE2",
+          "--ARYPKKSIKKRRVGRRKYGSKA---ATSHDYSSLGSILVPENTVKVFRIEPTDKLPRYFIWKMFMLLVCKVKPGRILHWAMIKSSWEINQPTTCLEAPGLFIKPEHSHLVKLVCRGELEAVATGTSDVECLLRKTTVLRKNVTEVDYLYLAFYCSSGVSINYQNRITYHV",
+          14
+        ],
+        [
+          "UniRef100_W0FW14",
+          "--ARFPKRAVKKRRPVRRKYGSKA---AVSHDYAADVSFIVPENTIKLFRIEPTDKLPRYFIWKMFMSLVCKIRPGKLLHWAMIKSTWNILDPSTVLDAPGLFIKPVNSHLVKLVCSGEVLAVGTGASEIECLIRKTTVLRRNVTEVDFLYLAFYCTSGVSINYQNRITYHV",
+          15
+        ]
+      ]
+    }
+  },
+  "STRUCTURE": [
+    {
+      "RES_NAME_1LT": "M",
+      "RES_NAME_3LT": "MET",
+      "RES_ORDER": 1,
+      "RES_SEQ": 1,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 2,
+      "RES_SEQ": 2,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 3,
+      "RES_SEQ": 3,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "N",
+      "RES_NAME_3LT": "ASN",
+      "RES_ORDER": 4,
+      "RES_SEQ": 4,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "W",
+      "RES_NAME_3LT": "TRP",
+      "RES_ORDER": 5,
+      "RES_SEQ": 5,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "N",
+      "RES_NAME_3LT": "ASN",
+      "RES_ORDER": 6,
+      "RES_SEQ": 6,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "W",
+      "RES_NAME_3LT": "TRP",
+      "RES_ORDER": 7,
+      "RES_SEQ": 7,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 8,
+      "RES_SEQ": 8,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 9,
+      "RES_SEQ": 9,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 10,
+      "RES_SEQ": 10,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 11,
+      "RES_SEQ": 11,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 12,
+      "RES_SEQ": 12,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 13,
+      "RES_SEQ": 13,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 14,
+      "RES_SEQ": 14,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 15,
+      "RES_SEQ": 15,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 16,
+      "RES_SEQ": 16,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 17,
+      "RES_SEQ": 17,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 18,
+      "RES_SEQ": 18,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 19,
+      "RES_SEQ": 19,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Y",
+      "RES_NAME_3LT": "TYR",
+      "RES_ORDER": 20,
+      "RES_SEQ": 20,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 21,
+      "RES_SEQ": 21,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 22,
+      "RES_SEQ": 22,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 23,
+      "RES_SEQ": 23,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 24,
+      "RES_SEQ": 24,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 25,
+      "RES_SEQ": 25,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 26,
+      "RES_SEQ": 26,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 27,
+      "RES_SEQ": 27,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          210.773,
+          166.193,
+          238.068
+        ],
+        "C": [
+          210.878,
+          163.831,
+          237.43
+        ],
+        "CA": [
+          210.266,
+          165.192,
+          237.139
+        ],
+        "O": [
+          210.391,
+          162.809,
+          236.953
+        ],
+        "CB": [
+          210.549,
+          165.603,
+          235.709
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 28,
+      "RES_SEQ": 28,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          211.951,
+          163.831,
+          238.208
+        ],
+        "C": [
+          211.716,
+          161.852,
+          239.601
+        ],
+        "CA": [
+          212.609,
+          162.582,
+          238.607
+        ],
+        "O": [
+          211.138,
+          162.501,
+          240.49
+        ],
+        "CB": [
+          213.982,
+          162.886,
+          239.214
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 29,
+      "RES_SEQ": 29,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          211.546,
+          160.529,
+          239.49
+        ],
+        "C": [
+          211.159,
+          159.734,
+          241.832
+        ],
+        "CA": [
+          210.64,
+          159.824,
+          240.407
+        ],
+        "O": [
+          212.042,
+          158.933,
+          242.134
+        ],
+        "CB": [
+          210.522,
+          158.432,
+          239.776
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 30,
+      "RES_SEQ": 30,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          210.581,
+          160.535,
+          242.72
+        ],
+        "C": [
+          210.287,
+          159.643,
+          244.976
+        ],
+        "CA": [
+          211.026,
+          160.644,
+          244.099
+        ],
+        "O": [
+          209.142,
+          159.28,
+          244.706
+        ],
+        "CB": [
+          210.789,
+          162.064,
+          244.613
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 31,
+      "RES_SEQ": 31,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          210.963,
+          159.183,
+          246.022
+        ],
+        "C": [
+          210.93,
+          158.63,
+          248.364
+        ],
+        "CA": [
+          210.352,
+          158.298,
+          247.001
+        ],
+        "O": [
+          212.149,
+          158.746,
+          248.508
+        ],
+        "CB": [
+          210.605,
+          156.831,
+          246.664
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 32,
+      "RES_SEQ": 32,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          210.063,
+          158.782,
+          249.35
+        ],
+        "C": [
+          210.354,
+          157.913,
+          251.576
+        ],
+        "CA": [
+          210.458,
+          159.152,
+          250.701
+        ],
+        "O": [
+          209.275,
+          157.582,
+          252.069
+        ],
+        "CB": [
+          209.574,
+          160.277,
+          251.211
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 33,
+      "RES_SEQ": 33,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          211.474,
+          157.241,
+          251.78
+        ],
+        "C": [
+          211.962,
+          156.288,
+          253.944
+        ],
+        "CA": [
+          211.479,
+          156.001,
+          252.532
+        ],
+        "O": [
+          212.626,
+          157.287,
+          254.214
+        ],
+        "CB": [
+          212.318,
+          154.895,
+          251.845
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 34,
+      "RES_SEQ": 34,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          211.582,
+          155.42,
+          254.873
+        ],
+        "C": [
+          212.633,
+          154.445,
+          256.804
+        ],
+        "CA": [
+          211.842,
+          155.624,
+          256.29
+        ],
+        "O": [
+          212.166,
+          153.304,
+          256.738
+        ],
+        "CB": [
+          210.548,
+          155.771,
+          257.092
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 35,
+      "RES_SEQ": 35,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          213.823,
+          154.712,
+          257.326
+        ],
+        "C": [
+          214.944,
+          154.09,
+          259.361
+        ],
+        "CA": [
+          214.655,
+          153.681,
+          257.926
+        ],
+        "O": [
+          215.27,
+          155.253,
+          259.622
+        ],
+        "CB": [
+          215.955,
+          153.472,
+          257.13
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "H",
+      "RES_NAME_3LT": "HIS",
+      "RES_ORDER": 36,
+      "RES_SEQ": 36,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          214.786,
+          153.152,
+          260.289
+        ],
+        "C": [
+          216.362,
+          152.578,
+          262.051
+        ],
+        "CA": [
+          215.121,
+          153.371,
+          261.685
+        ],
+        "O": [
+          216.681,
+          151.573,
+          261.412
+        ],
+        "CB": [
+          213.971,
+          152.981,
+          262.609
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Q",
+      "RES_NAME_3LT": "GLN",
+      "RES_ORDER": 37,
+      "RES_SEQ": 37,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          217.043,
+          153.031,
+          263.092
+        ],
+        "C": [
+          218.339,
+          152.632,
+          265.053
+        ],
+        "CA": [
+          218.297,
+          152.453,
+          263.545
+        ],
+        "O": [
+          218.444,
+          153.761,
+          265.545
+        ],
+        "CB": [
+          219.483,
+          153.137,
+          262.87
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 38,
+      "RES_SEQ": 38,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          218.218,
+          151.534,
+          265.783
+        ],
+        "C": [
+          219.746,
+          151.289,
+          267.648
+        ],
+        "CA": [
+          218.313,
+          151.568,
+          267.231
+        ],
+        "O": [
+          220.385,
+          150.367,
+          267.139
+        ],
+        "CB": [
+          217.373,
+          150.542,
+          267.862
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 39,
+      "RES_SEQ": 39,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          220.25,
+          152.093,
+          268.574
+        ],
+        "C": [
+          221.693,
+          152.365,
+          270.487
+        ],
+        "CA": [
+          221.624,
+          151.951,
+          269.031
+        ],
+        "O": [
+          221.43,
+          153.524,
+          270.818
+        ],
+        "CB": [
+          222.576,
+          152.792,
+          268.185
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 40,
+      "RES_SEQ": 40,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          222.013,
+          151.416,
+          271.353
+        ],
+        "C": [
+          223.863,
+          151.789,
+          272.807
+        ],
+        "CA": [
+          222.351,
+          151.705,
+          272.736
+        ],
+        "O": [
+          224.556,
+          150.787,
+          272.601
+        ],
+        "CB": [
+          221.807,
+          150.633,
+          273.689
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 41,
+      "RES_SEQ": 41,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          224.382,
+          152.979,
+          273.076
+        ],
+        "C": [
+          226.338,
+          153.737,
+          274.327
+        ],
+        "CA": [
+          225.82,
+          153.181,
+          273.01
+        ],
+        "O": [
+          225.608,
+          154.39,
+          275.078
+        ],
+        "CB": [
+          226.2,
+          154.09,
+          271.845
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 42,
+      "RES_SEQ": 42,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          227.615,
+          153.469,
+          274.591
+        ],
+        "C": [
+          228.646,
+          155.122,
+          276.066
+        ],
+        "CA": [
+          228.196,
+          153.674,
+          275.91
+        ],
+        "O": [
+          228.31,
+          155.989,
+          275.256
+        ],
+        "CB": [
+          229.333,
+          152.689,
+          276.144
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 43,
+      "RES_SEQ": 43,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          229.426,
+          155.384,
+          277.119
+        ],
+        "C": [
+          230.357,
+          157.671,
+          276.682
+        ],
+        "CA": [
+          229.663,
+          156.723,
+          277.649
+        ],
+        "O": [
+          229.748,
+          158.644,
+          276.238
+        ],
+        "CB": [
+          230.476,
+          156.636,
+          278.937
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "D",
+      "RES_NAME_3LT": "ASP",
+      "RES_ORDER": 44,
+      "RES_SEQ": 44,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          231.608,
+          157.402,
+          276.324
+        ],
+        "C": [
+          232.502,
+          157.745,
+          274.052
+        ],
+        "CA": [
+          232.357,
+          158.302,
+          275.458
+        ],
+        "O": [
+          233.489,
+          158.018,
+          273.368
+        ],
+        "CB": [
+          233.729,
+          158.605,
+          276.049
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "D",
+      "RES_NAME_3LT": "ASP",
+      "RES_ORDER": 45,
+      "RES_SEQ": 45,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          231.527,
+          156.968,
+          273.607
+        ],
+        "C": [
+          231.192,
+          157.289,
+          271.236
+        ],
+        "CA": [
+          231.625,
+          156.313,
+          272.312
+        ],
+        "O": [
+          230.004,
+          157.591,
+          271.108
+        ],
+        "CB": [
+          230.764,
+          155.056,
+          272.277
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 46,
+      "RES_SEQ": 46,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          232.149,
+          157.796,
+          270.468
+        ],
+        "C": [
+          231.326,
+          157.369,
+          268.257
+        ],
+        "CA": [
+          231.797,
+          158.452,
+          269.219
+        ],
+        "O": [
+          232.072,
+          156.443,
+          267.918
+        ],
+        "CB": [
+          232.976,
+          159.265,
+          268.67
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 47,
+      "RES_SEQ": 47,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          230.058,
+          157.432,
+          267.879
+        ],
+        "C": [
+          228.624,
+          156.913,
+          266.003
+        ],
+        "CA": [
+          229.428,
+          156.344,
+          267.15
+        ],
+        "O": [
+          227.885,
+          157.88,
+          266.185
+        ],
+        "CB": [
+          228.518,
+          155.523,
+          268.058
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 48,
+      "RES_SEQ": 48,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          228.758,
+          156.315,
+          264.836
+        ],
+        "C": [
+          227.222,
+          155.76,
+          263.006
+        ],
+        "CA": [
+          228.11,
+          156.812,
+          263.636
+        ],
+        "O": [
+          227.55,
+          154.575,
+          263.012
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 49,
+      "RES_SEQ": 49,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          226.095,
+          156.207,
+          262.474
+        ],
+        "C": [
+          225.007,
+          155.931,
+          260.351
+        ],
+        "CA": [
+          225.17,
+          155.361,
+          261.745
+        ],
+        "O": [
+          224.85,
+          157.144,
+          260.186
+        ],
+        "CB": [
+          223.819,
+          155.287,
+          262.45
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 50,
+      "RES_SEQ": 50,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          225.063,
+          155.066,
+          259.352
+        ],
+        "C": [
+          223.305,
+          155.639,
+          257.808
+        ],
+        "CA": [
+          224.797,
+          155.491,
+          257.992
+        ],
+        "O": [
+          222.543,
+          154.724,
+          258.127
+        ],
+        "CB": [
+          225.349,
+          154.481,
+          256.995
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 51,
+      "RES_SEQ": 51,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          222.876,
+          156.784,
+          257.31
+        ],
+        "C": [
+          221.403,
+          156.68,
+          255.429
+        ],
+        "CA": [
+          221.489,
+          156.945,
+          256.921
+        ],
+        "O": [
+          222.115,
+          157.291,
+          254.626
+        ],
+        "CB": [
+          220.929,
+          158.315,
+          257.325
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 52,
+      "RES_SEQ": 52,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          220.572,
+          155.714,
+          255.075
+        ],
+        "C": [
+          219.192,
+          154.401,
+          253.632
+        ],
+        "CA": [
+          220.489,
+          155.176,
+          253.73
+        ],
+        "O": [
+          218.621,
+          154.027,
+          254.659
+        ],
+        "CB": [
+          221.688,
+          154.265,
+          253.427
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 53,
+      "RES_SEQ": 53,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          218.684,
+          154.17,
+          252.428
+        ],
+        "C": [
+          217.84,
+          151.864,
+          252.677
+        ],
+        "CA": [
+          217.52,
+          153.295,
+          252.281
+        ],
+        "O": [
+          218.99,
+          151.466,
+          252.863
+        ],
+        "CB": [
+          217.188,
+          153.403,
+          250.798
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 54,
+      "RES_SEQ": 54,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          216.795,
+          151.076,
+          252.77
+        ],
+        "C": [
+          217.596,
+          148.7,
+          252.65
+        ],
+        "CA": [
+          216.846,
+          149.786,
+          253.439
+        ],
+        "O": [
+          217.519,
+          147.529,
+          253.031
+        ],
+        "CB": [
+          215.417,
+          149.337,
+          253.74
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 55,
+      "RES_SEQ": 55,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          218.331,
+          148.983,
+          251.578
+        ],
+        "C": [
+          218.271,
+          147.352,
+          249.711
+        ],
+        "CA": [
+          219.052,
+          147.971,
+          250.849
+        ],
+        "O": [
+          218.863,
+          146.984,
+          248.693
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "D",
+      "RES_NAME_3LT": "ASP",
+      "RES_ORDER": 56,
+      "RES_SEQ": 56,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          216.949,
+          147.233,
+          249.86
+        ],
+        "C": [
+          216.03,
+          147.813,
+          247.648
+        ],
+        "CA": [
+          216.105,
+          146.783,
+          248.761
+        ],
+        "O": [
+          215.689,
+          147.462,
+          246.515
+        ],
+        "CB": [
+          214.701,
+          146.47,
+          249.268
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 57,
+      "RES_SEQ": 57,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          216.326,
+          149.07,
+          247.951
+        ],
+        "C": [
+          218.0,
+          150.352,
+          246.84
+        ],
+        "CA": [
+          216.504,
+          150.104,
+          246.946
+        ],
+        "O": [
+          218.589,
+          151.036,
+          247.675
+        ],
+        "CB": [
+          215.751,
+          151.383,
+          247.304
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 58,
+      "RES_SEQ": 58,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          218.629,
+          149.764,
+          245.836
+        ],
+        "C": [
+          219.775,
+          151.315,
+          244.414
+        ],
+        "CA": [
+          219.948,
+          150.204,
+          245.438
+        ],
+        "O": [
+          218.651,
+          151.662,
+          244.044
+        ],
+        "CB": [
+          220.763,
+          149.041,
+          244.884
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 59,
+      "RES_SEQ": 59,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          220.899,
+          151.889,
+          243.975
+        ],
+        "C": [
+          220.117,
+          154.113,
+          243.17
+        ],
+        "CA": [
+          220.956,
+          152.868,
+          242.882
+        ],
+        "O": [
+          219.49,
+          154.677,
+          242.276
+        ],
+        "CB": [
+          220.542,
+          152.235,
+          241.551
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Y",
+      "RES_NAME_3LT": "TYR",
+      "RES_ORDER": 60,
+      "RES_SEQ": 60,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          220.096,
+          154.54,
+          244.425
+        ],
+        "C": [
+          220.107,
+          156.968,
+          244.667
+        ],
+        "CA": [
+          219.295,
+          155.687,
+          244.814
+        ],
+        "O": [
+          221.229,
+          156.965,
+          244.161
+        ],
+        "CB": [
+          218.778,
+          155.519,
+          246.237
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 61,
+      "RES_SEQ": 61,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          219.53,
+          158.083,
+          245.117
+        ],
+        "C": [
+          219.544,
+          160.217,
+          246.21
+        ],
+        "CA": [
+          220.234,
+          159.361,
+          245.151
+        ],
+        "O": [
+          218.499,
+          160.807,
+          245.934
+        ],
+        "CB": [
+          220.215,
+          160.039,
+          243.796
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 62,
+      "RES_SEQ": 62,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          220.138,
+          160.287,
+          247.398
+        ],
+        "C": [
+          219.545,
+          162.448,
+          248.329
+        ],
+        "CA": [
+          219.487,
+          160.945,
+          248.524
+        ],
+        "O": [
+          220.628,
+          163.031,
+          248.24
+        ],
+        "CB": [
+          220.143,
+          160.557,
+          249.847
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 63,
+      "RES_SEQ": 63,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          218.383,
+          163.085,
+          248.284
+        ],
+        "C": [
+          218.018,
+          165.27,
+          249.383
+        ],
+        "CA": [
+          218.313,
+          164.523,
+          248.093
+        ],
+        "O": [
+          218.692,
+          166.25,
+          249.697
+        ],
+        "CB": [
+          217.253,
+          164.86,
+          247.051
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 64,
+      "RES_SEQ": 64,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          217.003,
+          164.848,
+          250.123
+        ],
+        "C": [
+          216.609,
+          164.337,
+          252.448
+        ],
+        "CA": [
+          216.681,
+          165.44,
+          251.408
+        ],
+        "O": [
+          216.226,
+          163.209,
+          252.145
+        ],
+        "CB": [
+          215.352,
+          166.195,
+          251.368
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 65,
+      "RES_SEQ": 65,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          217.002,
+          164.654,
+          253.675
+        ],
+        "C": [
+          216.169,
+          164.453,
+          255.921
+        ],
+        "CA": [
+          216.868,
+          163.729,
+          254.791
+        ],
+        "O": [
+          216.603,
+          165.529,
+          256.329
+        ],
+        "CB": [
+          218.225,
+          163.199,
+          255.281
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "M",
+      "RES_NAME_3LT": "MET",
+      "RES_ORDER": 66,
+      "RES_SEQ": 66,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          215.101,
+          163.879,
+          256.426
+        ],
+        "C": [
+          214.83,
+          163.285,
+          258.709
+        ],
+        "CA": [
+          214.503,
+          164.339,
+          257.667
+        ],
+        "O": [
+          214.206,
+          162.227,
+          258.736
+        ],
+        "CB": [
+          213.003,
+          164.526,
+          257.511
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 67,
+      "RES_SEQ": 67,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          215.821,
+          163.54,
+          259.548
+        ],
+        "C": [
+          215.606,
+          163.139,
+          261.929
+        ],
+        "CA": [
+          216.118,
+          162.597,
+          260.611
+        ],
+        "O": [
+          215.663,
+          164.343,
+          262.181
+        ],
+        "CB": [
+          217.609,
+          162.292,
+          260.709
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 68,
+      "RES_SEQ": 68,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          215.1,
+          162.246,
+          262.767
+        ],
+        "C": [
+          215.06,
+          161.517,
+          265.04
+        ],
+        "CA": [
+          214.634,
+          162.628,
+          264.095
+        ],
+        "O": [
+          214.446,
+          160.449,
+          265.073
+        ],
+        "CB": [
+          213.129,
+          162.843,
+          264.129
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "C",
+      "RES_NAME_3LT": "CYS",
+      "RES_ORDER": 69,
+      "RES_SEQ": 69,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          216.109,
+          161.771,
+          265.8
+        ],
+        "C": [
+          216.18,
+          161.183,
+          268.135
+        ],
+        "CA": [
+          216.627,
+          160.797,
+          266.741
+        ],
+        "O": [
+          216.482,
+          162.285,
+          268.603
+        ],
+        "CB": [
+          218.143,
+          160.724,
+          266.669
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 70,
+      "RES_SEQ": 70,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          215.46,
+          160.286,
+          268.786
+        ],
+        "C": [
+          215.768,
+          159.648,
+          271.064
+        ],
+        "CA": [
+          214.942,
+          160.508,
+          270.126
+        ],
+        "O": [
+          215.446,
+          158.489,
+          271.315
+        ],
+        "CB": [
+          213.477,
+          160.163,
+          270.217
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 71,
+      "RES_SEQ": 71,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          216.837,
+          160.222,
+          271.585
+        ],
+        "C": [
+          217.194,
+          159.646,
+          273.909
+        ],
+        "CA": [
+          217.707,
+          159.502,
+          272.488
+        ],
+        "O": [
+          216.968,
+          160.762,
+          274.387
+        ],
+        "CB": [
+          219.135,
+          160.017,
+          272.378
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 72,
+      "RES_SEQ": 72,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          216.963,
+          158.516,
+          274.558
+        ],
+        "C": [
+          218.19,
+          158.5,
+          276.619
+        ],
+        "CA": [
+          216.804,
+          158.499,
+          276.0
+        ],
+        "O": [
+          219.053,
+          157.703,
+          276.231
+        ],
+        "CB": [
+          215.997,
+          157.279,
+          276.437
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "M",
+      "RES_NAME_3LT": "MET",
+      "RES_ORDER": 73,
+      "RES_SEQ": 73,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          218.42,
+          159.419,
+          277.548
+        ],
+        "C": [
+          219.722,
+          160.028,
+          279.517
+        ],
+        "CA": [
+          219.764,
+          159.625,
+          278.056
+        ],
+        "O": [
+          218.676,
+          160.386,
+          280.061
+        ],
+        "CB": [
+          220.507,
+          160.677,
+          277.242
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 74,
+      "RES_SEQ": 74,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          220.894,
+          159.966,
+          280.141
+        ],
+        "C": [
+          220.855,
+          161.83,
+          281.712
+        ],
+        "CA": [
+          221.036,
+          160.325,
+          281.536
+        ],
+        "O": [
+          221.241,
+          162.615,
+          280.845
+        ],
+        "CB": [
+          222.398,
+          159.878,
+          282.058
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 75,
+      "RES_SEQ": 75,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          220.271,
+          162.259,
+          282.823
+        ],
+        "C": [
+          220.775,
+          164.714,
+          283.188
+        ],
+        "CA": [
+          219.754,
+          163.63,
+          282.896
+        ],
+        "O": [
+          220.394,
+          165.803,
+          283.62
+        ],
+        "CB": [
+          218.726,
+          163.541,
+          284.024
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 76,
+      "RES_SEQ": 76,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          222.057,
+          164.449,
+          282.984
+        ],
+        "C": [
+          223.934,
+          165.704,
+          281.973
+        ],
+        "CA": [
+          223.033,
+          165.499,
+          283.169
+        ],
+        "O": [
+          224.676,
+          166.686,
+          281.908
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 77,
+      "RES_SEQ": 77,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          223.865,
+          164.799,
+          281.011
+        ],
+        "C": [
+          224.394,
+          165.362,
+          278.688
+        ],
+        "CA": [
+          224.878,
+          164.72,
+          279.979
+        ],
+        "O": [
+          223.315,
+          165.951,
+          278.625
+        ],
+        "CB": [
+          225.276,
+          163.264,
+          279.773
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 78,
+      "RES_SEQ": 78,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          225.213,
+          165.258,
+          277.646
+        ],
+        "C": [
+          225.213,
+          164.835,
+          275.263
+        ],
+        "CA": [
+          224.903,
+          165.842,
+          276.354
+        ],
+        "O": [
+          225.97,
+          163.884,
+          275.459
+        ],
+        "CB": [
+          225.689,
+          167.131,
+          276.098
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 79,
+      "RES_SEQ": 79,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          224.592,
+          165.047,
+          274.112
+        ],
+        "C": [
+          225.162,
+          165.27,
+          271.817
+        ],
+        "CA": [
+          224.844,
+          164.272,
+          272.911
+        ],
+        "O": [
+          224.274,
+          165.995,
+          271.359
+        ],
+        "CB": [
+          223.653,
+          163.4,
+          272.51
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "N",
+      "RES_NAME_3LT": "ASN",
+      "RES_ORDER": 80,
+      "RES_SEQ": 80,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          226.418,
+          165.334,
+          271.42
+        ],
+        "C": [
+          226.863,
+          165.43,
+          269.076
+        ],
+        "CA": [
+          226.86,
+          166.226,
+          270.366
+        ],
+        "O": [
+          227.596,
+          164.448,
+          268.965
+        ],
+        "CB": [
+          228.252,
+          166.761,
+          270.681
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Y",
+      "RES_NAME_3LT": "TYR",
+      "RES_ORDER": 81,
+      "RES_SEQ": 81,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          226.037,
+          165.82,
+          268.116
+        ],
+        "C": [
+          226.427,
+          165.909,
+          265.708
+        ],
+        "CA": [
+          225.949,
+          165.069,
+          266.878
+        ],
+        "O": [
+          226.287,
+          167.137,
+          265.692
+        ],
+        "CB": [
+          224.529,
+          164.568,
+          266.599
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 82,
+      "RES_SEQ": 82,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          226.958,
+          165.208,
+          264.716
+        ],
+        "C": [
+          226.691,
+          164.95,
+          262.355
+        ],
+        "CA": [
+          227.371,
+          165.759,
+          263.442
+        ],
+        "O": [
+          226.384,
+          163.774,
+          262.558
+        ],
+        "CB": [
+          228.884,
+          165.689,
+          263.286
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 83,
+      "RES_SEQ": 83,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          226.446,
+          165.575,
+          261.22
+        ],
+        "C": [
+          226.776,
+          165.225,
+          258.902
+        ],
+        "CA": [
+          225.844,
+          164.935,
+          260.063
+        ],
+        "O": [
+          226.936,
+          166.383,
+          258.502
+        ],
+        "CB": [
+          224.435,
+          165.458,
+          259.788
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 84,
+      "RES_SEQ": 84,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          227.399,
+          164.185,
+          258.364
+        ],
+        "C": [
+          228.341,
+          163.533,
+          256.216
+        ],
+        "CA": [
+          228.548,
+          164.337,
+          257.487
+        ],
+        "O": [
+          227.976,
+          162.355,
+          256.265
+        ],
+        "CB": [
+          229.839,
+          163.921,
+          258.203
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 85,
+      "RES_SEQ": 85,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          228.569,
+          164.169,
+          255.077
+        ],
+        "C": [
+          230.011,
+          163.069,
+          253.525
+        ],
+        "CA": [
+          228.577,
+          163.475,
+          253.795
+        ],
+        "O": [
+          230.915,
+          163.902,
+          253.575
+        ],
+        "CB": [
+          228.048,
+          164.37,
+          252.685
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "C",
+      "RES_NAME_3LT": "CYS",
+      "RES_ORDER": 86,
+      "RES_SEQ": 86,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          230.239,
+          161.794,
+          253.234
+        ],
+        "C": [
+          231.448,
+          160.169,
+          251.902
+        ],
+        "CA": [
+          231.563,
+          161.366,
+          252.823
+        ],
+        "O": [
+          230.556,
+          159.339,
+          252.067
+        ],
+        "CB": [
+          232.434,
+          161.019,
+          254.027
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 87,
+      "RES_SEQ": 87,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          232.342,
+          160.078,
+          250.928
+        ],
+        "C": [
+          233.449,
+          157.957,
+          251.172
+        ],
+        "CA": [
+          232.558,
+          158.799,
+          250.277
+        ],
+        "O": [
+          233.906,
+          158.433,
+          252.216
+        ],
+        "CB": [
+          233.196,
+          158.996,
+          248.911
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 88,
+      "RES_SEQ": 88,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          233.704,
+          156.706,
+          250.753
+        ],
+        "C": [
+          234.173,
+          155.48,
+          252.851
+        ],
+        "CA": [
+          234.608,
+          155.774,
+          251.426
+        ],
+        "O": [
+          234.638,
+          156.156,
+          253.777
+        ],
+        "CB": [
+          236.039,
+          156.279,
+          251.445
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 89,
+      "RES_SEQ": 89,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          233.241,
+          154.545,
+          253.032
+        ],
+        "C": [
+          233.513,
+          154.086,
+          255.485
+        ],
+        "CA": [
+          232.569,
+          154.357,
+          254.324
+        ],
+        "O": [
+          234.433,
+          153.271,
+          255.402
+        ],
+        "CB": [
+          231.674,
+          153.144,
+          254.064
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 90,
+      "RES_SEQ": 90,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          233.288,
+          154.818,
+          256.566
+        ],
+        "C": [
+          233.867,
+          153.733,
+          258.625
+        ],
+        "CA": [
+          234.21,
+          154.88,
+          257.689
+        ],
+        "O": [
+          232.731,
+          153.616,
+          259.093
+        ],
+        "CB": [
+          234.134,
+          156.222,
+          258.417
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 91,
+      "RES_SEQ": 91,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          234.848,
+          152.883,
+          258.907
+        ],
+        "C": [
+          234.957,
+          152.363,
+          261.295
+        ],
+        "CA": [
+          234.634,
+          151.842,
+          259.902
+        ],
+        "O": [
+          234.105,
+          152.347,
+          262.19
+        ],
+        "CB": [
+          235.461,
+          150.594,
+          259.556
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "N",
+      "RES_NAME_3LT": "ASN",
+      "RES_ORDER": 92,
+      "RES_SEQ": 92,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          236.179,
+          152.839,
+          261.5
+        ],
+        "C": [
+          236.221,
+          154.805,
+          262.918
+        ],
+        "CA": [
+          236.604,
+          153.34,
+          262.797
+        ],
+        "O": [
+          236.581,
+          155.619,
+          262.063
+        ],
+        "CB": [
+          238.107,
+          153.169,
+          262.993
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "W",
+      "RES_NAME_3LT": "TRP",
+      "RES_ORDER": 93,
+      "RES_SEQ": 93,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          235.501,
+          155.135,
+          263.982
+        ],
+        "C": [
+          235.794,
+          157.389,
+          264.975
+        ],
+        "CA": [
+          234.927,
+          156.46,
+          264.151
+        ],
+        "O": [
+          235.854,
+          158.586,
+          264.688
+        ],
+        "CB": [
+          233.551,
+          156.345,
+          264.797
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 94,
+      "RES_SEQ": 94,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          236.46,
+          156.863,
+          265.999
+        ],
+        "C": [
+          238.574,
+          158.12,
+          266.028
+        ],
+        "CA": [
+          237.341,
+          157.69,
+          266.807
+        ],
+        "O": [
+          239.171,
+          159.156,
+          266.337
+        ],
+        "CB": [
+          237.742,
+          156.927,
+          268.063
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 95,
+      "RES_SEQ": 95,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          238.959,
+          157.354,
+          265.013
+        ],
+        "C": [
+          239.774,
+          158.732,
+          263.121
+        ],
+        "CA": [
+          240.101,
+          157.696,
+          264.183
+        ],
+        "O": [
+          240.68,
+          159.159,
+          262.401
+        ],
+        "CB": [
+          240.658,
+          156.44,
+          263.517
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 96,
+      "RES_SEQ": 96,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          238.517,
+          159.136,
+          262.994
+        ],
+        "C": [
+          237.513,
+          161.393,
+          262.753
+        ],
+        "CA": [
+          238.14,
+          160.194,
+          262.072
+        ],
+        "O": [
+          237.615,
+          162.501,
+          262.23
+        ],
+        "CB": [
+          237.169,
+          159.665,
+          261.011
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 97,
+      "RES_SEQ": 97,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          236.878,
+          161.208,
+          263.901
+        ],
+        "C": [
+          236.896,
+          162.307,
+          266.062
+        ],
+        "CA": [
+          236.302,
+          162.299,
+          264.666
+        ],
+        "O": [
+          237.111,
+          161.25,
+          266.66
+        ],
+        "CB": [
+          234.794,
+          162.17,
+          264.752
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 98,
+      "RES_SEQ": 98,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          237.162,
+          163.5,
+          266.574
+        ],
+        "C": [
+          236.645,
+          163.318,
+          268.947
+        ],
+        "CA": [
+          237.711,
+          163.628,
+          267.91
+        ],
+        "O": [
+          235.446,
+          163.414,
+          268.683
+        ],
+        "CB": [
+          238.249,
+          165.028,
+          268.122
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 99,
+      "RES_SEQ": 99,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          237.099,
+          162.932,
+          270.138
+        ],
+        "C": [
+          235.247,
+          163.494,
+          271.712
+        ],
+        "CA": [
+          236.171,
+          162.417,
+          271.137
+        ],
+        "O": [
+          234.064,
+          163.451,
+          271.371
+        ],
+        "CB": [
+          236.922,
+          161.66,
+          272.242
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 100,
+      "RES_SEQ": 100,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          235.697,
+          164.499,
+          272.491
+        ],
+        "C": [
+          233.774,
+          166.129,
+          272.596
+        ],
+        "CA": [
+          234.735,
+          165.225,
+          273.345
+        ],
+        "O": [
+          232.722,
+          166.465,
+          273.14
+        ],
+        "CB": [
+          235.639,
+          166.035,
+          274.27
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 101,
+      "RES_SEQ": 101,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          234.098,
+          166.527,
+          271.375
+        ],
+        "C": [
+          233.622,
+          166.783,
+          269.064
+        ],
+        "CA": [
+          233.126,
+          167.094,
+          270.46
+        ],
+        "O": [
+          234.828,
+          166.714,
+          268.826
+        ],
+        "CB": [
+          232.927,
+          168.599,
+          270.647
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 102,
+      "RES_SEQ": 102,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          232.689,
+          166.572,
+          268.152
+        ],
+        "C": [
+          233.717,
+          166.943,
+          265.984
+        ],
+        "CA": [
+          233.018,
+          165.942,
+          266.882
+        ],
+        "O": [
+          233.095,
+          167.69,
+          265.229
+        ],
+        "CB": [
+          231.767,
+          165.383,
+          266.238
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "M",
+      "RES_NAME_3LT": "MET",
+      "RES_ORDER": 103,
+      "RES_SEQ": 103,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          235.038,
+          166.96,
+          266.084
+        ],
+        "C": [
+          236.461,
+          166.701,
+          264.158
+        ],
+        "CA": [
+          235.879,
+          167.686,
+          265.153
+        ],
+        "O": [
+          236.987,
+          165.656,
+          264.548
+        ],
+        "CB": [
+          236.996,
+          168.425,
+          265.877
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 104,
+      "RES_SEQ": 104,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          236.351,
+          167.032,
+          262.878
+        ],
+        "C": [
+          238.401,
+          166.295,
+          261.839
+        ],
+        "CA": [
+          236.887,
+          166.178,
+          261.832
+        ],
+        "O": [
+          238.948,
+          167.378,
+          261.61
+        ],
+        "CB": [
+          236.309,
+          166.57,
+          260.474
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 105,
+      "RES_SEQ": 105,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          239.08,
+          165.183,
+          262.109
+        ],
+        "C": [
+          241.129,
+          165.446,
+          260.803
+        ],
+        "CA": [
+          240.532,
+          165.183,
+          262.177
+        ],
+        "O": [
+          240.507,
+          165.183,
+          259.772
+        ],
+        "CB": [
+          241.037,
+          163.852,
+          262.72
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 106,
+      "RES_SEQ": 106,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          242.351,
+          165.98,
+          260.795
+        ],
+        "C": [
+          243.374,
+          165.29,
+          258.643
+        ],
+        "CA": [
+          242.944,
+          166.436,
+          259.544
+        ],
+        "O": [
+          243.632,
+          165.521,
+          257.46
+        ],
+        "CB": [
+          244.133,
+          167.35,
+          259.818
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 107,
+      "RES_SEQ": 107,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          243.462,
+          164.069,
+          259.17
+        ],
+        "C": [
+          242.538,
+          162.655,
+          257.391
+        ],
+        "CA": [
+          243.715,
+          162.916,
+          258.316
+        ],
+        "O": [
+          242.723,
+          162.285,
+          256.227
+        ],
+        "CB": [
+          243.995,
+          161.687,
+          259.172
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "C",
+      "RES_NAME_3LT": "CYS",
+      "RES_ORDER": 108,
+      "RES_SEQ": 108,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          241.325,
+          162.85,
+          257.888
+        ],
+        "C": [
+          239.457,
+          164.059,
+          256.875
+        ],
+        "CA": [
+          240.107,
+          162.704,
+          257.105
+        ],
+        "O": [
+          238.237,
+          164.191,
+          256.917
+        ],
+        "CB": [
+          239.136,
+          161.751,
+          257.79
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Q",
+      "RES_NAME_3LT": "GLN",
+      "RES_ORDER": 109,
+      "RES_SEQ": 109,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          240.281,
+          165.075,
+          256.626
+        ],
+        "C": [
+          238.924,
+          166.692,
+          255.353
+        ],
+        "CA": [
+          239.803,
+          166.45,
+          256.57
+        ],
+        "O": [
+          237.757,
+          167.067,
+          255.483
+        ],
+        "CB": [
+          240.989,
+          167.404,
+          256.561
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "D",
+      "RES_NAME_3LT": "ASP",
+      "RES_ORDER": 110,
+      "RES_SEQ": 110,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          239.467,
+          166.495,
+          254.159
+        ],
+        "C": [
+          237.912,
+          165.379,
+          252.598
+        ],
+        "CA": [
+          238.668,
+          166.645,
+          252.954
+        ],
+        "O": [
+          237.084,
+          165.403,
+          251.682
+        ],
+        "CB": [
+          239.551,
+          167.072,
+          251.783
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "M",
+      "RES_NAME_3LT": "MET",
+      "RES_ORDER": 111,
+      "RES_SEQ": 111,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          238.18,
+          164.284,
+          253.303
+        ],
+        "C": [
+          235.981,
+          163.225,
+          253.61
+        ],
+        "CA": [
+          237.413,
+          163.064,
+          253.135
+        ],
+        "O": [
+          235.082,
+          162.608,
+          253.037
+        ],
+        "CB": [
+          238.092,
+          161.933,
+          253.903
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 112,
+      "RES_SEQ": 112,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          235.751,
+          164.072,
+          254.611
+        ],
+        "C": [
+          233.974,
+          165.57,
+          255.28
+        ],
+        "CA": [
+          234.495,
+          164.144,
+          255.347
+        ],
+        "O": [
+          234.663,
+          166.502,
+          255.705
+        ],
+        "CB": [
+          234.689,
+          163.718,
+          256.807
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 113,
+      "RES_SEQ": 113,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          232.762,
+          165.743,
+          254.77
+        ],
+        "C": [
+          231.007,
+          167.223,
+          255.571
+        ],
+        "CA": [
+          232.164,
+          167.06,
+          254.6
+        ],
+        "O": [
+          230.024,
+          166.484,
+          255.493
+        ],
+        "CB": [
+          231.674,
+          167.252,
+          253.169
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 114,
+      "RES_SEQ": 114,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          231.113,
+          168.199,
+          256.463
+        ],
+        "C": [
+          228.937,
+          169.212,
+          256.796
+        ],
+        "CA": [
+          230.073,
+          168.449,
+          257.453
+        ],
+        "O": [
+          229.166,
+          170.205,
+          256.101
+        ],
+        "CB": [
+          230.631,
+          169.242,
+          258.639
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 115,
+      "RES_SEQ": 115,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          227.707,
+          168.761,
+          257.021
+        ],
+        "C": [
+          225.508,
+          169.657,
+          257.587
+        ],
+        "CA": [
+          226.55,
+          169.475,
+          256.501
+        ],
+        "O": [
+          224.502,
+          170.342,
+          257.384
+        ],
+        "CB": [
+          225.944,
+          168.752,
+          255.292
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 116,
+      "RES_SEQ": 116,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          225.725,
+          169.048,
+          258.736
+        ],
+        "C": [
+          225.517,
+          169.163,
+          261.155
+        ],
+        "CA": [
+          224.794,
+          169.211,
+          259.836
+        ],
+        "O": [
+          226.474,
+          168.409,
+          261.331
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 117,
+      "RES_SEQ": 117,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          225.04,
+          169.954,
+          262.094
+        ],
+        "C": [
+          224.539,
+          169.925,
+          264.437
+        ],
+        "CA": [
+          225.644,
+          170.029,
+          263.405
+        ],
+        "O": [
+          223.352,
+          169.958,
+          264.11
+        ],
+        "CB": [
+          226.421,
+          171.337,
+          263.566
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 118,
+      "RES_SEQ": 118,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          224.923,
+          169.773,
+          265.689
+        ],
+        "C": [
+          224.368,
+          169.414,
+          268.042
+        ],
+        "CA": [
+          223.991,
+          170.089,
+          266.747
+        ],
+        "O": [
+          225.327,
+          168.652,
+          268.123
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 119,
+      "RES_SEQ": 119,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          223.543,
+          169.675,
+          269.047
+        ],
+        "C": [
+          222.605,
+          169.223,
+          271.217
+        ],
+        "CA": [
+          223.881,
+          169.296,
+          270.406
+        ],
+        "O": [
+          221.79,
+          170.144,
+          271.167
+        ],
+        "CB": [
+          224.853,
+          170.311,
+          270.996
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 120,
+      "RES_SEQ": 120,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          222.423,
+          168.123,
+          271.939
+        ],
+        "C": [
+          221.688,
+          167.733,
+          274.187
+        ],
+        "CA": [
+          221.237,
+          167.891,
+          272.749
+        ],
+        "O": [
+          222.308,
+          166.724,
+          274.535
+        ],
+        "CB": [
+          220.467,
+          166.652,
+          272.296
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 121,
+      "RES_SEQ": 121,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          221.366,
+          168.702,
+          275.027
+        ],
+        "C": [
+          220.612,
+          168.268,
+          277.298
+        ],
+        "CA": [
+          221.781,
+          168.68,
+          276.418
+        ],
+        "O": [
+          219.468,
+          168.639,
+          277.035
+        ],
+        "CB": [
+          222.304,
+          170.049,
+          276.839
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 122,
+      "RES_SEQ": 122,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          220.902,
+          167.503,
+          278.342
+        ],
+        "C": [
+          219.86,
+          167.828,
+          280.505
+        ],
+        "CA": [
+          219.877,
+          166.983,
+          279.241
+        ],
+        "O": [
+          220.695,
+          167.652,
+          281.392
+        ],
+        "CB": [
+          220.139,
+          165.522,
+          279.57
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "N",
+      "RES_NAME_3LT": "ASN",
+      "RES_ORDER": 123,
+      "RES_SEQ": 123,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          218.902,
+          168.747,
+          280.587
+        ],
+        "C": [
+          217.507,
+          169.001,
+          282.539
+        ],
+        "CA": [
+          218.702,
+          169.565,
+          281.78
+        ],
+        "O": [
+          216.373,
+          169.457,
+          282.406
+        ],
+        "CB": [
+          218.495,
+          171.023,
+          281.402
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 124,
+      "RES_SEQ": 124,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          217.778,
+          167.989,
+          283.352
+        ],
+        "C": [
+          216.892,
+          167.175,
+          285.527
+        ],
+        "CA": [
+          216.71,
+          167.292,
+          284.032
+        ],
+        "O": [
+          217.023,
+          168.175,
+          286.235
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 125,
+      "RES_SEQ": 125,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          216.904,
+          165.938,
+          286.013
+        ],
+        "C": [
+          218.09,
+          164.842,
+          287.826
+        ],
+        "CA": [
+          216.856,
+          165.64,
+          287.439
+        ],
+        "O": [
+          219.052,
+          164.761,
+          287.059
+        ],
+        "CB": [
+          215.578,
+          164.882,
+          287.833
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 126,
+      "RES_SEQ": 126,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          218.114,
+          164.339,
+          289.058
+        ],
+        "C": [
+          219.326,
+          162.213,
+          288.808
+        ],
+        "CA": [
+          219.256,
+          163.558,
+          289.517
+        ],
+        "O": [
+          220.311,
+          161.907,
+          288.128
+        ],
+        "CB": [
+          219.179,
+          163.367,
+          291.032
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 127,
+      "RES_SEQ": 127,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          218.285,
+          161.397,
+          288.946
+        ],
+        "C": [
+          217.195,
+          159.644,
+          287.534
+        ],
+        "CA": [
+          218.335,
+          160.038,
+          288.449
+        ],
+        "O": [
+          217.067,
+          158.472,
+          287.174
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 128,
+      "RES_SEQ": 128,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          216.358,
+          160.602,
+          287.15
+        ],
+        "C": [
+          215.773,
+          160.662,
+          284.807
+        ],
+        "CA": [
+          215.274,
+          160.345,
+          286.21
+        ],
+        "O": [
+          215.952,
+          161.83,
+          284.455
+        ],
+        "CB": [
+          214.041,
+          161.172,
+          286.559
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "D",
+      "RES_NAME_3LT": "ASP",
+      "RES_ORDER": 129,
+      "RES_SEQ": 129,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          215.984,
+          159.621,
+          284.007
+        ],
+        "C": [
+          215.677,
+          160.431,
+          281.712
+        ],
+        "CA": [
+          216.622,
+          159.775,
+          282.708
+        ],
+        "O": [
+          214.533,
+          160.003,
+          281.548
+        ],
+        "CB": [
+          217.072,
+          158.415,
+          282.194
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "C",
+      "RES_NAME_3LT": "CYS",
+      "RES_ORDER": 130,
+      "RES_SEQ": 130,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          216.161,
+          161.473,
+          281.048
+        ],
+        "C": [
+          215.225,
+          161.484,
+          278.792
+        ],
+        "CA": [
+          215.332,
+          162.219,
+          280.122
+        ],
+        "O": [
+          215.917,
+          160.498,
+          278.537
+        ],
+        "CB": [
+          215.895,
+          163.619,
+          279.914
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 131,
+      "RES_SEQ": 131,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          214.341,
+          161.986,
+          277.933
+        ],
+        "C": [
+          214.019,
+          162.584,
+          275.639
+        ],
+        "CA": [
+          214.117,
+          161.414,
+          276.606
+        ],
+        "O": [
+          212.93,
+          163.102,
+          275.39
+        ],
+        "CB": [
+          212.861,
+          160.565,
+          276.576
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 132,
+      "RES_SEQ": 132,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          215.151,
+          162.992,
+          275.088
+        ],
+        "C": [
+          215.507,
+          163.836,
+          272.838
+        ],
+        "CA": [
+          215.201,
+          164.195,
+          274.279
+        ],
+        "O": [
+          216.19,
+          162.853,
+          272.56
+        ],
+        "CB": [
+          216.245,
+          165.163,
+          274.814
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 133,
+      "RES_SEQ": 133,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          214.994,
+          164.637,
+          271.923
+        ],
+        "C": [
+          215.686,
+          165.499,
+          269.759
+        ],
+        "CA": [
+          215.092,
+          164.328,
+          270.51
+        ],
+        "O": [
+          215.405,
+          166.655,
+          270.077
+        ],
+        "CB": [
+          213.73,
+          164.01,
+          269.926
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 134,
+      "RES_SEQ": 134,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          216.494,
+          165.199,
+          268.755
+        ],
+        "C": [
+          216.297,
+          165.843,
+          266.425
+        ],
+        "CA": [
+          216.865,
+          166.208,
+          267.781
+        ],
+        "O": [
+          216.337,
+          164.683,
+          266.005
+        ],
+        "CB": [
+          218.376,
+          166.429,
+          267.684
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "N",
+      "RES_NAME_3LT": "ASN",
+      "RES_ORDER": 135,
+      "RES_SEQ": 135,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          215.758,
+          166.849,
+          265.761
+        ],
+        "C": [
+          216.105,
+          167.612,
+          263.512
+        ],
+        "CA": [
+          215.257,
+          166.735,
+          264.411
+        ],
+        "O": [
+          216.581,
+          168.671,
+          263.923
+        ],
+        "CB": [
+          213.811,
+          167.159,
+          264.346
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 136,
+      "RES_SEQ": 136,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          216.306,
+          167.157,
+          262.287
+        ],
+        "C": [
+          216.695,
+          167.558,
+          259.954
+        ],
+        "CA": [
+          217.142,
+          167.897,
+          261.36
+        ],
+        "O": [
+          216.602,
+          166.379,
+          259.6
+        ],
+        "CB": [
+          218.614,
+          167.552,
+          261.561
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 137,
+      "RES_SEQ": 137,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          216.41,
+          168.583,
+          259.167
+        ],
+        "C": [
+          217.107,
+          168.877,
+          256.886
+        ],
+        "CA": [
+          215.97,
+          168.419,
+          257.79
+        ],
+        "O": [
+          217.166,
+          170.031,
+          256.466
+        ],
+        "CB": [
+          214.707,
+          169.192,
+          257.53
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 138,
+      "RES_SEQ": 138,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          218.001,
+          167.955,
+          256.584
+        ],
+        "C": [
+          218.775,
+          168.291,
+          254.316
+        ],
+        "CA": [
+          219.174,
+          168.247,
+          255.779
+        ],
+        "O": [
+          218.14,
+          167.363,
+          253.805
+        ],
+        "CB": [
+          220.254,
+          167.192,
+          256.014
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 139,
+      "RES_SEQ": 139,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          219.157,
+          169.361,
+          253.64
+        ],
+        "C": [
+          220.269,
+          169.322,
+          251.525
+        ],
+        "CA": [
+          218.925,
+          169.534,
+          252.213
+        ],
+        "O": [
+          221.112,
+          170.217,
+          251.49
+        ],
+        "CB": [
+          218.34,
+          170.911,
+          251.928
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 140,
+      "RES_SEQ": 140,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          220.471,
+          168.127,
+          250.989
+        ],
+        "C": [
+          221.873,
+          168.369,
+          249.016
+        ],
+        "CA": [
+          221.756,
+          167.769,
+          250.407
+        ],
+        "O": [
+          221.057,
+          168.079,
+          248.137
+        ],
+        "CB": [
+          221.903,
+          166.257,
+          250.347
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 141,
+      "RES_SEQ": 141,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          222.887,
+          169.203,
+          248.816
+        ],
+        "C": [
+          223.648,
+          168.803,
+          246.536
+        ],
+        "CA": [
+          223.088,
+          169.813,
+          247.514
+        ],
+        "O": [
+          224.615,
+          168.095,
+          246.842
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 142,
+      "RES_SEQ": 142,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          223.021,
+          168.723,
+          245.355
+        ],
+        "C": [
+          223.39,
+          166.356,
+          244.662
+        ],
+        "CA": [
+          223.389,
+          167.825,
+          244.251
+        ],
+        "O": [
+          224.171,
+          165.558,
+          244.142
+        ],
+        "CB": [
+          224.736,
+          168.205,
+          243.628
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 143,
+      "RES_SEQ": 143,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          222.528,
+          165.992,
+          245.606
+        ],
+        "C": [
+          223.397,
+          163.894,
+          246.687
+        ],
+        "CA": [
+          222.294,
+          164.602,
+          245.933
+        ],
+        "O": [
+          224.507,
+          164.409,
+          246.83
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 144,
+      "RES_SEQ": 144,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          223.083,
+          162.705,
+          247.192
+        ],
+        "C": [
+          223.712,
+          160.413,
+          247.177
+        ],
+        "CA": [
+          224.063,
+          161.778,
+          247.74
+        ],
+        "O": [
+          222.633,
+          159.883,
+          247.459
+        ],
+        "CB": [
+          224.063,
+          161.745,
+          249.27
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 145,
+      "RES_SEQ": 145,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          224.601,
+          159.849,
+          246.371
+        ],
+        "C": [
+          224.543,
+          157.422,
+          246.655
+        ],
+        "CA": [
+          224.301,
+          158.593,
+          245.712
+        ],
+        "O": [
+          224.888,
+          157.587,
+          247.826
+        ],
+        "CB": [
+          225.132,
+          158.443,
+          244.448
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Q",
+      "RES_NAME_3LT": "GLN",
+      "RES_ORDER": 146,
+      "RES_SEQ": 146,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          224.36,
+          156.216,
+          246.131
+        ],
+        "C": [
+          225.969,
+          154.637,
+          247.142
+        ],
+        "CA": [
+          224.517,
+          155.01,
+          246.927
+        ],
+        "O": [
+          226.254,
+          153.783,
+          247.986
+        ],
+        "CB": [
+          223.779,
+          153.843,
+          246.271
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 147,
+      "RES_SEQ": 147,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          226.886,
+          155.246,
+          246.403
+        ],
+        "C": [
+          228.85,
+          155.982,
+          247.684
+        ],
+        "CA": [
+          228.306,
+          155.037,
+          246.627
+        ],
+        "O": [
+          229.726,
+          155.597,
+          248.464
+        ],
+        "CB": [
+          229.064,
+          155.216,
+          245.322
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Q",
+      "RES_NAME_3LT": "GLN",
+      "RES_ORDER": 148,
+      "RES_SEQ": 148,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          228.343,
+          157.212,
+          247.733
+        ],
+        "C": [
+          227.828,
+          157.551,
+          250.086
+        ],
+        "CA": [
+          228.6,
+          158.06,
+          248.882
+        ],
+        "O": [
+          226.954,
+          156.691,
+          249.984
+        ],
+        "CB": [
+          228.197,
+          159.502,
+          248.612
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "H",
+      "RES_NAME_3LT": "HIS",
+      "RES_ORDER": 149,
+      "RES_SEQ": 149,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          228.151,
+          158.102,
+          251.245
+        ],
+        "C": [
+          227.255,
+          158.929,
+          253.302
+        ],
+        "CA": [
+          227.549,
+          157.685,
+          252.494
+        ],
+        "O": [
+          228.159,
+          159.718,
+          253.595
+        ],
+        "CB": [
+          228.471,
+          156.74,
+          253.258
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 150,
+      "RES_SEQ": 150,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          225.992,
+          159.12,
+          253.622
+        ],
+        "C": [
+          225.563,
+          159.532,
+          255.933
+        ],
+        "CA": [
+          225.585,
+          160.152,
+          254.55
+        ],
+        "O": [
+          224.891,
+          158.522,
+          256.154
+        ],
+        "CB": [
+          224.224,
+          160.704,
+          254.165
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Y",
+      "RES_NAME_3LT": "TYR",
+      "RES_ORDER": 151,
+      "RES_SEQ": 151,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          226.324,
+          160.102,
+          256.847
+        ],
+        "C": [
+          225.905,
+          160.548,
+          259.187
+        ],
+        "CA": [
+          226.471,
+          159.569,
+          258.183
+        ],
+        "O": [
+          225.939,
+          161.761,
+          258.979
+        ],
+        "CB": [
+          227.933,
+          159.328,
+          258.516
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 152,
+      "RES_SEQ": 152,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          225.402,
+          160.016,
+          260.288
+        ],
+        "C": [
+          225.974,
+          160.21,
+          262.583
+        ],
+        "CA": [
+          225.145,
+          160.815,
+          261.469
+        ],
+        "O": [
+          225.823,
+          159.031,
+          262.916
+        ],
+        "CB": [
+          223.653,
+          160.882,
+          261.819
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 153,
+      "RES_SEQ": 153,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          226.896,
+          160.989,
+          263.101
+        ],
+        "C": [
+          227.534,
+          161.323,
+          265.374
+        ],
+        "CA": [
+          227.816,
+          160.519,
+          264.117
+        ],
+        "O": [
+          227.047,
+          162.451,
+          265.302
+        ],
+        "CB": [
+          229.271,
+          160.648,
+          263.612
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "M",
+      "RES_NAME_3LT": "MET",
+      "RES_ORDER": 154,
+      "RES_SEQ": 154,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          227.744,
+          160.712,
+          266.529
+        ],
+        "C": [
+          228.364,
+          160.949,
+          268.861
+        ],
+        "CA": [
+          227.398,
+          161.37,
+          267.773
+        ],
+        "O": [
+          228.75,
+          159.783,
+          268.946
+        ],
+        "CB": [
+          225.967,
+          161.043,
+          268.18
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Y",
+      "RES_NAME_3LT": "TYR",
+      "RES_ORDER": 155,
+      "RES_SEQ": 155,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          228.767,
+          161.915,
+          269.668
+        ],
+        "C": [
+          228.547,
+          161.945,
+          272.041
+        ],
+        "CA": [
+          229.496,
+          161.672,
+          270.899
+        ],
+        "O": [
+          228.028,
+          163.056,
+          272.161
+        ],
+        "CB": [
+          230.716,
+          162.574,
+          271.017
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 156,
+      "RES_SEQ": 156,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          228.343,
+          160.96,
+          272.886
+        ],
+        "C": [
+          228.438,
+          161.296,
+          275.273
+        ],
+        "CA": [
+          227.531,
+          161.156,
+          274.065
+        ],
+        "O": [
+          229.661,
+          161.295,
+          275.165
+        ],
+        "CB": [
+          226.563,
+          159.999,
+          274.221
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 157,
+      "RES_SEQ": 157,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          227.833,
+          161.43,
+          276.441
+        ],
+        "C": [
+          228.053,
+          160.474,
+          278.696
+        ],
+        "CA": [
+          228.595,
+          161.45,
+          277.672
+        ],
+        "O": [
+          228.545,
+          160.448,
+          279.827
+        ],
+        "CB": [
+          228.63,
+          162.861,
+          278.256
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 158,
+      "RES_SEQ": 158,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          227.054,
+          159.682,
+          278.333
+        ],
+        "C": [
+          226.061,
+          157.519,
+          278.161
+        ],
+        "CA": [
+          226.62,
+          158.549,
+          279.125
+        ],
+        "O": [
+          226.037,
+          157.732,
+          276.948
+        ],
+        "CB": [
+          225.596,
+          158.963,
+          280.179
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 159,
+      "RES_SEQ": 159,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          225.629,
+          156.39,
+          278.7
+        ],
+        "C": [
+          223.639,
+          155.834,
+          277.443
+        ],
+        "CA": [
+          225.02,
+          155.366,
+          277.867
+        ],
+        "O": [
+          222.755,
+          156.019,
+          278.284
+        ],
+        "CB": [
+          224.937,
+          154.043,
+          278.621
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 160,
+      "RES_SEQ": 160,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          223.457,
+          156.045,
+          276.146
+        ],
+        "C": [
+          221.548,
+          155.448,
+          274.783
+        ],
+        "CA": [
+          222.202,
+          156.542,
+          275.616
+        ],
+        "O": [
+          222.173,
+          154.452,
+          274.413
+        ],
+        "CB": [
+          222.391,
+          157.822,
+          274.795
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 161,
+      "RES_SEQ": 161,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          220.268,
+          155.659,
+          274.472
+        ],
+        "C": [
+          218.772,
+          155.182,
+          272.594
+        ],
+        "CA": [
+          219.403,
+          154.643,
+          273.878
+        ],
+        "O": [
+          217.55,
+          155.242,
+          272.483
+        ],
+        "CB": [
+          218.301,
+          154.196,
+          274.836
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 162,
+      "RES_SEQ": 162,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          219.613,
+          155.641,
+          271.66
+        ],
+        "C": [
+          218.254,
+          155.409,
+          269.596
+        ],
+        "CA": [
+          219.143,
+          156.306,
+          270.445
+        ],
+        "O": [
+          218.517,
+          154.219,
+          269.426
+        ],
+        "CB": [
+          220.322,
+          156.742,
+          269.589
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 163,
+      "RES_SEQ": 163,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          217.186,
+          155.997,
+          269.07
+        ],
+        "C": [
+          216.167,
+          155.993,
+          266.896
+        ],
+        "CA": [
+          216.211,
+          155.298,
+          268.244
+        ],
+        "O": [
+          215.083,
+          156.249,
+          266.364
+        ],
+        "CB": [
+          214.811,
+          155.246,
+          268.88
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 164,
+      "RES_SEQ": 164,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          217.34,
+          156.366,
+          266.382
+        ],
+        "C": [
+          216.801,
+          156.802,
+          263.998
+        ],
+        "CA": [
+          217.488,
+          157.287,
+          265.261
+        ],
+        "O": [
+          217.246,
+          155.836,
+          263.386
+        ],
+        "CB": [
+          218.973,
+          157.496,
+          264.965
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 165,
+      "RES_SEQ": 165,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          215.723,
+          157.457,
+          263.595
+        ],
+        "C": [
+          215.1,
+          158.346,
+          261.427
+        ],
+        "CA": [
+          215.082,
+          157.135,
+          262.335
+        ],
+        "O": [
+          215.33,
+          159.476,
+          261.863
+        ],
+        "CB": [
+          213.651,
+          156.659,
+          262.521
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "H",
+      "RES_NAME_3LT": "HIS",
+      "RES_ORDER": 166,
+      "RES_SEQ": 166,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          214.853,
+          158.09,
+          260.151
+        ],
+        "C": [
+          214.299,
+          158.787,
+          257.898
+        ],
+        "CA": [
+          215.09,
+          159.109,
+          259.149
+        ],
+        "O": [
+          214.252,
+          157.637,
+          257.454
+        ],
+        "CB": [
+          216.575,
+          159.201,
+          258.822
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 167,
+      "RES_SEQ": 167,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          213.694,
+          159.82,
+          257.345
+        ],
+        "C": [
+          213.834,
+          160.374,
+          255.024
+        ],
+        "CA": [
+          212.952,
+          159.763,
+          256.1
+        ],
+        "O": [
+          214.038,
+          161.59,
+          255.002
+        ],
+        "CB": [
+          211.643,
+          160.527,
+          256.251
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 168,
+      "RES_SEQ": 168,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          214.379,
+          159.541,
+          254.161
+        ],
+        "C": [
+          214.317,
+          160.185,
+          251.831
+        ],
+        "CA": [
+          215.193,
+          160.032,
+          253.066
+        ],
+        "O": [
+          213.278,
+          159.541,
+          251.684
+        ],
+        "CB": [
+          216.407,
+          159.127,
+          252.793
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Y",
+      "RES_NAME_3LT": "TYR",
+      "RES_ORDER": 169,
+      "RES_SEQ": 169,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          214.759,
+          161.05,
+          250.928
+        ],
+        "C": [
+          214.546,
+          161.18,
+          248.496
+        ],
+        "CA": [
+          213.945,
+          161.561,
+          249.838
+        ],
+        "O": [
+          214.775,
+          162.046,
+          247.649
+        ],
+        "CB": [
+          213.823,
+          163.077,
+          249.94
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 170,
+      "RES_SEQ": 170,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          214.83,
+          159.891,
+          248.316
+        ],
+        "C": [
+          215.018,
+          159.605,
+          245.88
+        ],
+        "CA": [
+          215.698,
+          159.448,
+          247.234
+        ],
+        "O": [
+          213.799,
+          159.762,
+          245.77
+        ],
+        "CB": [
+          216.119,
+          157.994,
+          247.469
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 171,
+      "RES_SEQ": 171,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          215.835,
+          159.558,
+          244.832
+        ],
+        "C": [
+          215.021,
+          158.42,
+          242.784
+        ],
+        "CA": [
+          215.382,
+          159.729,
+          243.462
+        ],
+        "O": [
+          214.87,
+          158.398,
+          241.561
+        ],
+        "CB": [
+          216.45,
+          160.437,
+          242.639
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 172,
+      "RES_SEQ": 172,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          214.885,
+          157.336,
+          243.533
+        ],
+        "C": [
+          213.367,
+          155.473,
+          243.857
+        ],
+        "CA": [
+          214.437,
+          156.077,
+          242.96
+        ],
+        "O": [
+          212.204,
+          155.868,
+          243.801
+        ],
+        "CB": [
+          215.61,
+          155.109,
+          242.754
+        ]
+      }
+    }
+  ],
+  "STRUCTURES": null
+}

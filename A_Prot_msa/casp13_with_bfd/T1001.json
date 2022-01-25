@@ -1,0 +1,6896 @@
+{
+  "UID": "T1001",
+  "CHAIN_ID": "A",
+  "UNP": null,
+  "SEQUENCE1": "SISTRIGEYRSAQSKEDLIQKYLNQLPGSLCVFFKFLPSVRSFVATHASGIPGSDIQGVGVQLESNDMKELSSQMAIGLLPPRFTEMLVEAFHFSPPKALPLYAHNALEGVFVYSGQLPAEEVARMNEEFTLLSLCYSHF",
+  "SEQUENCE2": "-ISTRIGEYRSAQSKEDLIQKYLNQLPGSLCVFFKFLPSVRSFVATHASGIPGSDIQGVGVQLESNDMKELSSQMAIGLLPPRFTEMLVEAFHFSPPKALPLYAHNALEGVFVYSGQLPAEEVARMNEEFTLLSLCYSHF",
+  "DOMAINS": {
+    "D1": {
+      "method": "CASP",
+      "positions": "2-140"
+    }
+  },
+  "MSA": {
+    "msa_transformer_bfd.div_min": {
+      "e_val": "1e-3",
+      "subsampling": "div_min",
+      "coverage": 30,
+      "n_seq": 134,
+      "raw_n_seq": 134,
+      "filtered_n_seq": 134,
+      "selected_n_seq": 134,
+      "sequences": [
+        [
+          "T1001",
+          "SISTRIGEYRSAQSKEDLIQKYLNQLPGSLCVFFKFLPSVRSFVATHASGIPGSDIQGVGVQLESNDMKELSSQMAIGLLPPRFTEMLVEAFHFSPPKALPLYAHNALEGVFVYSGQLPAEEVARMNEEFTLLSLCYSHF",
+          0
+        ],
+        [
+          "ERR1043165_5113725",
+          "TLIEKAKAYENLATKDEFISAFLRRIS-CQAIYFKYLPSVSSFVAVTGHGIDIEQIK-----------------------------------------------------------------------------------",
+          1
+        ],
+        [
+          "ADurb_Cas_01_Slu_FD_contig_21_1830766_length_419_multi_5_in_0_out_0_1",
+          "SLTEKANAYEDLTTKDEYLSAFLLRIP-CRAIYFKFLPSVNSFVAVSGHGIDIESIKGIGARMSPDESKDTLQFLQKGALPESLREIIVEGLKISQYLVKPVPLYRSLDGLFVFWGDE-GFDYREIENEFVLFHLFLQ--",
+          2
+        ],
+        [
+          "LakMenE01Jun11ns_1017448.scaffolds.fasta_scaffold6525617_1",
+          "SISEVVNDYRIAESKEDIIRMLFQNLTDMPLLFFKFLPSMNSFVMSHASMPNHQIHEGLGSALNPEETKDLIKQILMNIVPATFNQVILNMFAFQRPSMIPLFDRENLEGVFVFDQESA---------------------",
+          3
+        ],
+        [
+          "tr|A0A2H0WE95|A0A2H0WE95_9PROT",
+          "SIGQKIQLYSAATTKDEVLIHFINQLS-CQAIYFKYLPTVQSFVATHSHGLDIEAIKGVGTRLEATETAHLLDLLKSGEIPPALAELMKEGLRIGQYFPKPVIVLTGLDGLFIFWGAE-GFHFQQIESDFLIFSLLYQ--",
+          4
+        ],
+        [
+          "SRR5690606_970001",
+          "QLTLRLADYRSAESKEDLIQRFLNNLQGLPCVFFKYLPSVKSFMATHASGFDSAMIQGVGCQLDSQEQKELGGQ------------------------------------------------------------------",
+          5
+        ],
+        [
+          "OM-RGC.v1.009421480",
+          "PYQTRIADYKLAESKEELLNTFYRNTPDQTWIYLKYIESIQTFMGISSHLAPESWVEGLSFKIPRGQ-SEFNQTIARGGLPKDFLNYLTEKFDTARIKTLPILLRDKVDGLLVTTQEIP----IEVSEDFSLFSVIYALI",
+          6
+        ],
+        [
+          "GraSoiStandDraft_34_1057297.scaffolds.fasta_scaffold2982522_1",
+          "PYQLRIAEYKSATSKEDLLNVFYNQTPTQSWIYLKFVPSIETFICVSYSQVPEDWVEGLSYKVATKDRDNFMSKLFSGALPPNLGNYLKNKFGTDRIKFLPMIIRDKIEGILISTQEIS----AEVAEDFSLMSLVYTLL",
+          7
+        ],
+        [
+          "SRR5688500_4921090",
+          "PLSNRLAAYQSAETKESLLQNFFDATGVQPLVYFRFLPSVSSFVATQASGFEPGETQGVGCQIDGVSTKDLGTQVTLGMVPPVLKDVIQKSFKISNPRLHPLYCSGQLDGLLV---------------------------",
+          8
+        ],
+        [
+          "SRR5688572_21668447",
+          "PLSARLAAYQSAESRETLIRSFFESVNIKPIVFFRFLSTVSSFVATQASGFEPKSFQGVGCQLGGLTMKDLGTQISLGMVPVALQKEIQKAFHISHPRLHPLYVSG----------------------------------",
+          9
+        ],
+        [
+          "SRR6185312_16901683",
+          "PISAKIAFYKACVNKDEVVLAFFRRLS-CKAIFFKYLPTVNSFVALSAQGVDVEDIKGVGSRLEPSESKELPTQLREGVLPQALVQILKEGLHVSRFEWKPLLV-NWVEGVLVFWGDE-KFQFASIENEFLIFDLIYQ--",
+          10
+        ],
+        [
+          "SRR5689334_12987019",
+          "PFQTRIAEYRLAESKEDLLQKFFRQTPAQSWAFLKYVKSINSYILVSSQNMPESWIQGLSYKIPNVE-ADFNQKLMLGEFXX----------------------------------------------------------",
+          11
+        ],
+        [
+          "tr|M4V9W5|M4V9W5_9PROT",
+          "PFQTRIAEYRAAESKEELVQMFFRQTASQSWAFLKYVSSIQTYISVSSQNMPDEWVEGLSYKIPSSQ-SDFNDKILLGEYPESFLQYIKAKWGVDTLKVMPLLLKNEIEGLLITPQDIS----AEVAEDFSLMSLVYNLI",
+          12
+        ],
+        [
+          "tr|A0A1F3TYA3|A0A1F3TYA3_9PROT",
+          "PFQMRIAEYKMSESKEELLQKFYQQSPKQSWVFLKYIKSIQTYISVSHQNMEPSWVEGLSFKIPT-DVQEFNSRVFVGDFPDSLISYIKTKWDVSNLKILPLTFKDEIEGLLISTQDI----SADVAEDFSLMSLVYQLM",
+          13
+        ],
+        [
+          "GraSoiStandDraft_59_1057299.scaffolds.fasta_scaffold1093438_1",
+          "NFNDEIKKYRKAANKEEVIADFLKDLNQLFAIFFKYLPSVYSFVSLQSLGLDVESLKGVGFRLTPEEARQPAELFAEGKMPSQLTQLLQEGLKVPSPLVCPVLVQGKPEGYFCFWTNSGGLSLESIANELSLFQVLFE--",
+          14
+        ],
+        [
+          "SRR3990167_7074582",
+          "LVSNRVADYRSSQSKEEVLKKYFERLDTVPAVCFKYLSSVRSFVAAHAAGF-----------------------------------------------------------------------------------------",
+          15
+        ],
+        [
+          "tr|A0A0B8X2D0|A0A0B8X2D0_9PROT",
+          "KVSMRITDYRSAQSKEDLIQKYLNHLPNSLCIFFKFLPSVRSFVATHAQGIPASDIQGVGVQLESSDVKDLTTQMAMGLLPARFNEMLVEAFHLSPPKALPLYAHHALEGVFVYSGSISAAESAQLAEEFSLLSICYSAF",
+          16
+        ],
+        [
+          "tr|A0A150WNL5|A0A150WNL5_BDEBC",
+          "FISPRIGDYRSAQSKEDMVQKYLNNLPQMVCLFFKFLPTVRSFVATHATGIPASDIQGVGVQLDSADMKELNSQMAMGLLPSRFMDMLTEAFHFRPPKALPLYAHNNLEGVFVYSGEVNKQLSTAMTEEFSLMSLCYSNL",
+          17
+        ],
+        [
+          "tr|W5X8S8|W5X8S8_BDEBC",
+          "AISSRIATYKVAESKEDMLHKFLQHIPKTLCIYFKYLPSVRSFVATHGWGIPNSDIQGVGVQLEAEDMRTLSERVTMGQLPERFSKMLKEAFGFNPPKALPLYAYHSLEGVFVFSGSLDAKYVAEINEEFTLLSLCYSNF",
+          18
+        ],
+        [
+          "tr|A0A258W715|A0A258W715_9PROT",
+          "AISEVINDYRIAESKEDIIRMLFQNLSNLPLLFFKFLPSMNSFVMSHASMPNHQVYEGLGSALNPEETKDLVKQILLNIVPASFNQVISNMFMFQRPSMIPLFDRENLEGVFVFDQESANSLIDQMQDYVSATSLYYSLY",
+          19
+        ],
+        [
+          "tr|A0A254Q9U7|A0A254Q9U7_9PROT",
+          "AFPMRIADYRSAQSKEDMIQRFLNGISGSRCLFFKFLPSVRSFVATHANGIDAAQIQGVGSQLTSDEMKDLGSLLAMGLIPEKFSSMLVEAFHLNPPKAIPVYANAHLEGLFVYSGGMDKKAIEQLNDEYTLFNLCYSHF",
+          20
+        ],
+        [
+          "tr|A0A1W9HIJ5|A0A1W9HIJ5_9PROT",
+          "-FSGLMNSLAKCHSVEDAIQDWLNKINDTPTVFFRYIPNHSHLVLSQCAGLDLQKVRGIGVPLAGLSLKEQKYFYSHVRFLANLRDLVKGAFNVSEFEFRELVTDKAVLGLCVIFKNLKNESEKRFFNSIELLNLVAS--",
+          21
+        ],
+        [
+          "tr|A0A1F3SXH7|A0A1F3SXH7_9DELT",
+          "-FNIWLKGIELVASREQLNRLWLQEAVANKAIFMRYNPTKKTLIVAETIGFDDFEISDIGVDLLEKE-PGFGEMLHSPENLYALREFVEKGLCCESAFYFPHVYKGKVLGVFIIPFVDAQNEFSYLGACLHSLHRQYEH-",
+          22
+        ],
+        [
+          "SRR5690606_12544440",
+          "--SVWLKESQKINDRAGAIENALKEISSKCAFFMKFIESSSALVVX----------------------------------------------------------------------------------------------",
+          23
+        ],
+        [
+          "SRR5436190_19749662",
+          "--SIWVRELFRRTDSSAGLTHLMKELSGGEVIFFKFIQNRSTLVAEHSVGLEMRLLENVGIDLKSTE-VDFNDHLLRPQNLKGLHELIQQG-------------------------------------------------",
+          24
+        ],
+        [
+          "SRR6185437_8770678",
+          "--QVWLKELEMCQNKEDVVNLFLREAVTKEGLYFRYLDLHRTLALAQTFGIERNDLDGVGIDLAALE-PGFLPQLSKPHLLFSLQEFVKKX-------------------------------------------------",
+          25
+        ],
+        [
+          "SRR5580692_6585128",
+          "--QVWLKELDLCKSRETATKVFLREAVVGEGLFFRYREIHQTLALADSVGVSGPEFEGVGIDLAAQE-PGFVPLLTKP--------------------------------------------------------------",
+          26
+        ],
+        [
+          "SRR5690606_31580748",
+          "--EMWLRHLSANKTATSCLDSTAKELFSGIVLYMRYSESHSTLVVEVAHGLDGSMVTDVGIDLSVTE-PGFEPMLQSPQNLLGLKNFVKX--------------------------------------------------",
+          27
+        ],
+        [
+          "SRR5690606_12007987",
+          "--EIWFNELFRKNEPEAGVDHFMREVSGAEVIFFKYVSARATLVAEKSTGLEMRLLENVGIDLKSTE-PGFTEALLKPHLLNGLSELVKKG-------------------------------------------------",
+          28
+        ],
+        [
+          "SRR5690606_9379065",
+          "--------YNSLQSKSP-YVTFFKSVSTDVLCYLQYLPARHVLIARG--GKGLESFDKLGVNLSL-D-KKFDVKLFQSQNYDLIHDFVEGAFERPYFLSQMVG-------------------------------------",
+          29
+        ],
+        [
+          "SRR6187399_1448697",
+          "--------LDKCETRDQAIALWMRDAATQEALYFRFIENKNVLALVNSVGFKASELQNIGLDL-EEE-PGFEQMLLHPERMLIMKDFLRGGLLRKQALFQPLVFAGRVQGVFLLPALQGTLNNSYLQTTLLMLTRH----",
+          30
+        ],
+        [
+          "SaaInlStandDraft_5_1057022.scaffolds.fasta_scaffold417630_1",
+          "--------FRSLQSKNP-YDSFFKGVRTDVICYLQYLPARHVLIARG--GKGLSSFENLGVNLAL-D-KSFDHKLVQSQSYDLLHDFVEGALERPYFISQTVGTKEDPQGVLLLASYRPLETKDFNPDWTDAILLI----",
+          31
+        ],
+        [
+          "LauGreSBDMM110SN_4_FD.fasta_scaffold2595078_1",
+          "--------FQVLKQKDP-YKGLLQSLQEDVLCFLQYHSARHVLVVRA--GVGDMNFENLGIPLSQ-D-KKFDLRMKNPNGFELLKQFVNEALEKSSFFAYPVFVNEDPLGLLVLSSNRSLSAKDFPMEWVEALELI----",
+          32
+        ],
+        [
+          "SRR5690349_9341614",
+          "---------EKATNRDELVQIWMKEAASQKAVFLRYIESKKSLVATAAIGLSVENIQGVGVDLLAQE-AGFEPLLRRPRLMRSLNDFALRGLQAQQAAFYTIEHNDVILGVVILPIPKDQLESAYLKSCLHVLRRQ----",
+          33
+        ],
+        [
+          "SRR5438132_4141611",
+          "----------TRHTGTECIQDFLAFGSDCSALYLRFLPLRKILTAAQAHNVLA---------------------------------------------------------------------------------------",
+          34
+        ],
+        [
+          "SRR6185436_12399091",
+          "----------TRGSVAECVHEYLQFGSDCGAIYLRFFPM-----------------------------------------------------------------------------------------------------",
+          35
+        ],
+        [
+          "GraSoiStandDraft_48_1057284.scaffolds.fasta_scaffold4659588_1",
+          "----------NLNTLDEFIVSYLKFLSNTEVIFFKYLVNHRSIVATFSVHEELSKIGNLGVRLTEEETPLTVGMLDDPEQIPSLHELLRNGFKASAYHVQKLKLEDEYLGFFVIFSDDESLRLQYKLECLH---------",
+          36
+        ],
+        [
+          "GraSoiStandDraft_26_1057304.scaffolds.fasta_scaffold323373_1",
+          "----------KCQSKDDYVLAFLKQLS-CNAIFFKFLPTVSSFVATAAQGLDIETMKGVGSRMSLDESKDVKAFLSSGQVPQALNELMTDGMKVPQFYSHLVSVPQGPEGLLVFWDGQ-RSGPPAIEDDFLIFQLLYQ--",
+          37
+        ],
+        [
+          "tr|A0A2E3WTP0|A0A2E3WTP0_9PROT",
+          "----------HLHTMDEFIVSQLKFLSNTEVIFFKYLRNHRSITAAFSVHEDLSKLGNLGIRLAQEETPLGVTMLETPSTIPSLKELIKNVFKASSFKCHPITIEGDILGFYAILTDTQEMSEKFKLECLH---------",
+          38
+        ],
+        [
+          "SRR6185312_1616920",
+          "----------AYPTVDECIRIFLQQGSGAPGIYFRYVSNRRVLMATHSENVQG---------------------------------------------------------------------------------------",
+          39
+        ],
+        [
+          "SRR5437879_810129",
+          "----------AQTTVDECLHVFLNSVADCPAVYFKYIQNRRVLLAAHGENLNE---------------------------------------------------------------------------------------",
+          40
+        ],
+        [
+          "APDOM4702015073_1054812.scaffolds.fasta_scaffold401240_1",
+          "----------AARSIDDAIRIFMQNVSAAPAAYFKNIANRRVLAAADGINL-----------------------------------------------------------------------------------------",
+          41
+        ],
+        [
+          "ERR1044072_5439611",
+          "-----------LTNGDACVELFLRSASSCAAVYFRYISNRRVLMASASANLDGTDLNGLGVDFNGAG-SQFKSQLRDPMGIKELTEMVPEVFGTAEFFAYPVEALGEVLGVALFMRADPGALSALTADWLMLLNRALSLL",
+          42
+        ],
+        [
+          "SRR4051812_21293789",
+          "-----------HNTLDECVRVFLESASGRAGIYFKYIANRRVLMASLSNGVQDVELKGVGINFNETA-PGFRTQLRDPMSVTQFGDMIREVFSISEYLAWPVEVMGELQGLVCFLAPMP---------------------",
+          43
+        ],
+        [
+          "ERR1044072_442932",
+          "------------TSTAARIQEFLDFGANCSAVYLRFFPMRRVLSAVGGHNLPAEQWRGVGVDLSQ-D-PEFRWMLREPQSVGAIREMV----------------------------------------------------",
+          44
+        ],
+        [
+          "SRR5262249_25364060",
+          "------------TGVHECIQDFLEFGSDCGVLYLKSLPLRKILSATH--GHRIENWKGIGVNLADE--SHFTWALHEPQNVTAIREMVKEIYGRMDFQAFSFKIAKEANGIAIFLAHRP---------------------",
+          45
+        ],
+        [
+          "SRR4051812_49329985",
+          "------------TDPAVCTQALLQYGSNCGAVYLRFLPLRKVLTSVQGHNLPEEQWRGVGVDMSD-D-PDFHWMLREPHSVGQIREMVREIFGRADFQALPVEIAKEVSGVAIYFSDHPPEALE----------------",
+          46
+        ],
+        [
+          "SRR5262249_37326038",
+          "------------TAVADCIQDFLTFGSDCGAVYLRFIPLRKILIASQAHNVLATLWKGVGVDLSN-D-NEFHWMLREPHSVSAIREMVTEVFSRADFQALSVEVAKEISGIAIFFGGKPPESLE----------------",
+          47
+        ],
+        [
+          "SRR3974390_986782",
+          "------------NNVTECIQDFLAFGSDCGAIYLRFLPLRKILTASQSHNVLANQWKGIGIDLSE-D-PEFRWMLREPQSIPSIREMVSEVFQRHDFQALTLEIAKEIAGVAIFFGGKVPESIE----------------",
+          48
+        ],
+        [
+          "APAga8741243762_1050094.scaffolds.fasta_scaffold193546_1",
+          "---------------TQVVDIFLKQSADASILFLKHLPSYRSLSVSQAHNVDPQKVRGAGISFKELSQQDYIQRISSIADAPELAEMLVQVFQKSEYVVFPLSIENQLAGAFVFLEEIHDMQSLRLLESF----------",
+          49
+        ],
+        [
+          "SRR5690606_4281813",
+          "---------------SETIQIFLDNVSNKRVIFLRYLPAYYSLMVSHAAKISVEELKKTGINLKDIEPKTLMETLKDPQTMAKLSELMSQVFNVTEYLAVPVEX------------------------------------",
+          50
+        ],
+        [
+          "SRR5882757_5360740",
+          "---------------SDTVQTFVDQTSNAPCLYLTNFPAYLSLVITNCALMDKEKIKNVGLNLKDHPKEIYDSFSRDPNSSALLKKLLLDVFKVE---------------------------------------------",
+          51
+        ],
+        [
+          "SRR5690606_24916142",
+          "---------------GETLQVFLDNVSDKRVIFLRYLPAYYX--------------------------------------------------------------------------------------------------",
+          52
+        ],
+        [
+          "SRR5687768_761871",
+          "---------------EGVMQVFLDSVSGKPTILFRFLPAYTSLVAGQASHISADQIKNLGINLSNYD-------------------------------------------------------------------------",
+          53
+        ],
+        [
+          "ERR1039457_779980",
+          "---------------EGVIKVLLESFSHKPAIFFRFLPSHMSLIAANSVKIPFEPIKNVGLNLSRFDPKNLLELLAEPEKIQPLRDLMREVFKVDDFYAVPFVHQYQPRGVICTFEPIKDEGIRRLAES-----------",
+          54
+        ],
+        [
+          "SRR5437868_14366684",
+          "---------------EEVLQKYFERLDKVQAVYFKYLSSVRSFVATHAAGFTSQQIQGVGCQLEGADLESLNTQIAVGLLPPIVMEMLQKVFNIQTSRVLPLFVQGQLDGVVVYSCGLGKADTLRVGEEFSLFALCYSYF",
+          55
+        ],
+        [
+          "SRR5687768_17488401",
+          "---------------DTVIQVYLEHTSNKPIIFFTHLSSYLSLLVSHVVGFEREALRNVGVNLKTVDSKEYMNLLKEPMKLDLLKNLIGQVFKTDKYFAFPIEEENAVSGVVVILDEV----------------------",
+          56
+        ],
+        [
+          "SRR5690349_10356812",
+          "---------------DTTIQTMLDQTTQLPCIFLTHLPAYMS--------------------------------------------------------------------------------------------------",
+          57
+        ],
+        [
+          "SaaInlV_100m_DNA_2_1039680.scaffolds.fasta_scaffold240285_1",
+          "---------------DQVLDTFLQHTSGEKVVYFKHLPAYTSLLLYKAAGLNIEDHKGVGVSLKNIDPKDYNAAVAKPQEMEDLKAMAREVFGFDKILASPLISENQVAGIIL-LQDIEEASHRRVYDNF----------",
+          58
+        ],
+        [
+          "SRR5690606_33211237",
+          "---------------DQVIQVYLDQVSKKPVIFLSHISAYLSLAVTHSAQVNKETLKNIGISLKDLDTKVYIETLMNPMSFSDLQSLMTDFFKTSDYFAIPIEEDNTVAGIVVVFDALKDVPTRRLFDSX----------",
+          59
+        ],
+        [
+          "SRR6266550_865056",
+          "----------------SVTQTLLSALSEKPVLFFKFLPAYNSLVVSQASKIPIEGIKTLGVHMEKYELKEIPLLLREPQRIAELKELMGEVFKAPK--------------------------------------------",
+          60
+        ],
+        [
+          "SRR5690242_6440774",
+          "----------------HVLQMLLDAISNRPVIFFKYLPAYSSLVTSHASKIPVEQLKNIGINLSQVEATKIPELLLQPTNIPGLAELMKEVFQTPVYQAIP---------------------------------------",
+          61
+        ],
+        [
+          "ERR1700723_3597550",
+          "----------------GVIQTLLAALSEKPVLYFKYLPAYNNLAISLLSKIRIDGIKTVGITLEKYDLKEIPNRMMEPEENTQLNVFWAEVFKAAKYYATG---------------------------------------",
+          62
+        ],
+        [
+          "ERR1700722_17378775",
+          "----------------DCVQEFLEFGSSSGAVYLRFLPLRKLLSAAQAHGLPDAQWKGVGGDLNR-D-PNFTSMLRQPQTVPHIREMCAEIFHRKDFQAVSVELAHEVSGVAIFFGQQIPEQLQ----------------",
+          63
+        ],
+        [
+          "SRR4051794_15663771",
+          "-----------------CIQVFLNSAGGCPAVFFRYMQNRRVILAAFGVELGEIEIKGLGMNFNETA-PGFRTQLRDPLRIDAFVEMVKEVFSVENFSAWPVRALGEIQGVACFMAATPRAMNDILLEWLGLLEKAVSLV",
+          64
+        ],
+        [
+          "SRR4051812_36862439",
+          "-----------------CIDAFLNDV-GAPGVFFRYLPNRRTLIVANAYGLEPDATKGVGLNLNDEI-SNFKTMLREPRELNAFRRMVEDVFHTTNFATRLLEQGDDVAGIFVFPEHDQ--SDADLDDRLLLLDRAVGLL",
+          65
+        ],
+        [
+          "SRR3954468_21992567",
+          "------------------------QIQNTPAVYFKYVPHYLSLVLSQSAWLPIEKIKGIGVELKSLDPRKLPDHFHDPSTIPQLQSLLKEAFRVENFTALTHYNEHEIVGMFVIFDPLKEMTAQAIQTCLGIFELAY---",
+          66
+        ],
+        [
+          "SRR5262249_28175831",
+          "--------------------------GSTPAIYFRYVQNRRVLLAGLHEQLPDVDMSGLGMDLNEAQ-AGFRTQLREPMRIDPFVAMIKEVFEVPDFFAWPVRAMGEILGVVCFLTPPPQVLFDLLQDWLTLLDKAVSLL",
+          67
+        ],
+        [
+          "SRR4051812_47451822",
+          "---------------------------QQSWAFLKFVKSINSYILVSSQNMPESWIQGVSYKIPSSE-PDFNKKVILGDFSAGFLNYLKRKWEVEIVKVLPLALKDEVEGLLVTTQDIS----SEVAEDFSLASLMYNLI",
+          68
+        ],
+        [
+          "SRR5579863_6682784",
+          "---------------------------DCGALYLRYLPLRKILTASQAQNVVATLWKGVGVDLGE-D-PDFHWMLRDPQSITTIREMVSQVFGRADFQALTVEIAKEIGGIAIFFGGKPPEALE----------------",
+          69
+        ],
+        [
+          "ERR1700683_258016",
+          "-----------------------------GAIYFRFLSLRKVLLQAH--GVLPEQWKGLGIDLNEN--RNFHWMLRDPQSLAPIREMVKEVFGRSDFQTYPLEIAKEIAGVVVFFGHTP---------------------",
+          70
+        ],
+        [
+          "SRR4051812_27576845",
+          "------------------------------AVYFRYVANRRVLLASASERLENVDLRGLGIDLNAEA-EGFRTQLREPMRIASLTAMVREVFQIEHFFALPIRALGEIQGVMFFFAPSPPGLNEILIEWTTLLEKALSLV",
+          71
+        ],
+        [
+          "SRR5690242_3743987",
+          "-------------------------------VYFRYIQNRRVLLAAYGEGLGETDLRGLGLDLNETA-PGFRTQLREPTRIAPLVDMVKEIFATESFLAYPIRALGEIQGVVFLLVPPPPRLSELLIEWLALLEKALSLV",
+          72
+        ],
+        [
+          "SRR5580693_6924092",
+          "----------------------------------KYVANRRVLLASSAVQIENIELGGLGINLNEGN-TGFKSHLRDPLSVPEISEMVLDVFSAEEFFAYPVEAMGEIQGVAIFLRPLPPEMSQTLMHWLALTNKALGAI",
+          73
+        ],
+        [
+          "SRR4051812_32808485",
+          "------------------------------------VPRHMSLLVSQPGWLPIDKMRGIGGDLKKEDPAQLADHFRAPEQLEPLRTLIQQVFREECFTAFELSNDGETMGLFVILEHVEVDVSGVVQALRRIFELTY---",
+          74
+        ],
+        [
+          "SRR4051812_20553724",
+          "------------------------------------VANRRVLLASSAIHLEDLDLGGLGVNLNEEG-SQFKSHLRDPMGIPEFVEMVREVFSSEEFFAFPVEALGEIQGVIVFLSSEPGDLSQTLSDWLILLNKALSAV",
+          75
+        ],
+        [
+          "SRR5665213_2812657",
+          "------------------------------------IQNRRVLLAAHGEQLNGVDLGGLGLNFNEVS-PGFRTQLREPMRIEPFVEMVKDVFSAGEFFAWPLRALGEMHGVVCFLTSKPAGLSELLQEWLTLLEKAVSLV",
+          76
+        ],
+        [
+          "SRR5690606_15478977",
+          "------------------------------------IESKGALLARSSVGLSSEDLQGVGVDLAVAE-PGFEPMLKEPARLRSLNDFVVKGLRRERAAYYAFFHKGKVNGVFVLPVQNGQMESGYLKCGLRLLSRQLL--",
+          77
+        ],
+        [
+          "SRR5882672_7274574",
+          "-------------------------------------QNRRVLLAAHGENLKDLDLSGLGIDLNEAA-PGFRTQLRDPLRIAPFAEMVKDVFQTPEFVALPIRSLGDIIGVACLVAAKPQELRDLIHEWLTLLEKAVSLV",
+          78
+        ],
+        [
+          "SRR5690349_16234910",
+          "---------------------------------------VNSFVATFAQGLEIESIRGVGSRLTIEESKNLVPDLQAGKLPRALGELMQEGLKIRDYASKPVMIHQKLDGLFIFWGSS-DFSFDQIENDFVIFQLLYQ--",
+          79
+        ],
+        [
+          "ERR1700744_2021367",
+          "---------------------------------------RKLLSATM--AIGVEDWKGLGVDLNED--SGFRWQLSEPQNILPIREMVKEVFGRSDFQGLTLEIAHEIAGVALFFANQP---------------------",
+          80
+        ],
+        [
+          "SRR5262245_55846648",
+          "-----------------------------------------VLMATQAHALTSVEWNGMGINFNETN-DAFRTHLREPDTIPEVQNLMREAFHSMSFSAFAVEALGEIQGIVALLRDPPDEEARMINDWLMVLNRALSLQ",
+          81
+        ],
+        [
+          "SRR6185295_15822038",
+          "---------------------------------------------NMAHKVDAVDWNGLGVNFNETN-PNFRTHLREPEKVPEIQQLVKDVFQTEEFFAHHVEALNEIHGVVVFLRPAPPGLSKMLQEWMALLGRALSLQ",
+          82
+        ],
+        [
+          "SRR4029078_10866738",
+          "----------------------------------------------QGEKIKDVDLRGLGVNFNESS-GPFRTQLRKPETIPEVVSLVREVFHCQDFFASVVELLGEIQVIVLFLCPRPALAGHGFYYRLFLMERAVSFL",
+          83
+        ],
+        [
+          "SRR5690606_36020221",
+          "----------------------------------------------HSIQLNKDNLKNVGVSLKDLDSKTYVEQLMNPMSMAGIQGLMKDFFKLDKYLAVPIEDETNIGGIVLVFDAIEDVSTRRLFDSFT---------",
+          84
+        ],
+        [
+          "ERR1700734_147802",
+          "----------------------------------------------H--NILAHQWKGVGIDLSQD--HEFHWMLREPQSIPSIREMVVEVFQRRDFQALTLEIAKEMAGVVVFFGGKV---------------------",
+          85
+        ],
+        [
+          "SRR4051812_26081745",
+          "----------------------------------------------CASKIGMEQLKGLGINLAAFDAKKIPEFLMQPEKIAALTEFMREVFKVTEFYPFPFIHQNQPVGVVIAFSKVSNDAARRLLESFL---------",
+          86
+        ],
+        [
+          "SRR5688572_2550889",
+          "-----------------------------------------------AYGFDPALVQSVGIQLKKDE-PGFTEMLRTPEKLRTLREFALNGLNRKDMLAFSLIENHVVRGIFVVPAAKGLLNDSYAKMCLSLLRIR----",
+          87
+        ],
+        [
+          "SRR4051794_36398750",
+          "------------------------------------------------VELGDVEIKDFGMNFNETA-PGFRTQLRDPQRIEAFAEMVKEVFSVSEFIAWPVRALGEIQGVVCFMAPSPQAMHDLLIEWLALLEKAVSLV",
+          88
+        ],
+        [
+          "SRR5580658_39606",
+          "-------------------------------------------------KIEGVELNGLGVDLNQAV-DGFRSQLREPMRLRPFVEMLTEVFHPSELFAVPVQALGEVQGIACFLDAQLLPLRDLVREWLALLEKAISLV",
+          89
+        ],
+        [
+          "SRR5688572_17667295",
+          "----------------------------------------------------DVELKGLGVNFNEIN-PGFRTQLRDPQSIQELGAMTRDVFGVQDFFALPVETMGEIQGLTIFMHPGPAELSGTVAGWLGLLGKALNLL",
+          90
+        ],
+        [
+          "SRR5690554_2175194",
+          "-----------------------------------------------------EKFRGVGLDLRKSHGGRPEGFFENPTVSNILREFVREVFKKDRFTVFTHKVDQEVVGLFLALEEFDLARQ-DLALLNEAFDLAF---",
+          91
+        ],
+        [
+          "SRR5262249_50434683",
+          "-----------------------------------------------------EAIKGVGSRLKAEEIENLIPQLQAGTLPQALSELMRDGLKVRKFFFRPVIVHHGLDGLMVFWGED-PKNLMSLENNFLLFQLLYQ--",
+          92
+        ],
+        [
+          "SRR6185437_13942139",
+          "------------------------------------------------------DLRGLGMNFNESV-EGFRSQLREPMRIAPFVQMIKYVFSVKDFFCFPVRALGEIQGLVCFLTAPPPAMTDLIQEWITLLEKAISLN",
+          93
+        ],
+        [
+          "SRR5574340_954150",
+          "-------------------------------------------------------VKGVGARLTGEESQALSEQIEKGQAPAALVELMKDGLKVQAPFWKKVQIQGSLDGLMVFWDKE-SFEFKAIENDFYIFQLVYQ--",
+          94
+        ],
+        [
+          "SRR4051812_32491625",
+          "-----------------------------------------------------------GVDLKSEDPKRIADLLKEPSSLAGLRSLMKDAFSRDTFTAYPHWSESEVVGVFVVLAEISPEM-ERWKILRQGFDFAW---",
+          95
+        ],
+        [
+          "SRR5690606_10250830",
+          "-------------------------------------------------------------ALNPEETKDLIKQILLNIVPASFNQVVANMFAFQRPSLIPLFDRDSLEGVFVFDQESSHTLIDQMQDYVSATSLYYSLY",
+          96
+        ],
+        [
+          "SRR5690606_9384392",
+          "--------------------------------------------------------------XKDLDSKTYVEQLMNPMSMPGIKASMKDFFKLEKYIAVPIEDETNIGGVVLVFDPIEDVSTRRLFDSFQIFKTSF---",
+          97
+        ],
+        [
+          "InofroStandDraft_1065614.scaffolds.fasta_scaffold139188_1",
+          "--------------------------------------------------------------LKSIDSKQYLEKIADPQSLEQLKQLMTDIFKVPDYLALPMEEEGAITAYILVLGSVEDVSLRRLLDSFNIFKVSY---",
+          98
+        ],
+        [
+          "SRR6476620_10076910",
+          "--------------------------------------------------------------IPTND-ADFNKRVMVGDFPESLVTYLKRKWEVDIIKILPLVLKDDVEGLLVSTQDIS----SEVAEDFSLASLMYNLI",
+          99
+        ],
+        [
+          "SRR6185312_6712763",
+          "------------------------------------------------------------------X-PGFRAQLRDPMKIAPFVEMVKDLFQVDDFVAHPLRALGDIHGILCFMTPPPKGLSELLEEWMMLLERAVSLV",
+          100
+        ],
+        [
+          "SRR5690349_13874883",
+          "-------------------------------------------------------------------PSELAEMLEEPEKIEALRALVYEVFQKENFTTFAHTNDGEILGVFVVLEKLDVSEESQVSCLRFAFDLAY---",
+          101
+        ],
+        [
+          "SRR4051794_3916580",
+          "----------------------------------------------------------------------LGTQISLGVVPVPLQEVISKNLHIRNPRLHPLYGYGQLQGVLVYSGDMAPNQKTDFSEELSLLAMAYSYL",
+          102
+        ],
+        [
+          "SRR5665213_789743",
+          "----------------------------------------------------------------------FRTQLREPMRITPFVDMVKDVFTVREFFAWPVRALGEIQGVMCFIAPPPPGLEDMLQEWATLLEKAVSLV",
+          103
+        ],
+        [
+          "ERR1043165_1269987",
+          "-----------------------------------------------------------------------SELLRDPGEVKPLAELISSLFQKESFVAIPHLNEGEALGVFVVLGDLDVNSASRALTYLGIFELAW---",
+          104
+        ],
+        [
+          "SRR5213080_4730024",
+          "------------------------------------------------------------------------TQLREPMRIVPFAEMVKDVFAVPDFFAWPVRALGEIQGVMCFLAPPPSGLEELLHEWLTLLEKAVSLV",
+          105
+        ],
+        [
+          "SRR6185369_13379454",
+          "------------------------------------------------------------------------LVGQEPKKIQQLTELMKEVFKVEKFEAIAFNYQNQPQGILVLFSDFATDSDRRVFEYTRISTVSYD--",
+          106
+        ],
+        [
+          "SRR6476646_9099358",
+          "--------------------------------------------------------------------------LRAPMEIPEFTQMVHEVFKADDFFAWPVEALGEMQGVVCFLCPPPETAEKMLSEWRILLNKALSLV",
+          107
+        ],
+        [
+          "SRR3989344_6130615",
+          "---------------------------------------------------------------------------TVGLLPPIMLEMLQKVFNIQTSRVLPLFAQNQLEGVVVYSGDLGKADTMRVGEEFSLFSLCYSYF",
+          108
+        ],
+        [
+          "SRR5690606_22267997",
+          "---------------------------------------------------------------------------KAPNAYGLIHDFGLGALEREHSFTHVVEHRGEPSGIIVLAGNRKLGAIDANEDWLRGTEAI----",
+          109
+        ],
+        [
+          "SouAtlMetagenome_1021521.scaffolds.fasta_scaffold763332_1",
+          "---------------------------------------------------------------------------ELAIVPPSLAELLMKAFRMNSPRIRSLMSGSVLEGILVGDAS-SVESTHYLNERFAIMSLVYSHF",
+          110
+        ],
+        [
+          "SRR5690606_32309722",
+          "----------------------------------------------------------------------------NPAE-----------------NYF-------------------NFPSSFVRATIACLRERLE--",
+          111
+        ],
+        [
+          "SRR3954471_7128140",
+          "----------------------------------------------------------------------------KGKLPAALLDLMKEGLRIPNYVFRAVFLHLGLDGLFIFWGGP-DFQFQKIENDFLIFTLVYE--",
+          112
+        ],
+        [
+          "SRR4051812_21422226",
+          "-----------------------------------------------------------------------------GDYPEAFVEHIKSKWEVDALKMIPLIIKKDVEGLLISPQDIS----AEVAEDFSLMSLVYSLM",
+          113
+        ],
+        [
+          "ERR1700743_1501257",
+          "------------------------------------------------------------------------------MQLPALQKLMTDFFKTPNFLAIPIEDEGNIGGLIIVLDPIQDIPTRRLFDSFQIFKVSY---",
+          114
+        ],
+        [
+          "SRR5688572_17539429",
+          "-------------------------------------------------------------------------------VPPSLSKLLMQAFQIPQSRLLPIHVGNRLEGLMAYPATVTPEERDRLQDEFSLMSLCYANL",
+          115
+        ],
+        [
+          "SRR5579864_843344",
+          "-------------------------------------------------------------------------------KIPQLNDLMGEVFKTNSFYPVPFIHQGQPIGLFVLFDPVSVEATRRLMQYLQITNVSYD--",
+          116
+        ],
+        [
+          "SRR6185295_14089195",
+          "---------------------------------------------------------------------------------PILKQLVENYFKATSFLALPLADDAGPRGIYIILSEVTDLSQRRLLDSFQIFLVSH---",
+          117
+        ],
+        [
+          "SRR5438046_1788498",
+          "---------------------------------------------------------------------------------GLLQEMMAKVFKVGKFEARPFVCQGNIIGIVVAFGQFEDDSKRNAIEHISASSLSY---",
+          118
+        ],
+        [
+          "SRR5438046_4400744",
+          "----------------------------------------------------------------------------------PLVEMMNEIFKTPQFFAVPFLYQGQAAGVLVALDSLSDPSIRGLIDFVQITRVSFE--",
+          119
+        ],
+        [
+          "ERR1035437_3214421",
+          "----------------------------------------------------------------------------------PIADLVREVFKVAEYYAIPFVYQNEAIGIVIVFDSVRNDSVRRLIHFLQITSVSYD--",
+          120
+        ],
+        [
+          "ERR1700733_8451625",
+          "----------------------------------------------------------------------------------GMSELMQEVFKMPQFYAMPFIHQNQPFGVVVAFDTLQNDSAHRVTEFVQITRVNFD--",
+          121
+        ],
+        [
+          "SRR4051812_2810891",
+          "-----------------------------------------------------------------------------------LRSLAEDVFHSKNYLAYPIEALGEVQGVILFLIQQAVVQRTSIETCLQLLERVLSLH",
+          122
+        ],
+        [
+          "SRR5690348_16298439",
+          "-------------------------------------------------------------------------------------DMVNEIFQTAELVALPVRALGDIAGVVCLLAAEPQELHDLIHEWLTLLEKAVSLV",
+          123
+        ],
+        [
+          "SRR4051812_35752836",
+          "------------------------------------------------------------------------------------------VFKADDFRWYCLSVLGEVQGVFLLVPSYPNNLEELTESYMA---------",
+          124
+        ],
+        [
+          "SRR5262245_61031315",
+          "--------------------------------------------------------------------------------------------AVDDFFAWSIEVMGDIHGIVCFLAPPPEELKSMLVDWLV---------",
+          125
+        ],
+        [
+          "SRR5436190_5596707",
+          "-----------------------------------------------------------------------------------------------EFYAFPFNYQNQPIGVVVAFNQVKNDSARRLMDFVQITRVSFD--",
+          126
+        ],
+        [
+          "SRR6478672_6027451",
+          "------------------------------------------------------------------------------------------------YFVRPVTVHQGLDGLMIFWGDR-NFRFEEIENDFLIFHLLYQ--",
+          127
+        ],
+        [
+          "SRR5580692_3350039",
+          "-------------------------------------------------------------------------------------------------VILPLNYRQQTVGVFIMPADSGEEDDSYLGTCLLAMRRHFEVR",
+          128
+        ],
+        [
+          "SRR6185437_10134101",
+          "-----------------------------------------------------------------------------------------------------LNFRHQTIGVFIFPVD--EEDDSYLGTCLLAMRRHFEVR",
+          129
+        ],
+        [
+          "SRR5437868_1669537",
+          "----------------------------------------------------------------------------------------------------------QGVICFLTPPP--ATLNSTLHEWLMLLNKALSLL",
+          130
+        ],
+        [
+          "SRR5256885_1195040",
+          "------------------------------------------------------------------------------------------------------------XMCFLAPPP--SGLEELLHEWLTLLEKAVSLV",
+          131
+        ],
+        [
+          "SRR5690606_4380844",
+          "------------------------------------------------------------------------------------------------------------QGVALFLCEEPLSRLQVLRDWIHLLERSLTLL",
+          132
+        ],
+        [
+          "SRR5262249_55856790",
+          "-------------------------------------------------------------------------------------------------------------GVFVFPADSGENGDAYLCTCLMALRRQFDII",
+          133
+        ]
+      ]
+    },
+    "msa_t_uc201710-30_bfd.div_min": {
+      "e_val": "1e-3",
+      "subsampling": "div_min",
+      "coverage": 30,
+      "n_seq": 138,
+      "raw_n_seq": 138,
+      "filtered_n_seq": 138,
+      "selected_n_seq": 138,
+      "sequences": [
+        [
+          "T1001",
+          "SISTRIGEYRSAQSKEDLIQKYLNQLPGSLCVFFKFLPSVRSFVATHASGIPGSDIQGVGVQLESNDMKELSSQMAIGLLPPRFTEMLVEAFHFSPPKALPLYAHNALEGVFVYSGQLPAEEVARMNEEFTLLSLCYSHF",
+          0
+        ],
+        [
+          "ERR1043165_5113725",
+          "TLIEKAKAYENLATKDEFISAFLRRIS-CQAIYFKYLPSVSSFVAVTGHGIDIEQIK-----------------------------------------------------------------------------------",
+          1
+        ],
+        [
+          "ADurb_Cas_01_Slu_FD_contig_21_1830766_length_419_multi_5_in_0_out_0_1",
+          "SLTEKANAYEDLTTKDEYLSAFLLRIP-CRAIYFKFLPSVNSFVAVSGHGIDIESIKGIGARMSPDESKDTLQFLQKGALPESLREIIVEGLKISQYLVKPVPLYRSLDGLFVFWGDE-GFDYREIENEFVLFHLFLQ--",
+          2
+        ],
+        [
+          "LakMenE01Jun11ns_1017448.scaffolds.fasta_scaffold6525617_1",
+          "SISEVVNDYRIAESKEDIIRMLFQNLTDMPLLFFKFLPSMNSFVMSHASMPNHQIHEGLGSALNPEETKDLIKQILMNIVPATFNQVILNMFAFQRPSMIPLFDRENLEGVFVFDQESA---------------------",
+          3
+        ],
+        [
+          "tr|A0A2H0WE95|A0A2H0WE95_9PROT",
+          "SIGQKIQLYSAATTKDEVLIHFINQLS-CQAIYFKYLPTVQSFVATHSHGLDIEAIKGVGTRLEATETAHLLDLLKSGEIPPALAELMKEGLRIGQYFPKPVIVLTGLDGLFIFWGAE-GFHFQQIESDFLIFSLLYQ--",
+          4
+        ],
+        [
+          "SRR5690606_970001",
+          "QLTLRLADYRSAESKEDLIQRFLNNLQGLPCVFFKYLPSVKSFMATHASGFDSAMIQGVGCQLDSQEQKELGGQ------------------------------------------------------------------",
+          5
+        ],
+        [
+          "OM-RGC.v1.009421480",
+          "PYQTRIADYKLAESKEELLNTFYRNTPDQTWIYLKYIESIQTFMGISSHLAPESWVEGLSFKIPRGQ-SEFNQTIARGGLPKDFLNYLTEKFDTARIKTLPILLRDKVDGLLVTTQEIP----IEVSEDFSLFSVIYALI",
+          6
+        ],
+        [
+          "GraSoiStandDraft_34_1057297.scaffolds.fasta_scaffold2982522_1",
+          "PYQLRIAEYKSATSKEDLLNVFYNQTPTQSWIYLKFVPSIETFICVSYSQVPEDWVEGLSYKVATKDRDNFMSKLFSGALPPNLGNYLKNKFGTDRIKFLPMIIRDKIEGILISTQEIS----AEVAEDFSLMSLVYTLL",
+          7
+        ],
+        [
+          "SRR5688500_4921090",
+          "PLSNRLAAYQSAETKESLLQNFFDATGVQPLVYFRFLPSVSSFVATQASGFEPGETQGVGCQIDGVSTKDLGTQVTLGMVPPVLKDVIQKSFKISNPRLHPLYCSGQLDGLLV---------------------------",
+          8
+        ],
+        [
+          "SRR5688572_21668447",
+          "PLSARLAAYQSAESRETLIRSFFESVNIKPIVFFRFLSTVSSFVATQASGFEPKSFQGVGCQLGGLTMKDLGTQISLGMVPVALQKEIQKAFHISHPRLHPLYVSG----------------------------------",
+          9
+        ],
+        [
+          "SRR6185312_16901683",
+          "PISAKIAFYKACVNKDEVVLAFFRRLS-CKAIFFKYLPTVNSFVALSAQGVDVEDIKGVGSRLEPSESKELPTQLREGVLPQALVQILKEGLHVSRFEWKPLLV-NWVEGVLVFWGDE-KFQFASIENEFLIFDLIYQ--",
+          10
+        ],
+        [
+          "SRR5689334_12987019",
+          "PFQTRIAEYRLAESKEDLLQKFFRQTPAQSWAFLKYVKSINSYILVSSQNMPESWIQGLSYKIPNVE-ADFNQKLMLGEFXX----------------------------------------------------------",
+          11
+        ],
+        [
+          "tr|M4V9W5|M4V9W5_9DELT",
+          "PFQTRIAEYRAAESKEELVQMFFRQTASQSWAFLKYVSSIQTYISVSSQNMPDEWVEGLSYKIPS-SQSDFNDKILLGEYPESFLQYIKAKWGVDTLKVMPLLLKNEIEGLLITPQDI----SAEVAEDFSLMSLVYNLI",
+          12
+        ],
+        [
+          "tr|A0A1F3TYA3|A0A1F3TYA3_9PROT",
+          "PFQMRIAEYKMSESKEELLQKFYQQSPKQSWVFLKYIKSIQTYISVSHQNMEPSWVEGLSFKIPT-DVQEFNSRVFVGDFPDSLISYIKTKWDVSNLKILPLTFKDEIEGLLISTQDI----SADVAEDFSLMSLVYQLM",
+          13
+        ],
+        [
+          "GraSoiStandDraft_59_1057299.scaffolds.fasta_scaffold1093438_1",
+          "NFNDEIKKYRKAANKEEVIADFLKDLNQLFAIFFKYLPSVYSFVSLQSLGLDVESLKGVGFRLTPEEARQPAELFAEGKMPSQLTQLLQEGLKVPSPLVCPVLVQGKPEGYFCFWTNSGGLSLESIANELSLFQVLFE--",
+          14
+        ],
+        [
+          "SRR3990167_7074582",
+          "LVSNRVADYRSSQSKEEVLKKYFERLDTVPAVCFKYLSSVRSFVAAHAAGF-----------------------------------------------------------------------------------------",
+          15
+        ],
+        [
+          "tr|A0A0B8X2D0|A0A0B8X2D0_9DELT",
+          "KVSMRITDYRSAQSKEDLIQKYLNHLPNSLCIFFKFLPSVRSFVATHAQGIPASDIQGVGVQLESSDVKDLTTQMAMGLLPARFNEMLVEAFHLSPPKALPLYAHHALEGVFVYSGSISAAESAQLAEEFSLLSICYSAF",
+          16
+        ],
+        [
+          "tr|A0A150WNL5|A0A150WNL5_BDEBC",
+          "FISPRIGDYRSAQSKEDMVQKYLNNLPQMVCLFFKFLPTVRSFVATHATGIPASDIQGVGVQLDSADMKELNSQMAMGLLPSRFMDMLTEAFHFRPPKALPLYAHNNLEGVFVYSGEVNKQLSTAMTEEFSLMSLCYSNL",
+          17
+        ],
+        [
+          "tr|W5X8S8|W5X8S8_BDEBC",
+          "AISSRIATYKVAESKEDMLHKFLQHIPKTLCIYFKYLPSVRSFVATHGWGIPNSDIQGVGVQLEAEDMRTLSERVTMGQLPERFSKMLKEAFGFNPPKALPLYAYHSLEGVFVFSGSLDAKYVAEINEEFTLLSLCYSNF",
+          18
+        ],
+        [
+          "tr|A0A258W715|A0A258W715_9PROT",
+          "AISEVINDYRIAESKEDIIRMLFQNLSNLPLLFFKFLPSMNSFVMSHASMPNHQVYEGLGSALNPEETKDLVKQILLNIVPASFNQVISNMFMFQRPSMIPLFDRENLEGVFVFDQESANSLIDQMQDYVSATSLYYSLY",
+          19
+        ],
+        [
+          "tr|A0A254Q9U7|A0A254Q9U7_9PROT",
+          "AFPMRIADYRSAQSKEDMIQRFLNGISGSRCLFFKFLPSVRSFVATHANGIDAAQIQGVGSQLTSDEMKDLGSLLAMGLIPEKFSSMLVEAFHLNPPKAIPVYANAHLEGLFVYSGGMDKKAIEQLNDEYTLFNLCYSHF",
+          20
+        ],
+        [
+          "SRR6185437_8770678",
+          "-YQVWLKELEMCQNKEDVVNLFLREAVTKEGLYFRYLDLHRTLALAQTFGIERNDLDGVGIDLAALE-PGFLPQLSKPHLLFSLQEFVKKX-------------------------------------------------",
+          21
+        ],
+        [
+          "SRR5580692_6585128",
+          "-YQVWLKELDLCKSRETATKVFLREAVVGEGLFFRYREIHQTLALADSVGVSGPEFEGVGIDLAAQE-PGFVPLLTKP--------------------------------------------------------------",
+          22
+        ],
+        [
+          "SRR5262249_47393078",
+          "-MSEWLTQLSSEREVDQTVQAFMDGLSNAPVVYFKYLP------------------------------------------------------------------------------------------------------",
+          23
+        ],
+        [
+          "SRR5690606_12544440",
+          "-FSVWLKESQKINDRAGAIENALKEISSKCAFFMKFIESSSALVVX----------------------------------------------------------------------------------------------",
+          24
+        ],
+        [
+          "SRR5436190_19749662",
+          "-FSIWVRELFRRTDSSAGLTHLMKELSGGEVIFFKFIQNRSTLVAEHSVGLEMRLLENVGIDLKSTE-VDFNDHLLRPQNLKGLHELIQQG-------------------------------------------------",
+          25
+        ],
+        [
+          "tr|A0A1W9HIJ5|A0A1W9HIJ5_9PROT",
+          "-FSGLMNSLAKCHSVEDAIQDWLNKINDTPTVFFRYIPNHSHLVLSQCAGLDLQKVRGIGVPLAGLSLKEQKYFYSHVRFLANLRDLVKGAFNVSEFEFRELVTDKAVLGLCVIFKNLKNESEKRFFNSIELLNLVAS--",
+          26
+        ],
+        [
+          "tr|A0A1F3SXH7|A0A1F3SXH7_9DELT",
+          "-FNIWLKGIELVASREQLNRLWLQEAVANKAIFMRYNPTKKTLIVAETIGFDDEEISDIGVDLLEKE-PGFGEMLHSPENLYALREFVEKGLCCESAFYFPHVYKGKVLGVFIIPFVDAQNEFSYLGACLHSLHRQYEHL",
+          27
+        ],
+        [
+          "SRR5690606_31580748",
+          "-FEMWLRHLSANKTATSCLDSTAKELFSGIVLYMRYSESHSTLVVEVAHGLDGSMVTDVGIDLSVTE-PGFEPMLQSPQNLLGLKNFVKX--------------------------------------------------",
+          28
+        ],
+        [
+          "SRR5690606_12007987",
+          "-FEIWFNELFRKNEPEAGVDHFMREVSGAEVIFFKYVSARATLVAEKSTGLEMRLLENVGIDLKSTE-PGFTEALLKPHLLNGLSELVKKG-------------------------------------------------",
+          29
+        ],
+        [
+          "SRR5690606_4281813",
+          "--NTLMSQFSKVKDVSETIQIFLDNVSNKRVIFLRYLPAYYSLMVSHAAKISVEELKKTGINLKDIEPKTLMETLKDPQTMAKLSELMSQVFNVTEYLAVPVEX------------------------------------",
+          30
+        ],
+        [
+          "ERR1039457_779980",
+          "--NSLMGKLAQTMEPEGVIKVLLESFSHKPAIFFRFLPSHMSLIAANSVKIPFEPIKNVGLNLSRFDPKNLLELLAEPEKIQPLRDLMREVFKVDDFYAVPFVHQYQPRGVICTFEPIKDEGIRRLAES-----------",
+          31
+        ],
+        [
+          "SRR5687768_17488401",
+          "--NRLMQAFSKAKDIDTVIQVYLEHTSNKPIIFFTHLSSYLSLLVSHVVGFEREALRNVGVNLKTVDSKEYMNLLKEPMKLDLLKNLIGQVFKTDKYFAFPIEEENAVSGVVVILDEV----------------------",
+          32
+        ],
+        [
+          "SRR5690606_24916142",
+          "--NPLMSQLAKVKDVGETLQVFLDNVSDKRVIFLRYLPAYYX--------------------------------------------------------------------------------------------------",
+          33
+        ],
+        [
+          "SRR5882757_5360740",
+          "--NNLMNRLSRSKGISDTVQTFVDQTSNAPCLYLTNFPAYLSLVITNCALMDKEKIKNVGLNLKDHPKEIYDSFSRDPNSSALLKKLLLDVFKVE---------------------------------------------",
+          34
+        ],
+        [
+          "SaaInlV_100m_DNA_2_1039680.scaffolds.fasta_scaffold240285_1",
+          "--NNFMHDVTKVTEVDQVLDTFLQHTSGEKVVYFKHLPAYTSLLLYKAAGLNIEDHKGVGVSLKNIDPKDYNAAVAKPQEMEDLKAMAREVFGFDKILASPLISENQVAGIIL-LQDIEEASHRRVYDNF----------",
+          35
+        ],
+        [
+          "APAga8741243762_1050094.scaffolds.fasta_scaffold193546_1",
+          "--NHLMSELSKTAEVTQVVDIFLKQSADASILFLKHLPSYRSLSVSQAHNVDPQKVRGAGISFKELSQQDYIQRISSIADAPELAEMLVQVFQKSEYVVFPLSIENQLAGAFVFLEEIHDMQSLRLLESF----------",
+          36
+        ],
+        [
+          "SRR5690606_33211237",
+          "--NALMTQMSKAKEVDQVIQVYLDQVSKKPVIFLSHISAYLSLAVTHSAQVNKETLKNIGISLKDLDTKVYIETLMNPMSFSDLQSLMTDFFKTSDYFAIPIEEDNTVAGIVVVFDALKDVPTRRLFDSX----------",
+          37
+        ],
+        [
+          "SRR5687768_761871",
+          "--NALMQKLAQRLDPEGVMQVFLDSVSGKPTILFRFLPAYTSLVAGQASHISADQIKNLGINLSNYD-------------------------------------------------------------------------",
+          38
+        ],
+        [
+          "SRR5690349_10356812",
+          "--NALMNLFALSKDLDTTIQTMLDQTTQLPCIFLTHLPAYMS--------------------------------------------------------------------------------------------------",
+          39
+        ],
+        [
+          "SRR5579864_4159348",
+          "--NAFMQRLSQSLDPEQVIQIMLEGISGKPVLFFKFL-------------------------------------------------------------------------------------------------------",
+          40
+        ],
+        [
+          "SRR6185312_1616920",
+          "---SYAHRLFAYPTVDECIRIFLQQGSGAPGIYFRYVSNRRVLMATHSENVQ----------------------------------------------------------------------------------------",
+          41
+        ],
+        [
+          "SRR5690348_1637021",
+          "---SFVSELFQGKSSDEVISAFMSASSHCPVL------------------------------------------------------------------------------------------------------------",
+          42
+        ],
+        [
+          "GraSoiStandDraft_48_1057284.scaffolds.fasta_scaffold4659588_1",
+          "---RWVRSLQNLNTLDEFIVSYLKFLSNTEVIFFKYLVNHRSIVATFSVHEELSKIGNLGVRLTEEETPLTVGMLDDPEQIPSLHELLRNGFKASAYHVQKLKLEDEYLGFFVIFSDDEYLRLQYKLECLH---------",
+          43
+        ],
+        [
+          "tr|A0A2E3WTP0|A0A2E3WTP0_9PROT",
+          "---QWMKSLSHLHTMDEFIVSQLKFLSNTEVIFFKYLRNHRSITAAFSVHEDLSKLGNLGIRLAQEETPLGVTMLETPSTIPSLKELIKNVFKASSFKCHPITIEGDILGFYAILTDTQEMSEKFKLECLH---------",
+          44
+        ],
+        [
+          "SRR6185436_12399091",
+          "---NLHRSLITRGSVAECVHEYLQFGSDCGAIYLRFFPM-----------------------------------------------------------------------------------------------------",
+          45
+        ],
+        [
+          "APDOM4702015073_1054812.scaffolds.fasta_scaffold401240_1",
+          "---HYAHMLFAARSIDDAIRIFMQNVSAAPAAYFKNIANRRVLAAADGINL-----------------------------------------------------------------------------------------",
+          46
+        ],
+        [
+          "ERR1035437_7445135",
+          "---EFARKLFAQMTVDECVQVFLASASGCPAVYFKYIQNRRVLLAANSENLQ----------------------------------------------------------------------------------------",
+          47
+        ],
+        [
+          "SRR5438132_4141611",
+          "---DLHKELTTRHTGTECIQDFLAFGSDCSALYLRFLPLRKILTAAQAHNVL----------------------------------------------------------------------------------------",
+          48
+        ],
+        [
+          "ERR1044072_5439611",
+          "-----VRELFQLTNGDACVELFLRSASSCAAVYFRYISNRRVLMASASANLDGTDLNGLGVDFNGAG-SQFKSQLRDPMGIKELTEMVPEVFGTAEFFAYPVEALGEVLGVALFMRADPGALSALTADWLMLLNRALSLL",
+          49
+        ],
+        [
+          "SRR4051812_21293789",
+          "-----AHRLFAHNTLDECVRVFLESASGRAGIYFKYIANRRVLMASLSNGVQDVELKGVGINFNETA-PGFRTQLRDPMSVTQFGDMIREVFSISEYLAWPVEVMGELQGLVCFLAPMP---------------------",
+          50
+        ],
+        [
+          "LauGreSBDMM110SN_4_FD.fasta_scaffold2595078_1",
+          "------SVFQVLKQKDP-YKGLLQSLQEDVLCFLQYHSARHVLVVRA--GVGDMNFENLGIPLSQ-D-KKFDLRMKNPNGFELLKQFVNEALEKSSFFAYPVFVNEDPLGLLVLSSNRSLSAKDFPMEWVEALELIAN--",
+          51
+        ],
+        [
+          "SaaInlStandDraft_5_1057022.scaffolds.fasta_scaffold417630_1",
+          "------NVFRSLQSKNP-YDSFFKGVRTDVICYLQYLPARHVLIARG--GKGLSSFENLGVNLAL-D-KSFDHKLVQSQSYDLLHDFVEGALERPYFISQTVGTKEDPQGVLLLASYRPLETKDFNPDWTDAILLIAS--",
+          52
+        ],
+        [
+          "SRR5262249_25364060",
+          "------KSLQKRTGVHECIQDFLEFGSDCGVLYLKSLPLRKILSATH--GHRIENWKGIGVNLAD-E-SHFTWALHEPQNVTAIREMVKEIYGRMDFQAFSFKIAKEANGIAIFLAHRP---------------------",
+          53
+        ],
+        [
+          "SRR5690606_9379065",
+          "------AVYNSLQSKSP-YVTFFKSVSTDVLCYLQYLPARHVLIARG--GKGLESFDKLGVNLSL-D-KKFDVKLFQSQNYDLIHDFVEGAFERPYFLSQMVG-------------------------------------",
+          54
+        ],
+        [
+          "SRR5262249_37326038",
+          "-------TLMERTAVADCIQDFLTFGSDCGAVYLRFIPLRKILIASQAHNVLATLWKGVGVDLSN-D-NEFHWMLREPHSVSAIREMVTEVFSRADFQALSVEVAKEISGIAIFFGGKPPESL-----------------",
+          55
+        ],
+        [
+          "SRR6187399_1448697",
+          "-------SLDKCETRDQAIALWMRDAATQEALYFRFIENKNVLALVNSVGFKASELQNIGLDL-EEE-PGFEQMLLHPERMLIMKDFLRGGLLRKQALFQPLVFAGRVQGVFLLPALQGQLNNSYLQTTLLMLTRHFE--",
+          56
+        ],
+        [
+          "SRR5690242_6440774",
+          "-------RLSQSLDPDHVLQMLLDAISNRPVIFFKYLPAYSSLVTSHASKIPVEQLKNIGINLSQVEATKIPELLLQPTNIPGLAELMKEVFQTPVYQAIPF--------------------------------------",
+          57
+        ],
+        [
+          "ERR1700723_3597550",
+          "-------RLAQTVDPDGVIQTLLAALSEKPVLYFKYLPAYNNLAISLLSKIRIDGIKTVGITLEKYDLKEIPNRMMEPEENTQLNVFWAEVFKAAKYYATG---------------------------------------",
+          58
+        ],
+        [
+          "SRR6266550_865056",
+          "-------KLAQNVDPDSVTQTLLSALSEKPVLFFKFLPAYNSLVVSQASKIPIEGIKTLGVHMEKYELKEIPLLLREPQRIAELKELMGEVFKAPK--------------------------------------------",
+          59
+        ],
+        [
+          "SRR3974390_986782",
+          "-------HLMPRNNVTECIQDFLAFGSDCGAIYLRFLPLRKILTASQSHNVLANQWKGIGIDLSE-D-PEFRWMLREPQSIPSIREMVSEVFQRHDFQALTLEIAKEIAGVAIFFGGKVPESI-----------------",
+          60
+        ],
+        [
+          "ERR1044072_442932",
+          "-------ALISKTSTAARIQEFLDFGANCSAVYLRFFPMRRVLSAVGGHNLPAEQWRGVGVDLSQ-D-PEFRWMLREPQSVGAIREMV----------------------------------------------------",
+          61
+        ],
+        [
+          "SRR4051812_49329985",
+          "--------LNGMTDPAVCTQALLQYGSNCGAVYLRFLPLRKVLTSVQGHNLPEEQWRGVGVDMSD-D-PDFHWMLREPHSVGQIREMVREIFGRADFQALPVEIAKEVSGVAIYFSDHPPEAL-----------------",
+          62
+        ],
+        [
+          "SRR5690349_9341614",
+          "---------EKATNRDELVQIWMKEAASQKAVFLRYIESKKSLVATAAIGLSVENIQGVGVDLLAQE-AGFEPLLRRPRLMRSLNDFALRGLQAQQAAFYTIEHNDVILGVVILPIPKDSLESAYLKSCLHVLRRQMD--",
+          63
+        ],
+        [
+          "GraSoiStandDraft_26_1057304.scaffolds.fasta_scaffold323373_1",
+          "----------KCQSKDDYVLAFLKQLS-CNAIFFKFLPTVSSFVATAAQGLDIETMKGVGSRMSLDESKDVKAFLSSGQVPQALNELMTDGMKVPQFYSHLVSVPQGPEGLLVFWDGQ-RSGPPAIEDDFLIFQLLYQ--",
+          64
+        ],
+        [
+          "SRR5437879_810129",
+          "----------AQTTVDECLHVFLNSVADCPAVYFKYIQNRRVLLAAHGENLNE---------------------------------------------------------------------------------------",
+          65
+        ],
+        [
+          "SRR5437868_14366684",
+          "---------------EEVLQKYFERLDKVQAVYFKYLSSVRSFVATHAAGFTSQQIQGVGCQLEGADLESLNTQIAVGLLPPIVMEMLQKVFNIQTSRVLPLFVQGQLDGVVVYSCGLGKADTLRVGEEFSLFALCYSYF",
+          66
+        ],
+        [
+          "SRR4051794_15663771",
+          "----------------ECIQVFLNSASGCPAVFFRYMQNRRVILAAFGVELGEIEIKGLGMNFNETA-PGFRTQLRDPLRIDAFVEMVKEVFSVENFSAWPVRALGEIQGVACFMAATPRAMNDILLEWLGLLEKAVSLV",
+          67
+        ],
+        [
+          "ERR1700722_17378775",
+          "----------------DCVQEFLEFGSSSGAVYLRFLPLRKLLSAAQAHGLPDAQWKGVGGDLNR-D-PNFTSMLRQPQTVPHIREMCAEIFHRKDFQAVSVELAHEVSGVAIFFGQQIPEQLQ----------------",
+          68
+        ],
+        [
+          "SRR4051812_36862439",
+          "----------------DCIDAFLNDV-GAPGVFFRYLPNRRTLIVANAYGLEPDATKGVGLNLNDEI-SNFKTMLREPRELNAFRRMVEDVFHTTNFATRLLEQGDDVAGIFVFPEHDQ--SDADLDDRLLLLDRAVGLL",
+          69
+        ],
+        [
+          "SRR3954468_21992567",
+          "------------------------QIQNTPAVYFKYVPHYLSLVLSQSAWLPIEKIKGIGVELKSLDPRKLPDHFHDPSTIPQLQSLLKEAFRVENFTALTHYNEHEIVGMFVIFDPLKEMTAQAIQTCLGIFELAY---",
+          70
+        ],
+        [
+          "SRR5262249_28175831",
+          "--------------------------GSTPAIYFRYVQNRRVLLAGLHEQLPDVDMSGLGMDLNEAQ-AGFRTQLREPMRIDPFVAMIKEVFEVPDFFAWPVRAMGEILGVVCFLTPPPQVLFDLLQDWLTLLDKAVSLL",
+          71
+        ],
+        [
+          "SRR4051812_47451822",
+          "---------------------------QQSWAFLKFVKSINSYILVSSQNMPESWIQGVSYKIPSSE-PDFNKKVILGDFSAGFLNYLKRKWEVEIVKVLPLALKDEVEGLLVTTQDIS----SEVAEDFSLASLMYNLI",
+          72
+        ],
+        [
+          "SRR5579863_6682784",
+          "---------------------------DCGALYLRYLPLRKILTASQAQNVVATLWKGVGVDLGE-D-PDFHWMLRDPQSITTIREMVSQVFGRADFQALTVEIAKEIGGIAIFFGGKPPEALE----------------",
+          73
+        ],
+        [
+          "ERR1700683_258016",
+          "-----------------------------GAIYFRFLSLRKVLLQAH--GVLPEQWKGLGIDLNEN--RNFHWMLRDPQSLAPIREMVKEVFGRSDFQTYPLEIAKEIAGVVVFFGHTP---------------------",
+          74
+        ],
+        [
+          "SRR4051812_27576845",
+          "------------------------------AVYFRYVANRRVLLASASERLENVDLRGLGIDLNAEA-EGFRTQLREPMRIASLTAMVREVFQIEHFFALPIRALGEIQGVMFFFAPSPPGLNEILIEWTTLLEKALSLV",
+          75
+        ],
+        [
+          "SRR5690242_3743987",
+          "-------------------------------VYFRYIQNRRVLLAAYGEGLGETDLRGLGLDLNETA-PGFRTQLREPTRIAPLVDMVKEIFATESFLAYPIRALGEIQGVVFLLVPPPPRLSELLIEWLALLEKALSLV",
+          76
+        ],
+        [
+          "SRR5580693_6924092",
+          "----------------------------------KYVANRRVLLASSAVQIENIELGGLGINLNEGN-TGFKSHLRDPLSVPEISEMVLDVFSAEEFFAYPVEAMGEIQGVAIFLRPLPPEMSQTLMHWLALTNKALGAI",
+          77
+        ],
+        [
+          "SRR4051812_32808485",
+          "------------------------------------VPRHMSLLVSQPGWLPIDKMRGIGGDLKKEDPAQLADHFRAPEQLEPLRTLIQQVFREECFTAFELSNDGETMGLFVILEHVEVDVSGVVQALRRIFELTY---",
+          78
+        ],
+        [
+          "SRR4051812_20553724",
+          "------------------------------------VANRRVLLASSAIHLEDLDLGGLGVNLNEEG-SQFKSHLRDPMGIPEFVEMVREVFSSEEFFAFPVEALGEIQGVIVFLSSEPGDLSQTLSDWLILLNKALSAV",
+          79
+        ],
+        [
+          "SRR5665213_2812657",
+          "------------------------------------IQNRRVLLAAHGEQLNGVDLGGLGLNFNEVS-PGFRTQLREPMRIEPFVEMVKDVFSAGEFFAWPLRALGEMHGVVCFLTSKPAGLSELLQEWLTLLEKAVSLV",
+          80
+        ],
+        [
+          "SRR5690606_15478977",
+          "------------------------------------IESKGALLARSSVGLSSEDLQGVGVDLAVAE-PGFEPMLKEPARLRSLNDFVVKGLRRERAAYYAFFHKGKVNGVFVLPVQNGQMESGYLKCGLRLLSRQLLFI",
+          81
+        ],
+        [
+          "SRR5882672_7274574",
+          "-------------------------------------QNRRVLLAAHGENLKDLDLSGLGIDLNEAA-PGFRTQLRDPLRIAPFAEMVKDVFQTPEFVALPIRSLGDIIGVACLVAAKPQELRDLIHEWLTLLEKAVSLV",
+          82
+        ],
+        [
+          "SRR5690349_16234910",
+          "---------------------------------------VNSFVATFAQGLEIESIRGVGSRLTIEESKNLVPDLQAGKLPRALGELMQEGLKIRDYASKPVMIHQKLDGLFIFWGSS-DFSFDQIENDFVIFQLLYQ--",
+          83
+        ],
+        [
+          "ERR1700744_2021367",
+          "---------------------------------------RKLLSATM--AIGVEDWKGLGVDLNE-D-SGFRWQLSEPQNILPIREMVKEVFGRSDFQGLTLEIAHEIAGVALFFANQP---------------------",
+          84
+        ],
+        [
+          "SRR5262245_55846648",
+          "-----------------------------------------VLMATQAHALTSVEWNGMGINFNETN-DAFRTHLREPDTIPEVQNLMREAFHSMSFSAFAVEALGEIQGIVALLRDPPDEEARMINDWLMVLNRALSLQ",
+          85
+        ],
+        [
+          "SRR6185295_15822038",
+          "---------------------------------------------NMAHKVDAVDWNGLGVNFNETN-PNFRTHLREPEKVPEIQQLVKDVFQTEEFFAHHVEALNEIHGVVVFLRPAPPGLSKMLQEWMALLGRALSLQ",
+          86
+        ],
+        [
+          "SRR4029078_10866738",
+          "----------------------------------------------QGEKIKDVDLRGLGVNFNESS-GPFRTQLRKPETIPEVVSLVREVFHCQDFFASVVELLGEIQVIVLFLCPRPALAGHGFYYRLFLMERAVSFL",
+          87
+        ],
+        [
+          "SRR5690606_36020221",
+          "----------------------------------------------HSIQLNKDNLKNVGVSLKDLDSKTYVEQLMNPMSMAGIQGLMKDFFKLDKYLAVPIEDETNIGGIVLVFDAIEDVSTRRLFDSFQIFKTSFM--",
+          88
+        ],
+        [
+          "ERR1700734_147802",
+          "----------------------------------------------H--NILAHQWKGVGIDLSQ-D-HEFHWMLREPQSIPSIREMVVEVFQRRDFQALTLEIAKEMAGVVVFFGGKV---------------------",
+          89
+        ],
+        [
+          "SRR4051812_26081745",
+          "----------------------------------------------CASKIGMEQLKGLGINLAAFDAKKIPEFLMQPEKIAALTEFMREVFKVTEFYPFPFIHQNQPVGVVIAFSKVSNDAARRLLESFQITRVSFD--",
+          90
+        ],
+        [
+          "SRR5688572_2550889",
+          "-----------------------------------------------AYGFDPALVQSVGIQLKKDE-PGFTEMLRTPEKLRTLREFALNGLNRKDMLAFSLIENHVVRGIFVVPAAKGQLNDSYAKMCLSLLRIRLE--",
+          91
+        ],
+        [
+          "SRR4051794_36398750",
+          "------------------------------------------------VELGDVEIKDFGMNFNETA-PGFRTQLRDPQRIEAFAEMVKEVFSVSEFIAWPVRALGEIQGVVCFMAPSPQAMHDLLIEWLALLEKAVSLV",
+          92
+        ],
+        [
+          "SRR5580658_39606",
+          "-------------------------------------------------KIEGVELNGLGVDLNQAV-DGFRSQLREPMRLRPFVEMLTEVFHPSELFAVPVQALGEVQGIACFLDAQLLPLRDLVREWLALLEKAISLV",
+          93
+        ],
+        [
+          "SRR5688572_17667295",
+          "----------------------------------------------------DVELKGLGVNFNEIN-PGFRTQLRDPQSIQELGAMTRDVFGVQDFFALPVETMGEIQGLTIFMHPGPAELSGTVAGWLGLLGKALNLL",
+          94
+        ],
+        [
+          "SRR5690554_2175194",
+          "-----------------------------------------------------EKFRGVGLDLRKSHGGRPEGFFENPTVSNILREFVREVFKKDRFTVFTHKVDQEVVGLFLALEEFDLARQ-DLALLNEAFDLAF---",
+          95
+        ],
+        [
+          "SRR5262249_50434683",
+          "-----------------------------------------------------EAIKGVGSRLKAEEIENLIPQLQAGTLPQALSELMRDGLKVRKFFFRPVIVHHGLDGLMVFWGED-PKNLMSLENNFLLFQLLYQ--",
+          96
+        ],
+        [
+          "SRR6185437_13942139",
+          "------------------------------------------------------DLRGLGMNFNESV-EGFRSQLREPMRIAPFVQMIKYVFSVKDFFCFPVRALGEIQGLVCFLTAPPPAMTDLIQEWITLLEKAISLN",
+          97
+        ],
+        [
+          "SRR5574340_954150",
+          "-------------------------------------------------------VKGVGARLTGEESQALSEQIEKGQAPAALVELMKDGLKVQAPFWKKVQIQGSLDGLMVFWDKE-SFEFKAIENDFYIFQLVYQ--",
+          98
+        ],
+        [
+          "SRR4051812_32491625",
+          "-----------------------------------------------------------GVDLKSEDPKRIADLLKEPSSLAGLRSLMKDAFSRDTFTAYPHWSESEVVGVFVVLAEISPEM-ERWKILRQGFDFAW---",
+          99
+        ],
+        [
+          "SRR5690606_10250830",
+          "-------------------------------------------------------------ALNPEETKDLIKQILLNIVPASFNQVVANMFAFQRPSLIPLFDRDSLEGVFVFDQESSHTLIDQMQDYVSATSLYYSLY",
+          100
+        ],
+        [
+          "SRR5690606_9384392",
+          "--------------------------------------------------------------XKDLDSKTYVEQLMNPMSMPGIKASMKDFFKLEKYIAVPIEDETNIGGVVLVFDPIEDVSTRRLFDSFQIFKTSFMN-",
+          101
+        ],
+        [
+          "InofroStandDraft_1065614.scaffolds.fasta_scaffold139188_1",
+          "--------------------------------------------------------------LKSIDSKQYLEKIADPQSLEQLKQLMTDIFKVPDYLALPMEEEGAITAYILVLGSVEDVSLRRLLDSFNIFKVSYLN-",
+          102
+        ],
+        [
+          "SRR6476620_10076910",
+          "--------------------------------------------------------------IPTND-ADFNKRVMVGDFPESLVTYLKRKWEVDIIKILPLVLKDDVEGLLVSTQDIS----SEVAEDFSLASLMYNLI",
+          103
+        ],
+        [
+          "SRR6185312_6712763",
+          "------------------------------------------------------------------X-PGFRAQLRDPMKIAPFVEMVKDLFQVDDFVAHPLRALGDIHGILCFMTPPPKGLSELLEEWMMLLERAVSLV",
+          104
+        ],
+        [
+          "SRR5690349_13874883",
+          "-------------------------------------------------------------------PSELAEMLEEPEKIEALRALVYEVFQKENFTTFAHTNDGEILGVFVVLEKLDVSEESQVSCLRFAFDLAY---",
+          105
+        ],
+        [
+          "SRR4051794_3916580",
+          "----------------------------------------------------------------------LGTQISLGVVPVPLQEVISKNLHIRNPRLHPLYGYGQLQGVLVYSGDMAPNQKTDFSEELSLLAMAYSYL",
+          106
+        ],
+        [
+          "SRR5665213_789743",
+          "----------------------------------------------------------------------FRTQLREPMRITPFVDMVKDVFTVREFFAWPVRALGEIQGVMCFIAPPPPGLEDMLQEWATLLEKAVSLV",
+          107
+        ],
+        [
+          "ERR1043165_1269987",
+          "-----------------------------------------------------------------------SELLRDPGEVKPLAELISSLFQKESFVAIPHLNEGEALGVFVVLGDLDVNSASRALTYLGIFELAW---",
+          108
+        ],
+        [
+          "SRR5213080_4730024",
+          "------------------------------------------------------------------------TQLREPMRIVPFAEMVKDVFAVPDFFAWPVRALGEIQGVMCFLAPPPSGLEELLHEWLTLLEKAVSLV",
+          109
+        ],
+        [
+          "SRR6185369_13379454",
+          "------------------------------------------------------------------------LVGQEPKKIQQLTELMKEVFKVEKFEAIAFNYQNQPQGILVLFSDFATDSDRRVFEYTRISTVSYD--",
+          110
+        ],
+        [
+          "SRR6476646_9099358",
+          "--------------------------------------------------------------------------LRAPMEIPEFTQMVHEVFKADDFFAWPVEALGEMQGVVCFLCPPPETAEKMLSEWRILLNKALSLV",
+          111
+        ],
+        [
+          "SRR3989344_6130615",
+          "---------------------------------------------------------------------------TVGLLPPIMLEMLQKVFNIQTSRVLPLFAQNQLEGVVVYSGDLGKADTMRVGEEFSLFSLCYSYF",
+          112
+        ],
+        [
+          "SRR5690606_22267997",
+          "---------------------------------------------------------------------------KAPNAYGLIHDFGLGALEREHSFTHVVEHRGEPSGIIVLAGNRKLGAIDANEDWLRGTEAIAA--",
+          113
+        ],
+        [
+          "SouAtlMetagenome_1021521.scaffolds.fasta_scaffold763332_1",
+          "---------------------------------------------------------------------------ELAIVPPSLAELLMKAFRMNSPRIRSLMSGSVLEGILVGDAS-SVESTHYLNERFAIMSLVYSHF",
+          114
+        ],
+        [
+          "SRR5690606_32309722",
+          "----------------------------------------------------------------------------NPAE-----------------NYF-------------------NFPSSFVRATIACLRERLELL",
+          115
+        ],
+        [
+          "SRR3954471_7128140",
+          "----------------------------------------------------------------------------KGKLPAALLDLMKEGLRIPNYVFRAVFLHLGLDGLFIFWGGP-DFQFQKIENDFLIFTLVYE--",
+          116
+        ],
+        [
+          "SRR4051812_21422226",
+          "-----------------------------------------------------------------------------GDYPEAFVEHIKSKWEVDALKMIPLIIKKDVEGLLISPQDIS----AEVAEDFSLMSLVYSLM",
+          117
+        ],
+        [
+          "ERR1700743_1501257",
+          "------------------------------------------------------------------------------MQLPALQKLMTDFFKTPNFLAIPIEDEGNIGGLIIVLDPIQDIPTRRLFDSFQIFKVSYQN-",
+          118
+        ],
+        [
+          "SRR5688572_17539429",
+          "-------------------------------------------------------------------------------VPPSLSKLLMQAFQIPQSRLLPIHVGNRLEGLMAYPATVTPEERDRLQDEFSLMSLCYANL",
+          119
+        ],
+        [
+          "SRR5579864_843344",
+          "-------------------------------------------------------------------------------KIPQLNDLMGEVFKTNSFYPVPFIHQGQPIGLFVLFDPVSVEATRRLMQYLQITNVSYD--",
+          120
+        ],
+        [
+          "SRR6185295_14089195",
+          "---------------------------------------------------------------------------------PILKQLVENYFKATSFLALPLADDAGPRGIYIILSEVTDLSQRRLLDSFQIFLVSHSN-",
+          121
+        ],
+        [
+          "SRR5438046_1788498",
+          "---------------------------------------------------------------------------------GLLQEMMAKVFKVGKFEARPFVCQGNIIGIVVAFGQFEDDSKRNAIEHISASSLSYHN-",
+          122
+        ],
+        [
+          "SRR5438046_4400744",
+          "----------------------------------------------------------------------------------PLVEMMNEIFKTPQFFAVPFLYQGQAAGVLVALDSLSDPSIRGLIDFVQITRVSFE--",
+          123
+        ],
+        [
+          "ERR1035437_3214421",
+          "----------------------------------------------------------------------------------PIADLVREVFKVAEYYAIPFVYQNEAIGIVIVFDSVRNDSVRRLIHFLQITSVSYD--",
+          124
+        ],
+        [
+          "ERR1700733_8451625",
+          "----------------------------------------------------------------------------------GMSELMQEVFKMPQFYAMPFIHQNQPFGVVVAFDTLQNDSAHRVTEFVQITRVNFD--",
+          125
+        ],
+        [
+          "SRR4051812_2810891",
+          "-----------------------------------------------------------------------------------LRSLAEDVFHSKNYLAYPIEALGEVQGVILFLIQQAVVQRTSIETCLQLLERVLSLH",
+          126
+        ],
+        [
+          "SRR5690348_16298439",
+          "-------------------------------------------------------------------------------------DMVNEIFQTAELVALPVRALGDIAGVVCLLAAEPQELHDLIHEWLTLLEKAVSLV",
+          127
+        ],
+        [
+          "SRR4051812_35752836",
+          "------------------------------------------------------------------------------------------VFKADDFRWYCLSVLGEVQGVFLLVPSYPENLEELTESYMA---------",
+          128
+        ],
+        [
+          "SRR5262245_61031315",
+          "--------------------------------------------------------------------------------------------AVDDFFAWSIEVMGDIHGIVCFLAPPPSELKSMLVDWLV---------",
+          129
+        ],
+        [
+          "SRR5436190_5596707",
+          "-----------------------------------------------------------------------------------------------EFYAFPFNYQNQPIGVVVAFNQVKNDSARRLMDFVQITRVSFD--",
+          130
+        ],
+        [
+          "SRR6478672_6027451",
+          "------------------------------------------------------------------------------------------------YFVRPVTVHQGLDGLMIFWGDR-NFRFEEIENDFLIFHLLYQ--",
+          131
+        ],
+        [
+          "SRR5580692_3350039",
+          "-------------------------------------------------------------------------------------------------VILPLNYRQQTVGVFIMPADSGEEDDSYLGTCLLAMRRHFEVR",
+          132
+        ],
+        [
+          "SRR6185437_10134101",
+          "-----------------------------------------------------------------------------------------------------LNFRHQTIGVFIFPVD--EEDDSYLGTCLLAMRRHFEVR",
+          133
+        ],
+        [
+          "SRR5437868_1669537",
+          "----------------------------------------------------------------------------------------------------------QGVICFLTPPP--ATLNSTLHEWLMLLNKALSLL",
+          134
+        ],
+        [
+          "SRR5256885_1195040",
+          "------------------------------------------------------------------------------------------------------------XMCFLAPPP--SGLEELLHEWLTLLEKAVSLV",
+          135
+        ],
+        [
+          "SRR5690606_4380844",
+          "------------------------------------------------------------------------------------------------------------QGVALFLCEEPLSRLQVLRDWIHLLERSLTLL",
+          136
+        ],
+        [
+          "SRR5262249_55856790",
+          "-------------------------------------------------------------------------------------------------------------GVFVFPADSGENGDAYLCTCLMALRRQFDII",
+          137
+        ]
+      ]
+    },
+    "msa_t_ur202003-30_bfd.div_min": {
+      "e_val": "1e-3",
+      "subsampling": "div_min",
+      "coverage": 30,
+      "n_seq": 145,
+      "raw_n_seq": 145,
+      "filtered_n_seq": 145,
+      "selected_n_seq": 145,
+      "sequences": [
+        [
+          "T1001",
+          "SISTRIGEYRSAQSKEDLIQKYLNQLPGSLCVFFKFLPSVRSFVATHASGIPGSDIQGVGVQLESNDMKELSSQMAIGLLPPRFTEMLVEAFHFSPPKALPLYAHNALEGVFVYSGQLPAEEVARMNEEFTLLSLCYSHF",
+          0
+        ],
+        [
+          "ERR1043165_5113725",
+          "TLIEKAKAYENLATKDEFISAFLRRIS-CQAIYFKYLPSVSSFVAVTGHGIDIEQIK-----------------------------------------------------------------------------------",
+          1
+        ],
+        [
+          "ADurb_Cas_01_Slu_FD_contig_21_1830766_length_419_multi_5_in_0_out_0_1",
+          "SLTEKANAYEDLTTKDEYLSAFLLRIP-CRAIYFKFLPSVNSFVAVSGHGIDIESIKGIGARMSPDESKDTLQFLQKGALPESLREIIVEGLKISQYLVKPVPLYRSLDGLFVFWGDE-GFDYREIENEFVLFHLFLQR-",
+          2
+        ],
+        [
+          "LakMenE01Jun11ns_1017448.scaffolds.fasta_scaffold6525617_1",
+          "SISEVVNDYRIAESKEDIIRMLFQNLTDMPLLFFKFLPSMNSFVMSHASMPNHQIHEGLGSALNPEETKDLIKQILMNIVPATFNQVILNMFAFQRPSMIPLFDRENLEGVFVFDQESA---------------------",
+          3
+        ],
+        [
+          "UniRef100_A0A2H0WE95",
+          "SIGQKIQLYSAATTKDEVLIHFINQLS-CQAIYFKYLPTVQSFVATHSHGLDIEAIKGVGTRLEATETAHLLDLLKSGEIPPALAELMKEGLRIGQYFPKPVIVQNSLDGLFIFWGAEG-FHFQQIESDFLIFSLLYQQA",
+          4
+        ],
+        [
+          "SRR5690606_970001",
+          "QLTLRLADYRSAESKEDLIQRFLNNLQGLPCVFFKYLPSVKSFMATHASGFDSAMIQGVGCQLDSQEQKELGGQ------------------------------------------------------------------",
+          5
+        ],
+        [
+          "OM-RGC.v1.009421480",
+          "PYQTRIADYKLAESKEELLNTFYRNTPDQTWIYLKYIESIQTFMGISSHLAPESWVEGLSFKIPRGQ-SEFNQTIARGGLPKDFLNYLTEKFDTARIKTLPILLRDKVDGLLVTTQEIP----IEVSEDFSLFSVIYALI",
+          6
+        ],
+        [
+          "GraSoiStandDraft_34_1057297.scaffolds.fasta_scaffold2982522_1",
+          "PYQLRIAEYKSATSKEDLLNVFYNQTPTQSWIYLKFVPSIETFICVSYSQVPEDWVEGLSYKVATKDRDNFMSKLFSGALPPNLGNYLKNKFGTDRIKFLPMIIRDKIEGILISTQEIS----AEVAEDFSLMSLVYTLL",
+          7
+        ],
+        [
+          "UniRef100_A0A3T0RU09",
+          "PYQLRIAEYKSATSKEDLLNTFYSQTPTQSWIYLKYVPSIETFLCVSYAGVPEEWVEGLSYKVNVKD-KDFMSQMLMGSLPLSIATYFKNKFGTDRIKFLPMIIRDKIEGILISTQEIS----SAVAEDFSLMSLVYTLF",
+          8
+        ],
+        [
+          "UniRef100_A0A0B8X2D0",
+          "PVSMRITDYRSAQSKEDLIQKYLNHLPNSLCIFFKFLPSVRSFVATHAQGIPASDIQGVGVQLESSDVKDLTTQMAMGLLPARFNEMLVEAFHLSPPKALPLYAHHALEGVFVYSGSISAAESAQLAEEFSLLSICYSAF",
+          9
+        ],
+        [
+          "SRR5688500_4921090",
+          "PLSNRLAAYQSAETKESLLQNFFDATGVQPLVYFRFLPSVSSFVATQASGFEPGETQGVGCQIDGVSTKDLGTQVTLGMVPPVLKDVIQKSFKISNPRLHPLYCSGQLDGLLV---------------------------",
+          10
+        ],
+        [
+          "SRR5688572_21668447",
+          "PLSARLAAYQSAESRETLIRSFFESVNIKPIVFFRFLSTVSSFVATQASGFEPKSFQGVGCQLGGLTMKDLGTQISLGMVPVALQKEIQKAFHISHPRLHPLYVSG----------------------------------",
+          11
+        ],
+        [
+          "UniRef100_W5X8S8",
+          "PISSRIATYKVAESKEDMLHKFLQHIPETLCIYFKYLPSVRSFVATHGWGIPNSDIQGVGVQLEAEDMRTLSERVTMGQLPERFSKMLKEAFGFNPPKALPLYAYHSLEGVFVFSGSLDAKYVAEINEEFTLLSLCYSNF",
+          12
+        ],
+        [
+          "SRR6185312_16901683",
+          "PISAKIAFYKACVNKDEVVLAFFRRLS-CKAIFFKYLPTVNSFVALSAQGVDVEDIKGVGSRLEPSESKELPTQLREGVLPQALVQILKEGLHVSRFEWKPLLV-NWVEGVLVFWGDE-KFQFASIENEFLIFDLIYQK-",
+          13
+        ],
+        [
+          "SRR5689334_12987019",
+          "PFQTRIAEYRLAESKEDLLQKFFRQTPAQSWAFLKYVKSINSYILVSSQNMPESWIQGLSYKIPNVE-ADFNQKLMLGEFXX----------------------------------------------------------",
+          14
+        ],
+        [
+          "UniRef100_M4V9W5",
+          "PFQTRIAEYRAAESKEELVQMFFRQTASQSWAFLKYVSSIQTYISVSSQNMPDEWVEGLSYKIPSSQ-SDFNDKILLGEYPESFLQYIKAKWGVDTLKVMPLLLKNEIEGLLITPQDIS----AEVAEDFSLMSLVYNLI",
+          15
+        ],
+        [
+          "tr|A0A1F3TYA3|A0A1F3TYA3_9PROT",
+          "PFQMRIAEYKMSESKEELLQKFYQQSPKQSWVFLKYIKSIQTYISVSHQNMEPSWVEGLSFKIPTDV-QEFNSRVFVGDFPDSLISYIKTKWDVSNLKILPLTFKDEIEGLLISTQDIS----ADVAEDFSLMSLVYQLM",
+          16
+        ],
+        [
+          "UniRef100_A0A514WZK7",
+          "NFSTKLGQYRSAQSKEDMIQKFLNNISGTMCVFFKYLPSVRSFVATHANGIPASDIQGVGCQLEQPDTKELGTQLAMGLLPARFNGMLVEAFHFNPPKALPLYAVQNLEGVFVYSGSLEKSETMHLTEEFSLFSLCYSHL",
+          17
+        ],
+        [
+          "GraSoiStandDraft_59_1057299.scaffolds.fasta_scaffold1093438_1",
+          "NFNDEIKKYRKAANKEEVIADFLKDLNQLFAIFFKYLPSVYSFVSLQSLGLDVESLKGVGFRLTPEEARQPAELFAEGKMPSQLTQLLQEGLKVPSPLVCPVLVQGKPEGYFCFWTNSGGLSLESIANELSLFQVLFEN-",
+          18
+        ],
+        [
+          "SRR3990167_7074582",
+          "LVSNRVADYRSSQSKEEVLKKYFERLDTVPAVCFKYLSSVRSFVAAHAAGF-----------------------------------------------------------------------------------------",
+          19
+        ],
+        [
+          "tr|A0A150WNL5|A0A150WNL5_BDEBC",
+          "FISPRIGDYRSAQSKEDMVQKYLNNLPQMVCLFFKFLPTVRSFVATHATGIPASDIQGVGVQLDSADMKELNSQMAMGLLPSRFMDMLTEAFHFRPPKALPLYAHNNLEGVFVYSGEVNKQLSTAMTEEFSLMSLCYSNL",
+          20
+        ],
+        [
+          "tr|A0A258W715|A0A258W715_9PROT",
+          "AISEVINDYRIAESKEDIIRMLFQNLSNLPLLFFKFLPSMNSFVMSHASMPNHQVYEGLGSALNPEETKDLVKQILLNIVPASFNQVISNMFMFQRPSMIPLFDRENLEGVFVFDQESANSLIDQMQDYVSATSLYYSLY",
+          21
+        ],
+        [
+          "tr|A0A254Q9U7|A0A254Q9U7_9PROT",
+          "AFPMRIADYRSAQSKEDMIQRFLNGISGSRCLFFKFLPSVRSFVATHANGIDAAQIQGVGSQLTSDEMKDLGSLLAMGLIPEKFSSMLVEAFHLNPPKAIPVYANAHLEGLFVYSGGMDKKAIEQLNDEYTLFNLCYSHF",
+          22
+        ],
+        [
+          "SRR6185437_8770678",
+          "-YQVWLKELEMCQNKEDVVNLFLREAVTKEGLYFRYLDLHRTLALAQTFGIERNDLDGVGIDLAALE-PGFLPQLSKPHLLFSLQEFVKKX-------------------------------------------------",
+          23
+        ],
+        [
+          "SRR5580692_6585128",
+          "-YQVWLKELDLCKSRETATKVFLREAVVGEGLFFRYREIHQTLALADSVGVSGPEFEGVGIDLAAQE-PGFVPLLTKP--------------------------------------------------------------",
+          24
+        ],
+        [
+          "SRR5262249_47393078",
+          "-MSEWLTQLSSEREVDQTVQAFMDGLSNAPVVYFKYLP------------------------------------------------------------------------------------------------------",
+          25
+        ],
+        [
+          "UniRef100_A0A4Q6CK82",
+          "-LSEGLGEYRISETKDETIQIFMEELSQFPVLYFKYLPTHASLAISQASHLAVEKFRGIGLDLKRFDPKQAAEFFKAPSRDSELNDLIKQAFRANEFAAFTHFNDSETLGLFVVFNRPATAAQNIIDGVLQIFELAYK--",
+          26
+        ],
+        [
+          "tr|A0A2D5ZYT0|A0A2D5ZYT0_9PROT",
+          "-LEVWQRQLASMRRPDECLDFLMQDLASNPVLFLKWQENNRSXKVIHSMNT-THTINGHGIKLPREY--SCXEWWLSNEAPDQMQRFLQVVFGEIEFSKSWXHWGKRLLGVVVXDKSCX---------------------",
+          27
+        ],
+        [
+          "SRR5690606_12544440",
+          "-FSVWLKESQKINDRAGAIENALKEISSKCAFFMKFIESSSALVVX----------------------------------------------------------------------------------------------",
+          28
+        ],
+        [
+          "SRR5436190_19749662",
+          "-FSIWVRELFRRTDSSAGLTHLMKELSGGEVIFFKFIQNRSTLVAEHSVGLEMRLLENVGIDLKSTE-VDFNDHLLRPQNLKGLHELIQQG-------------------------------------------------",
+          29
+        ],
+        [
+          "tr|A0A1W9HIJ5|A0A1W9HIJ5_9PROT",
+          "-FSGLMNSLAKCHSVEDAIQDWLNKINDTPTVFFRYIPNHSHLVLSQCAGLDLQKVRGIGVPLAGLSLKEQKYFYSHVRFLANLRDLVKGAFNVSEFEFRELVTDKAVLGLCVIFKNLKESEKRFFNDSIELLNLVASR-",
+          30
+        ],
+        [
+          "tr|A0A1F3SXH7|A0A1F3SXH7_9PROT",
+          "-FNIWLKGIELVASREQLNRLWLQEAVANKAIFMRYNPTKKTLIVAETIGFDEFEISDIGVDLLEKE-PGFGEMLHSPENLYALREFVEKGLCCESAFYFPHVYKGKVLGVFIIPFVDAQNEFSYLGACLHSLHRQYEH-",
+          31
+        ],
+        [
+          "SRR5690606_31580748",
+          "-FEMWLRHLSANKTATSCLDSTAKELFSGIVLYMRYSESHSTLVVEVAHGLDGSMVTDVGIDLSVTE-PGFEPMLQSPQNLLGLKNFVKX--------------------------------------------------",
+          32
+        ],
+        [
+          "SRR5690606_12007987",
+          "-FEIWFNELFRKNEPEAGVDHFMREVSGAEVIFFKYVSARATLVAEKSTGLEMRLLENVGIDLKSTE-PGFTEALLKPHLLNGLSELVKKG-------------------------------------------------",
+          33
+        ],
+        [
+          "SRR6185312_1616920",
+          "---SYAHRLFAYPTVDECIRIFLQQGSGAPGIYFRYVSNRRVLMATHSENVQ----------------------------------------------------------------------------------------",
+          34
+        ],
+        [
+          "SRR5690348_1637021",
+          "---SFVSELFQGKSSDEVISAFMSASSHCPVL------------------------------------------------------------------------------------------------------------",
+          35
+        ],
+        [
+          "GraSoiStandDraft_48_1057284.scaffolds.fasta_scaffold4659588_1",
+          "---RWVRSLQNLNTLDEFIVSYLKFLSNTEVIFFKYLVNHRSIVATFSVHEELSKIGNLGVRLTEEETPLTVGMLDDPEQIPSLHELLRNGFKASAYHVQKLKLEDEYLGFFVIFSDDESLRLQYKLECLH---------",
+          36
+        ],
+        [
+          "UniRef100_A0A2E3WTP0",
+          "---QWMKSLSHLHTMDEFIVSQLKFLSNTEVIFFKYLRNHRSITAAFSVHEDLSKLGNLGIRLAQEE-TPLGTMLETPSTIPSLKELIKNVFKASSFKCHPITIEGDILGFYAILTDTQEEKNKFKLECLHHVGRAVH--",
+          37
+        ],
+        [
+          "SRR6185436_12399091",
+          "---NLHRSLITRGSVAECVHEYLQFGSDCGAIYLRFFPM-----------------------------------------------------------------------------------------------------",
+          38
+        ],
+        [
+          "APDOM4702015073_1054812.scaffolds.fasta_scaffold401240_1",
+          "---HYAHMLFAARSIDDAIRIFMQNVSAAPAAYFKNIANRRVLAAADGINL-----------------------------------------------------------------------------------------",
+          39
+        ],
+        [
+          "ERR1035437_7445135",
+          "---EFARKLFAQMTVDECVQVFLASASGCPAVYFKYIQNRRVLLAANSENLQ----------------------------------------------------------------------------------------",
+          40
+        ],
+        [
+          "SRR5438132_4141611",
+          "---DLHKELTTRHTGTECIQDFLAFGSDCSALYLRFLPLRKILTAAQAHNVL----------------------------------------------------------------------------------------",
+          41
+        ],
+        [
+          "UniRef100_A0A1F3SXH7",
+          "----WLKGIELVASREQLNRLWLQEAVANKAIFMRYNPTKKTLIVAETIFDDEFEISDIGVDLLEKE-PGFGEMLHSPENLYALREFVEKGLCCESAFYFPHVYKGKVLGVFIIFVDAKVKQNEFSYACLHSLHRQYH--",
+          42
+        ],
+        [
+          "SRR5690606_33211237",
+          "-----MTQMSKAKEVDQVIQVYLDQVSKKPVIFLSHISAYLSLAVTHSAQVNKETLKNIGISLKDLDTKVYIETLMNPMSFSDLQSLMTDFFKTSDYFAIPIEEDNTVAGIVVVFDALKDVPTRRLFDSX----------",
+          43
+        ],
+        [
+          "SRR5690606_24916142",
+          "-----MSQLAKVKDVGETLQVFLDNVSDKRVIFLRYLPAYYX--------------------------------------------------------------------------------------------------",
+          44
+        ],
+        [
+          "SRR5690606_4281813",
+          "-----MSQFSKVKDVSETIQIFLDNVSNKRVIFLRYLPAYYSLMVSHAAKISVEELKKTGINLKDIEPKTLMETLKDPQTMAKLSELMSQVFNVTEYLAVPVEX------------------------------------",
+          45
+        ],
+        [
+          "APAga8741243762_1050094.scaffolds.fasta_scaffold193546_1",
+          "-----MSELSKTAEVTQVVDIFLKQSADASILFLKHLPSYRSLSVSQAHNVDPQKVRGAGISFKELSQQDYIQRISSIADAPELAEMLVQVFQKSEYVVFPLSIENQLAGAFVFLEEIHDMQSLRLLESF----------",
+          46
+        ],
+        [
+          "SRR5579864_4159348",
+          "-----MQRLSQSLDPEQVIQIMLEGISGKPVLFFKFL-------------------------------------------------------------------------------------------------------",
+          47
+        ],
+        [
+          "SRR5687768_761871",
+          "-----MQKLAQRLDPEGVMQVFLDSVSGKPTILFRFLPAYTSLVAGQASHISADQIKNLGINLSNYD-------------------------------------------------------------------------",
+          48
+        ],
+        [
+          "SRR5687768_17488401",
+          "-----MQAFSKAKDIDTVIQVYLEHTSNKPIIFFTHLSSYLSLLVSHVVGFEREALRNVGVNLKTVDSKEYMNLLKEPMKLDLLKNLIGQVFKTDKYFAFPIEEENAVSGVVVILDEV----------------------",
+          49
+        ],
+        [
+          "SRR5882757_5360740",
+          "-----MNRLSRSKGISDTVQTFVDQTSNAPCLYLTNFPAYLSLVITNCALMDKEKIKNVGLNLKDHPKEIYDSFSRDPNSSALLKKLLLDVFKVE---------------------------------------------",
+          50
+        ],
+        [
+          "SRR5690349_10356812",
+          "-----MNLFALSKDLDTTIQTMLDQTTQLPCIFLTHLPAYMS--------------------------------------------------------------------------------------------------",
+          51
+        ],
+        [
+          "SaaInlV_100m_DNA_2_1039680.scaffolds.fasta_scaffold240285_1",
+          "-----MHDVTKVTEVDQVLDTFLQHTSGEKVVYFKHLPAYTSLLLYKAAGLNIEDHKGVGVSLKNIDPKDYNAAVAKPQEMEDLKAMAREVFGFDKILASPLISENQVAGIIL-LQDIEEASHRRVYDNF----------",
+          52
+        ],
+        [
+          "ERR1039457_779980",
+          "-----MGKLAQTMEPEGVIKVLLESFSHKPAIFFRFLPSHMSLIAANSVKIPFEPIKNVGLNLSRFDPKNLLELLAEPEKIQPLRDLMREVFKVDDFYAVPFVHQYQPRGVICTFEPIKDEGIRRLAES-----------",
+          53
+        ],
+        [
+          "LauGreSBDMM110SN_4_FD.fasta_scaffold2595078_1",
+          "------SVFQVLKQKDP-YKGLLQSLQEDVLCFLQYHSARHVLVVRA--GVGDMNFENLGIPLSQD--KKFDLRMKNPNGFELLKQFVNEALEKSSFFAYPVFVNEDPLGLLVLSSNRSLSAKDFPMEWVEALELIA---",
+          54
+        ],
+        [
+          "ERR1044072_5439611",
+          "------RELFQLTNGDACVELFLRSASSCAAVYFRYISNRRVLMASASANLDGTDLNGLGVDFNGAG-SQFKSQLRDPMGIKELTEMVPEVFGTAEFFAYPVEALGEVLGVALFMRADPGALSALTADWLMLLNRALSLL",
+          55
+        ],
+        [
+          "SaaInlStandDraft_5_1057022.scaffolds.fasta_scaffold417630_1",
+          "------NVFRSLQSKNP-YDSFFKGVRTDVICYLQYLPARHVLIARG--GKGLSSFENLGVNLALD--KSFDHKLVQSQSYDLLHDFVEGALERPYFISQTVGTKEDPQGVLLLASYRPLETKDFNPDWTDAILLIA---",
+          56
+        ],
+        [
+          "SRR4051812_21293789",
+          "------HRLFAHNTLDECVRVFLESASGRAGIYFKYIANRRVLMASLSNGVQDVELKGVGINFNETA-PGFRTQLRDPMSVTQFGDMIREVFSISEYLAWPVEVMGELQGLVCFLAPMP---------------------",
+          57
+        ],
+        [
+          "SRR5690606_9379065",
+          "------AVYNSLQSKSP-YVTFFKSVSTDVLCYLQYLPARHVLIARG--GKGLESFDKLGVNLSLD--KKFDVKLFQSQNYDLIHDFVEGAFERPYFLSQMVG-------------------------------------",
+          58
+        ],
+        [
+          "SRR5262249_25364060",
+          "-------SLQKRTGVHECIQDFLEFGSDCGVLYLKSLPLRKILSATH--GHRIENWKGIGVNLADE--SHFTWALHEPQNVTAIREMVKEIYGRMDFQAFSFKIAKEANGIAIFLAHRP---------------------",
+          59
+        ],
+        [
+          "SRR6187399_1448697",
+          "-------SLDKCETRDQAIALWMRDAATQEALYFRFIENKNVLALVNSVGFKASELQNIGLDL-EEE-PGFEQMLLHPERMLIMKDFLRGGLLRKQALFQPLVFAGRVQGVFLLPALQGQLNNSYLQTTLLMLTRHFE--",
+          60
+        ],
+        [
+          "UniRef100_A0A3M1ZW52",
+          "-------DLAASLEPQEVVDRLRARLAGRPVRIGLWGRAPGGLAV----------VDGAGHREVEGAPGPWAKRVLRGEEVRERGE-------AGDLVVVPMRARDRVVGFLAAGSPIPD-HEVELLRI-----------",
+          61
+        ],
+        [
+          "SRR4051812_49329985",
+          "--------LNGMTDPAVCTQALLQYGSNCGAVYLRFLPLRKVLTSVQGHNLPEEQWRGVGVDMSDD--PDFHWMLREPHSVGQIREMVREIFGRADFQALPVEIAKEVSGVAIYFSDHPPEAL-----------------",
+          62
+        ],
+        [
+          "SRR3974390_986782",
+          "--------LMPRNNVTECIQDFLAFGSDCGAIYLRFLPLRKILTASQSHNVLANQWKGIGIDLSED--PEFRWMLREPQSIPSIREMVSEVFQRHDFQALTLEIAKEIAGVAIFFGGKVPESI-----------------",
+          63
+        ],
+        [
+          "SRR5262249_37326038",
+          "--------LMERTAVADCIQDFLTFGSDCGAVYLRFIPLRKILIASQAHNVLATLWKGVGVDLSND--NEFHWMLREPHSVSAIREMVTEVFSRADFQALSVEVAKEISGIAIFFGGKPPESL-----------------",
+          64
+        ],
+        [
+          "ERR1044072_442932",
+          "--------LISKTSTAARIQEFLDFGANCSAVYLRFFPMRRVLSAVGGHNLPAEQWRGVGVDLSQD--PEFRWMLREPQSVGAIREMV----------------------------------------------------",
+          65
+        ],
+        [
+          "UniRef100_A0A2M6X4S9",
+          "--------IRDSQDMGTCFQNLANWMSQGPVCLFRFIASHRSLPLQISKNLPIDPSEGLGVDLSKRDPKTLLPLLRSPSELPELRVFLDKMGFVEDRTFLCLELDGQI-YILVFVRPS----------------------",
+          66
+        ],
+        [
+          "SRR5690242_6440774",
+          "---------SQSLDPDHVLQMLLDAISNRPVIFFKYLPAYSSLVTSHASKIPVEQLKNIGINLSQVEATKIPELLLQPTNIPGLAELMKEVFQTPVYQAIPF--------------------------------------",
+          67
+        ],
+        [
+          "SRR5690349_9341614",
+          "---------EKATNRDELVQIWMKEAASQKAVFLRYIESKKSLVATAAIGLSVENIQGVGVDLLAQE-AGFEPLLRRPRLMRSLNDFALRGLQAQQAAFYTIEHNDVILGVVILPIPKDELESAYLKSCLHVLRRQMD--",
+          68
+        ],
+        [
+          "ERR1700723_3597550",
+          "---------AQTVDPDGVIQTLLAALSEKPVLYFKYLPAYNNLAISLLSKIRIDGIKTVGITLEKYDLKEIPNRMMEPEENTQLNVFWAEVFKAAKYYATG---------------------------------------",
+          69
+        ],
+        [
+          "SRR6266550_865056",
+          "---------AQNVDPDSVTQTLLSALSEKPVLFFKFLPAYNSLVVSQASKIPIEGIKTLGVHMEKYELKEIPLLLREPQRIAELKELMGEVFKAPK--------------------------------------------",
+          70
+        ],
+        [
+          "GraSoiStandDraft_26_1057304.scaffolds.fasta_scaffold323373_1",
+          "----------KCQSKDDYVLAFLKQLS-CNAIFFKFLPTVSSFVATAAQGLDIETMKGVGSRMSLDESKDVKAFLSSGQVPQALNELMTDGMKVPQFYSHLVSVPQGPEGLLVFWDGQ-RSGPPAIEDDFLIFQLLYQQ-",
+          71
+        ],
+        [
+          "SRR5437879_810129",
+          "----------AQTTVDECLHVFLNSVADCPAVYFKYIQNRRVLLAAHGENLNE---------------------------------------------------------------------------------------",
+          72
+        ],
+        [
+          "SRR5437868_14366684",
+          "---------------EEVLQKYFERLDKVQAVYFKYLSSVRSFVATHAAGFTSQQIQGVGCQLEGADLESLNTQIAVGLLPPIVMEMLQKVFNIQTSRVLPLFVQGQLDGVVVYSCGLGKADTLRVGEEFSLFALCYSYF",
+          73
+        ],
+        [
+          "SRR4051794_15663771",
+          "----------------ECIQVFLNSASGCPAVFFRYMQNRRVILAAFGVELGEIEIKGLGMNFNETA-PGFRTQLRDPLRIDAFVEMVKEVFSVENFSAWPVRALGEIQGVACFMAATPRAMNDILLEWLGLLEKAVSLV",
+          74
+        ],
+        [
+          "ERR1700722_17378775",
+          "----------------DCVQEFLEFGSSSGAVYLRFLPLRKLLSAAQAHGLPDAQWKGVGGDLNRD--PNFTSMLRQPQTVPHIREMCAEIFHRKDFQAVSVELAHEVSGVAIFFGQQIPEQL-----------------",
+          75
+        ],
+        [
+          "SRR4051812_36862439",
+          "----------------DCIDAFLNDV-GAPGVFFRYLPNRRTLIVANAYGLEPDATKGVGLNLNDEI-SNFKTMLREPRELNAFRRMVEDVFHTTNFATRLLEQGDDVAGIFVFPEHDQ--SDADLDDRLLLLDRAVGLL",
+          76
+        ],
+        [
+          "SRR3954468_21992567",
+          "------------------------QIQNTPAVYFKYVPHYLSLVLSQSAWLPIEKIKGIGVELKSLDPRKLPDHFHDPSTIPQLQSLLKEAFRVENFTALTHYNEHEIVGMFVIFDPLKEMTAQAIQTCLGIFELAY---",
+          77
+        ],
+        [
+          "SRR5262249_28175831",
+          "--------------------------GSTPAIYFRYVQNRRVLLAGLHEQLPDVDMSGLGMDLNEAQ-AGFRTQLREPMRIDPFVAMIKEVFEVPDFFAWPVRAMGEILGVVCFLTPPPQVLFDLLQDWLTLLDKAVSLL",
+          78
+        ],
+        [
+          "SRR4051812_47451822",
+          "---------------------------QQSWAFLKFVKSINSYILVSSQNMPESWIQGVSYKIPSSE-PDFNKKVILGDFSAGFLNYLKRKWEVEIVKVLPLALKDEVEGLLVTTQDIS----SEVAEDFSLASLMYNLI",
+          79
+        ],
+        [
+          "SRR5579863_6682784",
+          "---------------------------DCGALYLRYLPLRKILTASQAQNVVATLWKGVGVDLGED--PDFHWMLRDPQSITTIREMVSQVFGRADFQALTVEIAKEIGGIAIFFGGKPPEAL-----------------",
+          80
+        ],
+        [
+          "ERR1700683_258016",
+          "-----------------------------GAIYFRFLSLRKVLLQAH--GVLPEQWKGLGIDLNENR--NFHWMLRDPQSLAPIREMVKEVFGRSDFQTYPLEIAKEIAGVVVFFGHTP---------------------",
+          81
+        ],
+        [
+          "SRR4051812_27576845",
+          "------------------------------AVYFRYVANRRVLLASASERLENVDLRGLGIDLNAEA-EGFRTQLREPMRIASLTAMVREVFQIEHFFALPIRALGEIQGVMFFFAPSPPGLNEILIEWTTLLEKALSLV",
+          82
+        ],
+        [
+          "SRR5690242_3743987",
+          "-------------------------------VYFRYIQNRRVLLAAYGEGLGETDLRGLGLDLNETA-PGFRTQLREPTRIAPLVDMVKEIFATESFLAYPIRALGEIQGVVFLLVPPPPRLSELLIEWLALLEKALSLV",
+          83
+        ],
+        [
+          "SRR5580693_6924092",
+          "----------------------------------KYVANRRVLLASSAVQIENIELGGLGINLNEGN-TGFKSHLRDPLSVPEISEMVLDVFSAEEFFAYPVEAMGEIQGVAIFLRPLPPEMSQTLMHWLALTNKALGAI",
+          84
+        ],
+        [
+          "SRR4051812_32808485",
+          "------------------------------------VPRHMSLLVSQPGWLPIDKMRGIGGDLKKEDPAQLADHFRAPEQLEPLRTLIQQVFREECFTAFELSNDGETMGLFVILEHVEVDVSGVVQALRRIFELTY---",
+          85
+        ],
+        [
+          "SRR4051812_20553724",
+          "------------------------------------VANRRVLLASSAIHLEDLDLGGLGVNLNEEG-SQFKSHLRDPMGIPEFVEMVREVFSSEEFFAFPVEALGEIQGVIVFLSSEPGDLSQTLSDWLILLNKALSAV",
+          86
+        ],
+        [
+          "SRR5665213_2812657",
+          "------------------------------------IQNRRVLLAAHGEQLNGVDLGGLGLNFNEVS-PGFRTQLREPMRIEPFVEMVKDVFSAGEFFAWPLRALGEMHGVVCFLTSKPAGLSELLQEWLTLLEKAVSLV",
+          87
+        ],
+        [
+          "SRR5690606_15478977",
+          "------------------------------------IESKGALLARSSVGLSSEDLQGVGVDLAVAE-PGFEPMLKEPARLRSLNDFVVKGLRRERAAYYAFFHKGKVNGVFVLPVQNGQMESGYLKCGLRLLSRQLLF-",
+          88
+        ],
+        [
+          "SRR5882672_7274574",
+          "-------------------------------------QNRRVLLAAHGENLKDLDLSGLGIDLNEAA-PGFRTQLRDPLRIAPFAEMVKDVFQTPEFVALPIRSLGDIIGVACLVAAKPQELRDLIHEWLTLLEKAVSLV",
+          89
+        ],
+        [
+          "SRR5690349_16234910",
+          "---------------------------------------VNSFVATFAQGLEIESIRGVGSRLTIEESKNLVPDLQAGKLPRALGELMQEGLKIRDYASKPVMIHQKLDGLFIFWGSS-DFSFDQIENDFVIFQLLYQQ-",
+          90
+        ],
+        [
+          "ERR1700744_2021367",
+          "---------------------------------------RKLLSATM--AIGVEDWKGLGVDLNEDS--GFRWQLSEPQNILPIREMVKEVFGRSDFQGLTLEIAHEIAGVALFFANQP---------------------",
+          91
+        ],
+        [
+          "SRR5262245_55846648",
+          "-----------------------------------------VLMATQAHALTSVEWNGMGINFNETN-DAFRTHLREPDTIPEVQNLMREAFHSMSFSAFAVEALGEIQGIVALLRDPPDEEARMINDWLMVLNRALSLQ",
+          92
+        ],
+        [
+          "SRR6185295_15822038",
+          "---------------------------------------------NMAHKVDAVDWNGLGVNFNETN-PNFRTHLREPEKVPEIQQLVKDVFQTEEFFAHHVEALNEIHGVVVFLRPAPPGLSKMLQEWMALLGRALSLQ",
+          93
+        ],
+        [
+          "SRR4029078_10866738",
+          "----------------------------------------------QGEKIKDVDLRGLGVNFNESS-GPFRTQLRKPETIPEVVSLVREVFHCQDFFASVVELLGEIQVIVLFLCPRPALAGHGFYYRLFLMERAVSFL",
+          94
+        ],
+        [
+          "SRR5690606_36020221",
+          "----------------------------------------------HSIQLNKDNLKNVGVSLKDLDSKTYVEQLMNPMSMAGIQGLMKDFFKLDKYLAVPIEDETNIGGIVLVFDAIEDVSTRRLFDSFQIFKTSFM--",
+          95
+        ],
+        [
+          "ERR1700734_147802",
+          "----------------------------------------------H--NILAHQWKGVGIDLSQD--HEFHWMLREPQSIPSIREMVVEVFQRRDFQALTLEIAKEMAGVVVFFGGKV---------------------",
+          96
+        ],
+        [
+          "SRR4051812_26081745",
+          "----------------------------------------------CASKIGMEQLKGLGINLAAFDAKKIPEFLMQPEKIAALTEFMREVFKVTEFYPFPFIHQNQPVGVVIAFSKVSNDAARRLLESFQITRVSFD--",
+          97
+        ],
+        [
+          "SRR5688572_2550889",
+          "-----------------------------------------------AYGFDPALVQSVGIQLKKDE-PGFTEMLRTPEKLRTLREFALNGLNRKDMLAFSLIENHVVRGIFVVPAAKGVLNDSYAKMCLSLLRIRLE--",
+          98
+        ],
+        [
+          "SRR4051794_36398750",
+          "------------------------------------------------VELGDVEIKDFGMNFNETA-PGFRTQLRDPQRIEAFAEMVKEVFSVSEFIAWPVRALGEIQGVVCFMAPSPQAMHDLLIEWLALLEKAVSLV",
+          99
+        ],
+        [
+          "SRR5580658_39606",
+          "-------------------------------------------------KIEGVELNGLGVDLNQAV-DGFRSQLREPMRLRPFVEMLTEVFHPSELFAVPVQALGEVQGIACFLDAQLLPLRDLVREWLALLEKAISLV",
+          100
+        ],
+        [
+          "SRR5688572_17667295",
+          "----------------------------------------------------DVELKGLGVNFNEIN-PGFRTQLRDPQSIQELGAMTRDVFGVQDFFALPVETMGEIQGLTIFMHPGPAELSGTVAGWLGLLGKALNLL",
+          101
+        ],
+        [
+          "SRR5690554_2175194",
+          "-----------------------------------------------------EKFRGVGLDLRKSHGGRPEGFFENPTVSNILREFVREVFKKDRFTVFTHKVDQEVVGLFLALEEFDLARQ-DLALLNEAFDLAF---",
+          102
+        ],
+        [
+          "SRR5262249_50434683",
+          "-----------------------------------------------------EAIKGVGSRLKAEEIENLIPQLQAGTLPQALSELMRDGLKVRKFFFRPVIVHHGLDGLMVFWGED-PKNLMSLENNFLLFQLLYQQ-",
+          103
+        ],
+        [
+          "SRR6185437_13942139",
+          "------------------------------------------------------DLRGLGMNFNESV-EGFRSQLREPMRIAPFVQMIKYVFSVKDFFCFPVRALGEIQGLVCFLTAPPPAMTDLIQEWITLLEKAISLN",
+          104
+        ],
+        [
+          "SRR5574340_954150",
+          "-------------------------------------------------------VKGVGARLTGEESQALSEQIEKGQAPAALVELMKDGLKVQAPFWKKVQIQGSLDGLMVFWDKE-SFEFKAIENDFYIFQLVYQN-",
+          105
+        ],
+        [
+          "SRR4051812_32491625",
+          "-----------------------------------------------------------GVDLKSEDPKRIADLLKEPSSLAGLRSLMKDAFSRDTFTAYPHWSESEVVGVFVVLAEISPEM-ERWKILRQGFDFAW---",
+          106
+        ],
+        [
+          "SRR5690606_10250830",
+          "-------------------------------------------------------------ALNPEETKDLIKQILLNIVPASFNQVVANMFAFQRPSLIPLFDRDSLEGVFVFDQESSHTLIDQMQDYVSATSLYYSLY",
+          107
+        ],
+        [
+          "SRR5690606_9384392",
+          "--------------------------------------------------------------XKDLDSKTYVEQLMNPMSMPGIKASMKDFFKLEKYIAVPIEDETNIGGVVLVFDPIEDVSTRRLFDSFQIFKTSFMN-",
+          108
+        ],
+        [
+          "InofroStandDraft_1065614.scaffolds.fasta_scaffold139188_1",
+          "--------------------------------------------------------------LKSIDSKQYLEKIADPQSLEQLKQLMTDIFKVPDYLALPMEEEGAITAYILVLGSVEDVSLRRLLDSFNIFKVSYLN-",
+          109
+        ],
+        [
+          "SRR6476620_10076910",
+          "--------------------------------------------------------------IPTND-ADFNKRVMVGDFPESLVTYLKRKWEVDIIKILPLVLKDDVEGLLVSTQDIS----SEVAEDFSLASLMYNLI",
+          110
+        ],
+        [
+          "SRR6185312_6712763",
+          "------------------------------------------------------------------X-PGFRAQLRDPMKIAPFVEMVKDLFQVDDFVAHPLRALGDIHGILCFMTPPPKGLSELLEEWMMLLERAVSLV",
+          111
+        ],
+        [
+          "SRR5690349_13874883",
+          "-------------------------------------------------------------------PSELAEMLEEPEKIEALRALVYEVFQKENFTTFAHTNDGEILGVFVVLEKLDVSEESQVSCLRFAFDLAY---",
+          112
+        ],
+        [
+          "SRR4051794_3916580",
+          "----------------------------------------------------------------------LGTQISLGVVPVPLQEVISKNLHIRNPRLHPLYGYGQLQGVLVYSGDMAPNQKTDFSEELSLLAMAYSYL",
+          113
+        ],
+        [
+          "SRR5665213_789743",
+          "----------------------------------------------------------------------FRTQLREPMRITPFVDMVKDVFTVREFFAWPVRALGEIQGVMCFIAPPPPGLEDMLQEWATLLEKAVSLV",
+          114
+        ],
+        [
+          "ERR1043165_1269987",
+          "-----------------------------------------------------------------------SELLRDPGEVKPLAELISSLFQKESFVAIPHLNEGEALGVFVVLGDLDVNSASRALTYLGIFELAW---",
+          115
+        ],
+        [
+          "SRR5213080_4730024",
+          "------------------------------------------------------------------------TQLREPMRIVPFAEMVKDVFAVPDFFAWPVRALGEIQGVMCFLAPPPSGLEELLHEWLTLLEKAVSLV",
+          116
+        ],
+        [
+          "SRR6185369_13379454",
+          "------------------------------------------------------------------------LVGQEPKKIQQLTELMKEVFKVEKFEAIAFNYQNQPQGILVLFSDFADSDRRVFESYTRISTVSYDN-",
+          117
+        ],
+        [
+          "SRR6476646_9099358",
+          "--------------------------------------------------------------------------LRAPMEIPEFTQMVHEVFKADDFFAWPVEALGEMQGVVCFLCPPPETAEKMLSEWRILLNKALSLV",
+          118
+        ],
+        [
+          "SRR3989344_6130615",
+          "---------------------------------------------------------------------------TVGLLPPIMLEMLQKVFNIQTSRVLPLFAQNQLEGVVVYSGDLGKADTMRVGEEFSLFSLCYSYF",
+          119
+        ],
+        [
+          "SRR5690606_22267997",
+          "---------------------------------------------------------------------------KAPNAYGLIHDFGLGALEREHSFTHVVEHRGEPSGIIVLAGNRKLGAIDANEDWLRGTEAIA---",
+          120
+        ],
+        [
+          "SouAtlMetagenome_1021521.scaffolds.fasta_scaffold763332_1",
+          "---------------------------------------------------------------------------ELAIVPPSLAELLMKAFRMNSPRIRSLMSGSVLEGILVGDAS-SVESTHYLNERFAIMSLVYSHF",
+          121
+        ],
+        [
+          "SRR5690606_32309722",
+          "----------------------------------------------------------------------------NPAE-----------------NYF-------------------NFPSSFVRATIACLRERLEL-",
+          122
+        ],
+        [
+          "SRR3954471_7128140",
+          "----------------------------------------------------------------------------KGKLPAALLDLMKEGLRIPNYVFRAVFLHLGLDGLFIFWGGP-DFQFQKIENDFLIFTLVYEK-",
+          123
+        ],
+        [
+          "SRR4051812_21422226",
+          "-----------------------------------------------------------------------------GDYPEAFVEHIKSKWEVDALKMIPLIIKKDVEGLLISPQDIS----AEVAEDFSLMSLVYSLM",
+          124
+        ],
+        [
+          "ERR1700743_1501257",
+          "------------------------------------------------------------------------------MQLPALQKLMTDFFKTPNFLAIPIEDEGNIGGLIIVLDPIQDIPTRRLFDSFQIFKVSYQN-",
+          125
+        ],
+        [
+          "SRR5688572_17539429",
+          "-------------------------------------------------------------------------------VPPSLSKLLMQAFQIPQSRLLPIHVGNRLEGLMAYPATVTPEERDRLQDEFSLMSLCYANL",
+          126
+        ],
+        [
+          "SRR5579864_843344",
+          "-------------------------------------------------------------------------------KIPQLNDLMGEVFKTNSFYPVPFIHQGQPIGLFVLFDPVSEATRRLMQSYLQITNVSYDN-",
+          127
+        ],
+        [
+          "SRR6185295_14089195",
+          "---------------------------------------------------------------------------------PILKQLVENYFKATSFLALPLADDAGPRGIYIILSEVTDLSQRRLLDSFQIFLVSHSN-",
+          128
+        ],
+        [
+          "SRR5438046_1788498",
+          "---------------------------------------------------------------------------------GLLQEMMAKVFKVGKFEARPFVCQGNIIGIVVAFGQFEDDSKRNAIEHISASSLSYHN-",
+          129
+        ],
+        [
+          "SRR5438046_4400744",
+          "----------------------------------------------------------------------------------PLVEMMNEIFKTPQFFAVPFLYQGQAAGVLVALDSLSPSIRGLIDSFVQITRVSFEN-",
+          130
+        ],
+        [
+          "ERR1035437_3214421",
+          "----------------------------------------------------------------------------------PIADLVREVFKVAEYYAIPFVYQNEAIGIVIVFDSVRDSVRRLIHSFLQITSVSYDN-",
+          131
+        ],
+        [
+          "ERR1700733_8451625",
+          "----------------------------------------------------------------------------------GMSELMQEVFKMPQFYAMPFIHQNQPFGVVVAFDTLQDSAHRVTESFVQITRVNFDN-",
+          132
+        ],
+        [
+          "SRR4051812_2810891",
+          "-----------------------------------------------------------------------------------LRSLAEDVFHSKNYLAYPIEALGEVQGVILFLIQQAVVQRTSIETCLQLLERVLSLH",
+          133
+        ],
+        [
+          "SRR5690348_16298439",
+          "-------------------------------------------------------------------------------------DMVNEIFQTAELVALPVRALGDIAGVVCLLAAEPQELHDLIHEWLTLLEKAVSLV",
+          134
+        ],
+        [
+          "SRR4051812_35752836",
+          "------------------------------------------------------------------------------------------VFKADDFRWYCLSVLGEVQGVFLLVPSYPNNLEELTESYMA---------",
+          135
+        ],
+        [
+          "SRR5262245_61031315",
+          "--------------------------------------------------------------------------------------------AVDDFFAWSIEVMGDIHGIVCFLAPPPEELKSMLVDWLV---------",
+          136
+        ],
+        [
+          "SRR5436190_5596707",
+          "-----------------------------------------------------------------------------------------------EFYAFPFNYQNQPIGVVVAFNQVKDSARRLMDSFVQITRVSFDN-",
+          137
+        ],
+        [
+          "SRR6478672_6027451",
+          "------------------------------------------------------------------------------------------------YFVRPVTVHQGLDGLMIFWGDR-NFRFEEIENDFLIFHLLYQQ-",
+          138
+        ],
+        [
+          "SRR5580692_3350039",
+          "-------------------------------------------------------------------------------------------------VILPLNYRQQTVGVFIMPADSGEEDDSYLGTCLLAMRRHFEVR",
+          139
+        ],
+        [
+          "SRR6185437_10134101",
+          "-----------------------------------------------------------------------------------------------------LNFRHQTIGVFIFPVD--EEDDSYLGTCLLAMRRHFEVR",
+          140
+        ],
+        [
+          "SRR5437868_1669537",
+          "----------------------------------------------------------------------------------------------------------QGVICFLTPPP--ATLNSTLHEWLMLLNKALSLL",
+          141
+        ],
+        [
+          "SRR5256885_1195040",
+          "------------------------------------------------------------------------------------------------------------XMCFLAPPP--SGLEELLHEWLTLLEKAVSLV",
+          142
+        ],
+        [
+          "SRR5690606_4380844",
+          "------------------------------------------------------------------------------------------------------------QGVALFLCEEPLSRLQVLRDWIHLLERSLTLL",
+          143
+        ],
+        [
+          "SRR5262249_55856790",
+          "-------------------------------------------------------------------------------------------------------------GVFVFPADSGENGDAYLCTCLMALRRQFDII",
+          144
+        ]
+      ]
+    }
+  },
+  "STRUCTURE": [
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 1,
+      "RES_SEQ": 1,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          null,
+          null
+        ],
+        "CA": [
+          null,
+          null,
+          null
+        ],
+        "O": [
+          null,
+          null,
+          null
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 2,
+      "RES_SEQ": 2,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          15.373,
+          -26.651,
+          306.6
+        ],
+        "C": [
+          14.162,
+          -24.42,
+          306.402
+        ],
+        "CA": [
+          15.058,
+          -25.433,
+          305.717
+        ],
+        "O": [
+          14.413,
+          -23.241,
+          306.289
+        ],
+        "CB": [
+          14.515,
+          -25.762,
+          304.25
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 3,
+      "RES_SEQ": 3,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          13.131,
+          -24.84,
+          307.129
+        ],
+        "C": [
+          13.353,
+          -23.334,
+          309.021
+        ],
+        "CA": [
+          12.385,
+          -23.904,
+          307.966
+        ],
+        "O": [
+          13.246,
+          -22.169,
+          309.386
+        ],
+        "CB": [
+          11.194,
+          -24.575,
+          308.611
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 4,
+      "RES_SEQ": 4,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          14.305,
+          -24.168,
+          309.468
+        ],
+        "C": [
+          16.271,
+          -22.675,
+          309.656
+        ],
+        "CA": [
+          15.435,
+          -23.754,
+          310.328
+        ],
+        "O": [
+          16.668,
+          -21.704,
+          310.282
+        ],
+        "CB": [
+          16.362,
+          -24.952,
+          310.65
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 5,
+      "RES_SEQ": 5,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          16.531,
+          -22.821,
+          308.361
+        ],
+        "C": [
+          16.596,
+          -20.524,
+          307.35
+        ],
+        "CA": [
+          17.315,
+          -21.845,
+          307.66
+        ],
+        "O": [
+          17.23,
+          -19.471,
+          307.325
+        ],
+        "CB": [
+          17.856,
+          -22.447,
+          306.388
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 6,
+      "RES_SEQ": 6,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          15.302,
+          -20.564,
+          307.08
+        ],
+        "C": [
+          14.511,
+          -18.663,
+          308.343
+        ],
+        "CA": [
+          14.524,
+          -19.33,
+          306.977
+        ],
+        "O": [
+          14.686,
+          -17.442,
+          308.443
+        ],
+        "CB": [
+          13.062,
+          -19.577,
+          306.531
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 7,
+      "RES_SEQ": 7,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          14.314,
+          -19.458,
+          309.394
+        ],
+        "C": [
+          15.668,
+          -18.189,
+          311.005
+        ],
+        "CA": [
+          14.369,
+          -18.931,
+          310.741
+        ],
+        "O": [
+          15.691,
+          -17.117,
+          311.63
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 8,
+      "RES_SEQ": 8,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          16.76,
+          -18.758,
+          310.516
+        ],
+        "C": [
+          18.137,
+          -16.796,
+          309.888
+        ],
+        "CA": [
+          18.047,
+          -18.113,
+          310.66
+        ],
+        "O": [
+          18.491,
+          -15.791,
+          310.478
+        ],
+        "CB": [
+          19.148,
+          -19.041,
+          310.237
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Y",
+      "RES_NAME_3LT": "TYR",
+      "RES_ORDER": 9,
+      "RES_SEQ": 9,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          17.788,
+          -16.77,
+          308.59
+        ],
+        "C": [
+          16.9,
+          -14.453,
+          308.458
+        ],
+        "CA": [
+          17.848,
+          -15.501,
+          307.836
+        ],
+        "O": [
+          17.122,
+          -13.254,
+          308.314
+        ],
+        "CB": [
+          17.634,
+          -15.666,
+          306.303
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 10,
+      "RES_SEQ": 10,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          15.879,
+          -14.875,
+          309.195
+        ],
+        "C": [
+          15.616,
+          -13.391,
+          311.21
+        ],
+        "CA": [
+          15.05,
+          -13.907,
+          309.909
+        ],
+        "O": [
+          15.173,
+          -12.352,
+          311.695
+        ],
+        "CB": [
+          13.724,
+          -14.498,
+          310.215
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 11,
+      "RES_SEQ": 11,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          16.558,
+          -14.124,
+          311.803
+        ],
+        "C": [
+          18.132,
+          -12.419,
+          312.574
+        ],
+        "CA": [
+          17.299,
+          -13.636,
+          312.967
+        ],
+        "O": [
+          18.51,
+          -11.623,
+          313.41
+        ],
+        "CB": [
+          18.215,
+          -14.728,
+          313.549
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 12,
+      "RES_SEQ": 12,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          18.389,
+          -12.274,
+          311.282
+        ],
+        "C": [
+          18.904,
+          -9.81,
+          311.167
+        ],
+        "CA": [
+          19.261,
+          -11.229,
+          310.775
+        ],
+        "O": [
+          17.775,
+          -9.384,
+          311.022
+        ],
+        "CB": [
+          19.317,
+          -11.31,
+          309.27
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Q",
+      "RES_NAME_3LT": "GLN",
+      "RES_ORDER": 13,
+      "RES_SEQ": 13,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          19.926,
+          -9.073,
+          311.593
+        ],
+        "C": [
+          20.024,
+          -6.694,
+          310.943
+        ],
+        "CA": [
+          19.785,
+          -7.714,
+          312.057
+        ],
+        "O": [
+          19.492,
+          -5.602,
+          311.004
+        ],
+        "CB": [
+          20.743,
+          -7.492,
+          313.206
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 14,
+      "RES_SEQ": 14,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          20.796,
+          -7.07,
+          309.922
+        ],
+        "C": [
+          21.312,
+          -7.025,
+          307.53
+        ],
+        "CA": [
+          21.124,
+          -6.207,
+          308.781
+        ],
+        "O": [
+          21.414,
+          -8.245,
+          307.593
+        ],
+        "CB": [
+          22.422,
+          -5.477,
+          309.031
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 15,
+      "RES_SEQ": 15,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          21.398,
+          -6.366,
+          306.383
+        ],
+        "C": [
+          23.04,
+          -7.76,
+          305.261
+        ],
+        "CA": [
+          21.684,
+          -7.097,
+          305.158
+        ],
+        "O": [
+          23.193,
+          -8.918,
+          304.837
+        ],
+        "CB": [
+          21.665,
+          -6.17,
+          303.965
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 16,
+      "RES_SEQ": 16,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          24.016,
+          -7.036,
+          305.837
+        ],
+        "C": [
+          25.261,
+          -8.885,
+          306.737
+        ],
+        "CA": [
+          25.367,
+          -7.578,
+          306.034
+        ],
+        "O": [
+          25.949,
+          -9.843,
+          306.401
+        ],
+        "CB": [
+          26.226,
+          -6.679,
+          306.899
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "D",
+      "RES_NAME_3LT": "ASP",
+      "RES_ORDER": 17,
+      "RES_SEQ": 17,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          24.382,
+          -8.903,
+          307.724
+        ],
+        "C": [
+          23.655,
+          -11.215,
+          307.778
+        ],
+        "CA": [
+          24.2,
+          -10.052,
+          308.577
+        ],
+        "O": [
+          24.133,
+          -12.309,
+          307.901
+        ],
+        "CB": [
+          23.293,
+          -9.678,
+          309.743
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 18,
+      "RES_SEQ": 18,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          22.684,
+          -10.977,
+          306.913
+        ],
+        "C": [
+          23.323,
+          -12.666,
+          305.165
+        ],
+        "CA": [
+          22.217,
+          -12.034,
+          305.98
+        ],
+        "O": [
+          23.335,
+          -13.871,
+          304.954
+        ],
+        "CB": [
+          21.207,
+          -11.476,
+          304.987
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 19,
+      "RES_SEQ": 19,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          24.221,
+          -11.839,
+          304.657
+        ],
+        "C": [
+          26.137,
+          -13.273,
+          304.719
+        ],
+        "CA": [
+          25.338,
+          -12.343,
+          303.862
+        ],
+        "O": [
+          26.455,
+          -14.376,
+          304.299
+        ],
+        "CB": [
+          26.212,
+          -11.21,
+          303.331
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Q",
+      "RES_NAME_3LT": "GLN",
+      "RES_ORDER": 20,
+      "RES_SEQ": 20,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          26.453,
+          -12.834,
+          305.93
+        ],
+        "C": [
+          26.512,
+          -14.995,
+          307.176
+        ],
+        "CA": [
+          27.222,
+          -13.694,
+          306.85
+        ],
+        "O": [
+          27.141,
+          -16.016,
+          307.322
+        ],
+        "CB": [
+          27.569,
+          -12.957,
+          308.14
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 21,
+      "RES_SEQ": 21,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          25.2,
+          -14.959,
+          307.285
+        ],
+        "C": [
+          24.464,
+          -17.13,
+          306.382
+        ],
+        "CA": [
+          24.407,
+          -16.17,
+          307.566
+        ],
+        "O": [
+          24.587,
+          -18.321,
+          306.577
+        ],
+        "CB": [
+          22.95,
+          -15.816,
+          307.972
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Y",
+      "RES_NAME_3LT": "TYR",
+      "RES_ORDER": 22,
+      "RES_SEQ": 22,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          24.401,
+          -16.613,
+          305.163
+        ],
+        "C": [
+          26.02,
+          -18.113,
+          304.059
+        ],
+        "CA": [
+          24.659,
+          -17.43,
+          303.973
+        ],
+        "O": [
+          26.112,
+          -19.332,
+          303.918
+        ],
+        "CB": [
+          24.576,
+          -16.582,
+          302.692
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 23,
+      "RES_SEQ": 23,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          27.07,
+          -17.338,
+          304.318
+        ],
+        "C": [
+          28.606,
+          -18.894,
+          305.457
+        ],
+        "CA": [
+          28.421,
+          -17.899,
+          304.351
+        ],
+        "O": [
+          29.404,
+          -19.811,
+          305.349
+        ],
+        "CB": [
+          29.45,
+          -16.798,
+          304.456
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "N",
+      "RES_NAME_3LT": "ASN",
+      "RES_ORDER": 24,
+      "RES_SEQ": 24,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          27.844,
+          -18.728,
+          306.525
+        ],
+        "C": [
+          27.485,
+          -21.103,
+          307.186
+        ],
+        "CA": [
+          27.848,
+          -19.681,
+          307.635
+        ],
+        "O": [
+          27.94,
+          -22.063,
+          307.768
+        ],
+        "CB": [
+          26.889,
+          -19.236,
+          308.746
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Q",
+      "RES_NAME_3LT": "GLN",
+      "RES_ORDER": 25,
+      "RES_SEQ": 25,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          26.652,
+          -21.233,
+          306.163
+        ],
+        "C": [
+          27.372,
+          -23.144,
+          304.791
+        ],
+        "CA": [
+          26.324,
+          -22.535,
+          305.658
+        ],
+        "O": [
+          27.217,
+          -24.282,
+          304.416
+        ],
+        "CB": [
+          25.07,
+          -22.525,
+          304.831
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 26,
+      "RES_SEQ": 26,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          28.427,
+          -22.447,
+          304.436
+        ],
+        "C": [
+          30.764,
+          -23.193,
+          304.256
+        ],
+        "CA": [
+          29.415,
+          -23.098,
+          303.555
+        ],
+        "O": [
+          31.785,
+          -22.757,
+          303.717
+        ],
+        "CB": [
+          29.483,
+          -22.348,
+          302.207
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 27,
+      "RES_SEQ": 27,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          30.777,
+          -23.814,
+          305.443
+        ],
+        "C": [
+          33.212,
+          -24.193,
+          305.768
+        ],
+        "CA": [
+          31.93,
+          -23.633,
+          306.325
+        ],
+        "O": [
+          34.256,
+          -23.569,
+          305.92
+        ],
+        "CB": [
+          31.525,
+          -24.393,
+          307.582
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 28,
+      "RES_SEQ": 28,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          33.15,
+          -25.35,
+          305.106
+        ],
+        "C": [
+          34.937,
+          -25.497,
+          303.363
+        ],
+        "CA": [
+          34.358,
+          -26.007,
+          304.666
+        ],
+        "O": [
+          35.942,
+          -26.042,
+          302.899
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 29,
+      "RES_SEQ": 29,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          34.309,
+          -24.509,
+          302.728
+        ],
+        "C": [
+          34.922,
+          -22.621,
+          301.261
+        ],
+        "CA": [
+          34.692,
+          -24.129,
+          301.365
+        ],
+        "O": [
+          34.141,
+          -21.813,
+          301.756
+        ],
+        "CB": [
+          33.619,
+          -24.617,
+          300.363
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 30,
+      "RES_SEQ": 30,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          35.99,
+          -22.241,
+          300.58
+        ],
+        "C": [
+          35.462,
+          -20.072,
+          299.505
+        ],
+        "CA": [
+          36.363,
+          -20.842,
+          300.456
+        ],
+        "O": [
+          35.274,
+          -20.456,
+          298.32
+        ],
+        "CB": [
+          37.807,
+          -20.754,
+          299.97
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "C",
+      "RES_NAME_3LT": "CYS",
+      "RES_ORDER": 31,
+      "RES_SEQ": 31,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          34.905,
+          -18.983,
+          300.031
+        ],
+        "C": [
+          34.096,
+          -16.711,
+          299.871
+        ],
+        "CA": [
+          34.024,
+          -18.106,
+          299.277
+        ],
+        "O": [
+          33.922,
+          -16.542,
+          301.056
+        ],
+        "CB": [
+          32.585,
+          -18.605,
+          299.337
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 32,
+      "RES_SEQ": 32,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          34.319,
+          -15.705,
+          299.039
+        ],
+        "C": [
+          33.435,
+          -13.397,
+          298.914
+        ],
+        "CA": [
+          34.45,
+          -14.348,
+          299.54
+        ],
+        "O": [
+          33.244,
+          -13.388,
+          297.7
+        ],
+        "CB": [
+          35.852,
+          -13.83,
+          299.274
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 33,
+      "RES_SEQ": 33,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          32.788,
+          -12.586,
+          299.744
+        ],
+        "C": [
+          32.527,
+          -10.242,
+          299.047
+        ],
+        "CA": [
+          31.846,
+          -11.605,
+          299.248
+        ],
+        "O": [
+          33.191,
+          -9.738,
+          299.952
+        ],
+        "CB": [
+          30.644,
+          -11.467,
+          300.183
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 34,
+      "RES_SEQ": 34,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          32.349,
+          -9.656,
+          297.867
+        ],
+        "C": [
+          31.799,
+          -7.327,
+          297.316
+        ],
+        "CA": [
+          32.919,
+          -8.33,
+          297.544
+        ],
+        "O": [
+          30.983,
+          -7.509,
+          296.415
+        ],
+        "CB": [
+          33.786,
+          -8.421,
+          296.274
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 35,
+      "RES_SEQ": 35,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          31.73,
+          -6.311,
+          298.164
+        ],
+        "C": [
+          31.173,
+          -4.35,
+          296.841
+        ],
+        "CA": [
+          30.754,
+          -5.226,
+          298.032
+        ],
+        "O": [
+          32.372,
+          -4.055,
+          296.663
+        ],
+        "CB": [
+          30.716,
+          -4.351,
+          299.294
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 36,
+      "RES_SEQ": 36,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          30.189,
+          -3.948,
+          296.047
+        ],
+        "C": [
+          30.352,
+          -1.631,
+          295.303
+        ],
+        "CA": [
+          30.448,
+          -3.087,
+          294.905
+        ],
+        "O": [
+          29.369,
+          -1.246,
+          295.923
+        ],
+        "CB": [
+          29.447,
+          -3.446,
+          293.783
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 37,
+      "RES_SEQ": 37,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          31.369,
+          -0.836,
+          295.002
+        ],
+        "C": [
+          31.424,
+          1.282,
+          293.837
+        ],
+        "CA": [
+          31.324,
+          0.603,
+          295.207
+        ],
+        "O": [
+          32.545,
+          1.549,
+          293.329
+        ],
+        "CB": [
+          32.484,
+          1.051,
+          296.091
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 38,
+      "RES_SEQ": 38,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          30.276,
+          1.54,
+          293.218
+        ],
+        "C": [
+          30.96,
+          3.457,
+          291.73
+        ],
+        "CA": [
+          30.162,
+          2.141,
+          291.89
+        ],
+        "O": [
+          31.746,
+          3.561,
+          290.825
+        ],
+        "CB": [
+          28.678,
+          2.486,
+          291.785
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 39,
+      "RES_SEQ": 39,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          30.767,
+          4.434,
+          292.599
+        ],
+        "C": [
+          32.812,
+          5.779,
+          292.24
+        ],
+        "CA": [
+          31.311,
+          5.748,
+          292.349
+        ],
+        "O": [
+          33.362,
+          6.746,
+          291.743
+        ],
+        "CB": [
+          30.883,
+          6.732,
+          293.449
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 40,
+      "RES_SEQ": 40,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          33.469,
+          4.746,
+          292.746
+        ],
+        "C": [
+          35.338,
+          3.31,
+          291.933
+        ],
+        "CA": [
+          34.94,
+          4.6,
+          292.664
+        ],
+        "O": [
+          36.512,
+          2.912,
+          291.911
+        ],
+        "CB": [
+          35.599,
+          4.627,
+          294.07
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 41,
+      "RES_SEQ": 41,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          34.353,
+          2.671,
+          291.309
+        ],
+        "C": [
+          35.378,
+          0.503,
+          291.179
+        ],
+        "CA": [
+          34.568,
+          1.504,
+          290.471
+        ],
+        "O": [
+          36.377,
+          0.055,
+          290.642
+        ],
+        "CB": [
+          35.263,
+          1.884,
+          289.166
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 42,
+      "RES_SEQ": 42,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          34.957,
+          0.142,
+          292.383
+        ],
+        "C": [
+          34.937,
+          -1.896,
+          293.716
+        ],
+        "CA": [
+          35.768,
+          -0.77,
+          293.168
+        ],
+        "O": [
+          33.702,
+          -1.813,
+          293.772
+        ],
+        "CB": [
+          36.501,
+          -0.008,
+          294.265
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 43,
+      "RES_SEQ": 43,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          35.611,
+          -2.994,
+          294.056
+        ],
+        "C": [
+          35.843,
+          -4.303,
+          296.031
+        ],
+        "CA": [
+          34.974,
+          -4.083,
+          294.822
+        ],
+        "O": [
+          37.059,
+          -4.441,
+          295.875
+        ],
+        "CB": [
+          34.896,
+          -5.373,
+          294.028
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 44,
+      "RES_SEQ": 44,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          35.26,
+          -4.326,
+          297.235
+        ],
+        "C": [
+          35.535,
+          -5.784,
+          299.193
+        ],
+        "CA": [
+          36.091,
+          -4.584,
+          298.441
+        ],
+        "O": [
+          34.327,
+          -5.993,
+          299.232
+        ],
+        "CB": [
+          36.207,
+          -3.37,
+          299.363
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 45,
+      "RES_SEQ": 45,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          36.428,
+          -6.585,
+          299.755
+        ],
+        "C": [
+          35.392,
+          -7.445,
+          301.778
+        ],
+        "CA": [
+          36.019,
+          -7.804,
+          300.427
+        ],
+        "O": [
+          36.022,
+          -6.731,
+          302.566
+        ],
+        "CB": [
+          37.216,
+          -8.712,
+          300.623
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 46,
+      "RES_SEQ": 46,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          34.171,
+          -7.931,
+          302.033
+        ],
+        "C": [
+          33.154,
+          -8.886,
+          304.132
+        ],
+        "CA": [
+          33.51,
+          -7.669,
+          303.298
+        ],
+        "O": [
+          33.008,
+          -8.77,
+          305.364
+        ],
+        "CB": [
+          32.269,
+          -6.781,
+          303.149
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "H",
+      "RES_NAME_3LT": "HIS",
+      "RES_ORDER": 47,
+      "RES_SEQ": 47,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          32.995,
+          -10.048,
+          303.509
+        ],
+        "C": [
+          33.495,
+          -12.427,
+          303.592
+        ],
+        "CA": [
+          32.754,
+          -11.285,
+          304.249
+        ],
+        "O": [
+          33.841,
+          -12.317,
+          302.431
+        ],
+        "CB": [
+          31.26,
+          -11.605,
+          304.289
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 48,
+      "RES_SEQ": 48,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          33.682,
+          -13.525,
+          304.302
+        ],
+        "C": [
+          33.948,
+          -15.952,
+          304.469
+        ],
+        "CA": [
+          34.365,
+          -14.676,
+          303.755
+        ],
+        "O": [
+          33.366,
+          -15.896,
+          305.524
+        ],
+        "CB": [
+          35.863,
+          -14.472,
+          303.838
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 49,
+      "RES_SEQ": 49,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          34.271,
+          -17.101,
+          303.899
+        ],
+        "C": [
+          34.633,
+          -19.445,
+          304.598
+        ],
+        "CA": [
+          33.651,
+          -18.34,
+          304.291
+        ],
+        "O": [
+          34.392,
+          -20.266,
+          305.499
+        ],
+        "CB": [
+          32.704,
+          -18.773,
+          303.18
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 50,
+      "RES_SEQ": 50,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          35.748,
+          -19.523,
+          303.874
+        ],
+        "C": [
+          38.007,
+          -20.168,
+          304.85
+        ],
+        "CA": [
+          36.721,
+          -20.599,
+          304.143
+        ],
+        "O": [
+          38.953,
+          -20.94,
+          304.93
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 51,
+      "RES_SEQ": 51,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          38.039,
+          -18.933,
+          305.352
+        ],
+        "C": [
+          38.81,
+          -17.314,
+          307.029
+        ],
+        "CA": [
+          39.23,
+          -18.33,
+          305.946
+        ],
+        "O": [
+          37.691,
+          -16.753,
+          306.995
+        ],
+        "CB": [
+          40.154,
+          -17.649,
+          304.886
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 52,
+      "RES_SEQ": 52,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          39.708,
+          -17.059,
+          308.005
+        ],
+        "C": [
+          39.31,
+          -14.645,
+          308.454
+        ],
+        "CA": [
+          39.418,
+          -16.053,
+          309.036
+        ],
+        "O": [
+          40.113,
+          -14.273,
+          307.609
+        ],
+        "CB": [
+          40.63,
+          -16.135,
+          309.954
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 53,
+      "RES_SEQ": 53,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          38.326,
+          -13.874,
+          308.912
+        ],
+        "C": [
+          39.328,
+          -11.608,
+          308.439
+        ],
+        "CA": [
+          38.1,
+          -12.505,
+          308.442
+        ],
+        "O": [
+          39.387,
+          -10.643,
+          307.677
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 54,
+      "RES_SEQ": 54,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          40.307,
+          -11.919,
+          309.287
+        ],
+        "C": [
+          42.268,
+          -11.202,
+          307.878
+        ],
+        "CA": [
+          41.593,
+          -11.196,
+          309.274
+        ],
+        "O": [
+          42.896,
+          -10.223,
+          307.492
+        ],
+        "CB": [
+          42.546,
+          -11.74,
+          310.357
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "D",
+      "RES_NAME_3LT": "ASP",
+      "RES_ORDER": 55,
+      "RES_SEQ": 55,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          42.093,
+          -12.288,
+          307.122
+        ],
+        "C": [
+          41.871,
+          -11.684,
+          304.664
+        ],
+        "CA": [
+          42.635,
+          -12.409,
+          305.758
+        ],
+        "O": [
+          42.132,
+          -11.987,
+          303.514
+        ],
+        "CB": [
+          42.716,
+          -13.889,
+          305.309
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 56,
+      "RES_SEQ": 56,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          40.945,
+          -10.765,
+          304.969
+        ],
+        "C": [
+          40.152,
+          -8.54,
+          304.09
+        ],
+        "CA": [
+          40.215,
+          -10.05,
+          303.916
+        ],
+        "O": [
+          39.686,
+          -7.821,
+          303.204
+        ],
+        "CB": [
+          38.779,
+          -10.547,
+          303.707
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Q",
+      "RES_NAME_3LT": "GLN",
+      "RES_ORDER": 57,
+      "RES_SEQ": 57,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          40.623,
+          -8.033,
+          305.234
+        ],
+        "C": [
+          41.863,
+          -6.133,
+          304.471
+        ],
+        "CA": [
+          40.763,
+          -6.595,
+          305.38
+        ],
+        "O": [
+          42.869,
+          -6.771,
+          304.336
+        ],
+        "CB": [
+          40.966,
+          -6.163,
+          306.834
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 58,
+      "RES_SEQ": 58,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          41.623,
+          -5.02,
+          303.813
+        ],
+        "C": [
+          42.148,
+          -4.979,
+          301.42
+        ],
+        "CA": [
+          42.542,
+          -4.504,
+          302.808
+        ],
+        "O": [
+          42.33,
+          -4.236,
+          300.466
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 59,
+      "RES_SEQ": 59,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          41.599,
+          -6.182,
+          301.281
+        ],
+        "C": [
+          40.376,
+          -6.161,
+          299.135
+        ],
+        "CA": [
+          41.477,
+          -6.81,
+          299.973
+        ],
+        "O": [
+          39.216,
+          -6.238,
+          299.478
+        ],
+        "CB": [
+          41.159,
+          -8.313,
+          300.08
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 60,
+      "RES_SEQ": 60,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          40.747,
+          -5.545,
+          298.014
+        ],
+        "C": [
+          40.439,
+          -4.855,
+          295.673
+        ],
+        "CA": [
+          39.79,
+          -5.121,
+          297.01
+        ],
+        "O": [
+          41.598,
+          -5.161,
+          295.477
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 61,
+      "RES_SEQ": 61,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          39.688,
+          -4.278,
+          294.742
+        ],
+        "C": [
+          39.543,
+          -2.638,
+          292.886
+        ],
+        "CA": [
+          40.249,
+          -3.877,
+          293.454
+        ],
+        "O": [
+          38.331,
+          -2.494,
+          293.052
+        ],
+        "CB": [
+          40.231,
+          -5.061,
+          292.453
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Q",
+      "RES_NAME_3LT": "GLN",
+      "RES_ORDER": 62,
+      "RES_SEQ": 62,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          40.324,
+          -1.753,
+          292.261
+        ],
+        "C": [
+          39.794,
+          -1.067,
+          289.985
+        ],
+        "CA": [
+          39.764,
+          -0.671,
+          291.453
+        ],
+        "O": [
+          40.776,
+          -1.581,
+          289.517
+        ],
+        "CB": [
+          40.502,
+          0.661,
+          291.643
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 63,
+      "RES_SEQ": 63,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          38.706,
+          -0.813,
+          289.265
+        ],
+        "C": [
+          38.573,
+          0.131,
+          287.02
+        ],
+        "CA": [
+          38.584,
+          -1.142,
+          287.846
+        ],
+        "O": [
+          38.337,
+          1.215,
+          287.56
+        ],
+        "CB": [
+          37.29,
+          -1.909,
+          287.633
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 64,
+      "RES_SEQ": 64,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          38.847,
+          -0.01,
+          285.715
+        ],
+        "C": [
+          37.321,
+          1.161,
+          284.265
+        ],
+        "CA": [
+          38.752,
+          1.079,
+          284.729
+        ],
+        "O": [
+          36.576,
+          0.208,
+          284.457
+        ],
+        "CB": [
+          39.642,
+          0.787,
+          283.516
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 65,
+      "RES_SEQ": 65,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          36.917,
+          2.281,
+          283.657
+        ],
+        "C": [
+          35.152,
+          1.305,
+          282.181
+        ],
+        "CA": [
+          35.53,
+          2.417,
+          283.152
+        ],
+        "O": [
+          34.004,
+          0.846,
+          282.16
+        ],
+        "CB": [
+          35.3,
+          3.773,
+          282.505
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "N",
+      "RES_NAME_3LT": "ASN",
+      "RES_ORDER": 66,
+      "RES_SEQ": 66,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          36.144,
+          0.875,
+          281.376
+        ],
+        "C": [
+          35.529,
+          -1.534,
+          281.155
+        ],
+        "CA": [
+          35.999,
+          -0.267,
+          280.477
+        ],
+        "O": [
+          34.54,
+          -2.115,
+          280.767
+        ],
+        "CB": [
+          37.31,
+          -0.498,
+          279.77
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "D",
+      "RES_NAME_3LT": "ASP",
+      "RES_ORDER": 67,
+      "RES_SEQ": 67,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          36.238,
+          -1.953,
+          282.189
+        ],
+        "C": [
+          34.366,
+          -3.056,
+          283.473
+        ],
+        "CA": [
+          35.843,
+          -3.115,
+          282.973
+        ],
+        "O": [
+          33.778,
+          -4.086,
+          283.814
+        ],
+        "CB": [
+          36.78,
+          -3.261,
+          284.18
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "M",
+      "RES_NAME_3LT": "MET",
+      "RES_ORDER": 68,
+      "RES_SEQ": 68,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          33.769,
+          -1.865,
+          283.534
+        ],
+        "C": [
+          31.293,
+          -1.88,
+          283.055
+        ],
+        "CA": [
+          32.402,
+          -1.679,
+          284.078
+        ],
+        "O": [
+          30.254,
+          -2.486,
+          283.374
+        ],
+        "CB": [
+          32.241,
+          -0.286,
+          284.645
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 69,
+      "RES_SEQ": 69,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          31.519,
+          -1.403,
+          281.833
+        ],
+        "C": [
+          29.734,
+          -2.811,
+          280.684
+        ],
+        "CA": [
+          30.496,
+          -1.507,
+          280.787
+        ],
+        "O": [
+          28.546,
+          -2.742,
+          280.478
+        ],
+        "CB": [
+          31.025,
+          -1.159,
+          279.387
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 70,
+      "RES_SEQ": 70,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          30.382,
+          -3.967,
+          280.736
+        ],
+        "C": [
+          29.687,
+          -6.17,
+          281.841
+        ],
+        "CA": [
+          29.66,
+          -5.246,
+          280.593
+        ],
+        "O": [
+          29.883,
+          -7.41,
+          281.749
+        ],
+        "CB": [
+          30.219,
+          -5.998,
+          279.387
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 71,
+      "RES_SEQ": 71,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          29.515,
+          -5.571,
+          283.005
+        ],
+        "C": [
+          28.611,
+          -7.316,
+          284.516
+        ],
+        "CA": [
+          29.728,
+          -6.306,
+          284.245
+        ],
+        "O": [
+          28.837,
+          -8.436,
+          285.009
+        ],
+        "CB": [
+          29.878,
+          -5.316,
+          285.379
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 72,
+      "RES_SEQ": 72,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          27.39,
+          -6.928,
+          284.182
+        ],
+        "C": [
+          26.295,
+          -8.981,
+          283.434
+        ],
+        "CA": [
+          26.259,
+          -7.811,
+          284.379
+        ],
+        "O": [
+          26.041,
+          -10.122,
+          283.834
+        ],
+        "CB": [
+          24.924,
+          -7.063,
+          284.132
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 73,
+      "RES_SEQ": 73,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          26.576,
+          -8.67,
+          282.159
+        ],
+        "C": [
+          27.583,
+          -10.762,
+          281.466
+        ],
+        "CA": [
+          26.612,
+          -9.669,
+          281.081
+        ],
+        "O": [
+          27.308,
+          -11.963,
+          281.281
+        ],
+        "CB": [
+          27.035,
+          -8.98,
+          279.777
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Q",
+      "RES_NAME_3LT": "GLN",
+      "RES_ORDER": 74,
+      "RES_SEQ": 74,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          28.705,
+          -10.333,
+          282.038
+        ],
+        "C": [
+          29.498,
+          -12.073,
+          283.626
+        ],
+        "CA": [
+          29.766,
+          -11.245,
+          282.418
+        ],
+        "O": [
+          29.664,
+          -13.289,
+          283.586
+        ],
+        "CB": [
+          31.048,
+          -10.471,
+          282.662
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "M",
+      "RES_NAME_3LT": "MET",
+      "RES_ORDER": 75,
+      "RES_SEQ": 75,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          29.129,
+          -11.425,
+          284.724
+        ],
+        "C": [
+          27.713,
+          -13.178,
+          285.786
+        ],
+        "CA": [
+          28.861,
+          -12.162,
+          285.955
+        ],
+        "O": [
+          27.676,
+          -14.227,
+          286.43
+        ],
+        "CB": [
+          28.577,
+          -11.186,
+          287.073
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 76,
+      "RES_SEQ": 76,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          26.796,
+          -12.872,
+          284.887
+        ],
+        "C": [
+          26.227,
+          -15.164,
+          284.106
+        ],
+        "CA": [
+          25.741,
+          -13.802,
+          284.549
+        ],
+        "O": [
+          25.521,
+          -16.13,
+          284.244
+        ],
+        "CB": [
+          24.878,
+          -13.215,
+          283.45
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "I",
+      "RES_NAME_3LT": "ILE",
+      "RES_ORDER": 77,
+      "RES_SEQ": 77,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          27.41,
+          -15.236,
+          283.508
+        ],
+        "C": [
+          29.198,
+          -16.853,
+          283.936
+        ],
+        "CA": [
+          27.974,
+          -16.515,
+          283.078
+        ],
+        "O": [
+          30.022,
+          -17.677,
+          283.526
+        ],
+        "CB": [
+          28.306,
+          -16.508,
+          281.565
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 78,
+      "RES_SEQ": 78,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          29.328,
+          -16.263,
+          285.113
+        ],
+        "C": [
+          31.744,
+          -15.852,
+          285.839
+        ],
+        "CA": [
+          30.449,
+          -16.602,
+          285.978
+        ],
+        "O": [
+          32.67,
+          -16.112,
+          286.612
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 79,
+      "RES_SEQ": 79,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          31.797,
+          -14.869,
+          284.949
+        ],
+        "C": [
+          33.226,
+          -12.863,
+          285.308
+        ],
+        "CA": [
+          33.058,
+          -14.2,
+          284.617
+        ],
+        "O": [
+          32.258,
+          -12.228,
+          285.69
+        ],
+        "CB": [
+          33.193,
+          -13.995,
+          283.108
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 80,
+      "RES_SEQ": 80,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          34.485,
+          -12.465,
+          285.443
+        ],
+        "C": [
+          35.912,
+          -10.577,
+          285.131
+        ],
+        "CA": [
+          34.857,
+          -11.183,
+          286.005
+        ],
+        "O": [
+          36.66,
+          -11.303,
+          284.488
+        ],
+        "CB": [
+          35.439,
+          -11.335,
+          287.39
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 81,
+      "RES_SEQ": 81,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          35.994,
+          -9.242,
+          285.128
+        ],
+        "C": [
+          38.357,
+          -9.172,
+          284.718
+        ],
+        "CA": [
+          37.022,
+          -8.575,
+          284.367
+        ],
+        "O": [
+          38.538,
+          -9.661,
+          285.847
+        ],
+        "CB": [
+          36.976,
+          -7.143,
+          284.876
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 82,
+      "RES_SEQ": 82,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          39.306,
+          -9.122,
+          283.769
+        ],
+        "C": [
+          41.361,
+          -9.251,
+          285.141
+        ],
+        "CA": [
+          40.525,
+          -9.859,
+          284.009
+        ],
+        "O": [
+          41.995,
+          -10.01,
+          285.88
+        ],
+        "CB": [
+          41.232,
+          -9.845,
+          282.648
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 83,
+      "RES_SEQ": 83,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          41.321,
+          -7.927,
+          285.306
+        ],
+        "C": [
+          41.547,
+          -7.9,
+          287.795
+        ],
+        "CA": [
+          42.002,
+          -7.292,
+          286.445
+        ],
+        "O": [
+          42.35,
+          -8.372,
+          288.602
+        ],
+        "CB": [
+          41.768,
+          -5.796,
+          286.43
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 84,
+      "RES_SEQ": 84,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          40.248,
+          -7.861,
+          288.016
+        ],
+        "C": [
+          40.059,
+          -9.984,
+          289.264
+        ],
+        "CA": [
+          39.604,
+          -8.505,
+          289.151
+        ],
+        "O": [
+          40.556,
+          -10.4,
+          290.298
+        ],
+        "CB": [
+          38.069,
+          -8.378,
+          288.956
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 85,
+      "RES_SEQ": 85,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          39.936,
+          -10.753,
+          288.188
+        ],
+        "C": [
+          41.728,
+          -12.445,
+          288.681
+        ],
+        "CA": [
+          40.277,
+          -12.19,
+          288.223
+        ],
+        "O": [
+          42.036,
+          -13.405,
+          289.409
+        ],
+        "CB": [
+          40.081,
+          -12.843,
+          286.837
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 86,
+      "RES_SEQ": 86,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          42.619,
+          -11.561,
+          288.247
+        ],
+        "C": [
+          44.295,
+          -11.415,
+          290.0
+        ],
+        "CA": [
+          44.061,
+          -11.706,
+          288.504
+        ],
+        "O": [
+          45.001,
+          -12.158,
+          290.703
+        ],
+        "CB": [
+          44.826,
+          -10.784,
+          287.537
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "M",
+      "RES_NAME_3LT": "MET",
+      "RES_ORDER": 87,
+      "RES_SEQ": 87,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          43.67,
+          -10.337,
+          290.479
+        ],
+        "C": [
+          43.206,
+          -11.224,
+          292.712
+        ],
+        "CA": [
+          43.665,
+          -10.033,
+          291.897
+        ],
+        "O": [
+          43.84,
+          -11.582,
+          293.696
+        ],
+        "CB": [
+          42.785,
+          -8.816,
+          292.179
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 88,
+      "RES_SEQ": 88,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          42.11,
+          -11.855,
+          292.318
+        ],
+        "C": [
+          42.476,
+          -14.137,
+          293.216
+        ],
+        "CA": [
+          41.548,
+          -12.944,
+          293.125
+        ],
+        "O": [
+          42.539,
+          -14.808,
+          294.231
+        ],
+        "CB": [
+          40.184,
+          -13.374,
+          292.585
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 89,
+      "RES_SEQ": 89,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          43.192,
+          -14.439,
+          292.141
+        ],
+        "C": [
+          45.265,
+          -15.261,
+          293.084
+        ],
+        "CA": [
+          44.09,
+          -15.594,
+          292.206
+        ],
+        "O": [
+          45.675,
+          -16.093,
+          293.881
+        ],
+        "CB": [
+          44.52,
+          -16.103,
+          290.812
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 90,
+      "RES_SEQ": 90,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          45.788,
+          -14.043,
+          292.961
+        ],
+        "C": [
+          46.592,
+          -13.668,
+          295.267
+        ],
+        "CA": [
+          46.956,
+          -13.65,
+          293.768
+        ],
+        "O": [
+          47.297,
+          -14.278,
+          296.065
+        ],
+        "CB": [
+          47.509,
+          -12.301,
+          293.275
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 91,
+      "RES_SEQ": 91,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          45.459,
+          -13.06,
+          295.607
+        ],
+        "C": [
+          44.586,
+          -14.469,
+          297.506
+        ],
+        "CA": [
+          44.931,
+          -13.077,
+          296.968
+        ],
+        "O": [
+          45.17,
+          -14.895,
+          298.472
+        ],
+        "CB": [
+          43.703,
+          -12.18,
+          297.073
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 92,
+      "RES_SEQ": 92,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          43.641,
+          -15.172,
+          296.902
+        ],
+        "C": [
+          43.387,
+          -17.704,
+          296.747
+        ],
+        "CA": [
+          43.126,
+          -16.407,
+          297.507
+        ],
+        "O": [
+          42.907,
+          -18.768,
+          297.147
+        ],
+        "CB": [
+          41.622,
+          -16.286,
+          297.796
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "H",
+      "RES_NAME_3LT": "HIS",
+      "RES_ORDER": 93,
+      "RES_SEQ": 93,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          44.145,
+          -17.629,
+          295.665
+        ],
+        "C": [
+          43.175,
+          -19.642,
+          294.639
+        ],
+        "CA": [
+          44.443,
+          -18.811,
+          294.868
+        ],
+        "O": [
+          43.088,
+          -20.794,
+          295.037
+        ],
+        "CB": [
+          45.55,
+          -19.634,
+          295.527
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 94,
+      "RES_SEQ": 94,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          42.178,
+          -19.001,
+          294.04
+        ],
+        "C": [
+          41.572,
+          -20.206,
+          292.037
+        ],
+        "CA": [
+          41.066,
+          -19.689,
+          293.387
+        ],
+        "O": [
+          42.21,
+          -19.455,
+          291.325
+        ],
+        "CB": [
+          39.969,
+          -18.708,
+          293.055
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 95,
+      "RES_SEQ": 95,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          41.266,
+          -21.456,
+          291.663
+        ],
+        "C": [
+          41.434,
+          -21.431,
+          289.147
+        ],
+        "CA": [
+          41.915,
+          -22.071,
+          290.47
+        ],
+        "O": [
+          42.28,
+          -21.186,
+          288.23
+        ],
+        "CB": [
+          41.771,
+          -23.585,
+          290.433
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 96,
+      "RES_SEQ": 96,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          40.095,
+          -21.278,
+          288.976
+        ],
+        "C": [
+          38.708,
+          -19.413,
+          289.441
+        ],
+        "CA": [
+          39.714,
+          -19.978,
+          288.47
+        ],
+        "O": [
+          37.874,
+          -20.141,
+          289.978
+        ],
+        "CB": [
+          39.07,
+          -20.288,
+          287.117
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 97,
+      "RES_SEQ": 97,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          38.784,
+          -18.121,
+          289.699
+        ],
+        "C": [
+          36.393,
+          -17.734,
+          289.607
+        ],
+        "CA": [
+          37.674,
+          -17.526,
+          290.405
+        ],
+        "O": [
+          36.428,
+          -17.601,
+          288.395
+        ],
+        "CB": [
+          38.015,
+          -16.044,
+          290.417
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "K",
+      "RES_NAME_3LT": "LYS",
+      "RES_ORDER": 98,
+      "RES_SEQ": 98,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          35.282,
+          -18.075,
+          290.252
+        ],
+        "C": [
+          33.127,
+          -17.005,
+          290.383
+        ],
+        "CA": [
+          33.978,
+          -17.99,
+          289.6
+        ],
+        "O": [
+          33.228,
+          -16.887,
+          291.617
+        ],
+        "CB": [
+          33.271,
+          -19.338,
+          289.525
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 99,
+      "RES_SEQ": 99,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          32.282,
+          -16.294,
+          289.65
+        ],
+        "C": [
+          30.031,
+          -15.634,
+          290.302
+        ],
+        "CA": [
+          31.487,
+          -15.234,
+          290.223
+        ],
+        "O": [
+          29.509,
+          -16.326,
+          289.44
+        ],
+        "CB": [
+          31.607,
+          -13.986,
+          289.395
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 100,
+      "RES_SEQ": 100,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          29.383,
+          -15.141,
+          291.345
+        ],
+        "C": [
+          27.464,
+          -14.037,
+          292.166
+        ],
+        "CA": [
+          27.993,
+          -15.374,
+          291.631
+        ],
+        "O": [
+          27.698,
+          -13.697,
+          293.31
+        ],
+        "CB": [
+          27.883,
+          -16.516,
+          292.649
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 101,
+      "RES_SEQ": 101,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          26.811,
+          -13.245,
+          291.31
+        ],
+        "C": [
+          25.188,
+          -11.78,
+          292.508
+        ],
+        "CA": [
+          26.458,
+          -11.886,
+          291.678
+        ],
+        "O": [
+          24.21,
+          -12.509,
+          292.286
+        ],
+        "CB": [
+          26.234,
+          -11.215,
+          290.309
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 102,
+      "RES_SEQ": 102,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          25.215,
+          -10.827,
+          293.418
+        ],
+        "C": [
+          23.416,
+          -9.236,
+          293.827
+        ],
+        "CA": [
+          24.06,
+          -10.535,
+          294.247
+        ],
+        "O": [
+          24.038,
+          -8.168,
+          293.888
+        ],
+        "CB": [
+          24.471,
+          -10.433,
+          295.738
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Y",
+      "RES_NAME_3LT": "TYR",
+      "RES_ORDER": 103,
+      "RES_SEQ": 103,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          22.162,
+          -9.32,
+          293.386
+        ],
+        "C": [
+          20.407,
+          -7.737,
+          294.068
+        ],
+        "CA": [
+          21.425,
+          -8.104,
+          293.019
+        ],
+        "O": [
+          19.87,
+          -8.602,
+          294.754
+        ],
+        "CB": [
+          20.725,
+          -8.316,
+          291.672
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 104,
+      "RES_SEQ": 104,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          20.116,
+          -6.457,
+          294.185
+        ],
+        "C": [
+          18.43,
+          -4.705,
+          294.544
+        ],
+        "CA": [
+          19.008,
+          -6.009,
+          295.048
+        ],
+        "O": [
+          19.177,
+          -3.783,
+          294.199
+        ],
+        "CB": [
+          19.522,
+          -5.835,
+          296.455
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "H",
+      "RES_NAME_3LT": "HIS",
+      "RES_ORDER": 105,
+      "RES_SEQ": 105,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          17.116,
+          -4.625,
+          294.481
+        ],
+        "C": [
+          17.04,
+          -3.117,
+          292.6
+        ],
+        "CA": [
+          16.467,
+          -3.411,
+          293.989
+        ],
+        "O": [
+          17.359,
+          -2.008,
+          292.247
+        ],
+        "CB": [
+          16.652,
+          -2.237,
+          294.989
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "N",
+      "RES_NAME_3LT": "ASN",
+      "RES_ORDER": 106,
+      "RES_SEQ": 106,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          17.169,
+          -4.191,
+          291.815
+        ],
+        "C": [
+          19.077,
+          -3.49,
+          290.298
+        ],
+        "CA": [
+          17.737,
+          -4.161,
+          290.454
+        ],
+        "O": [
+          19.387,
+          -3.049,
+          289.218
+        ],
+        "CB": [
+          16.751,
+          -3.563,
+          289.456
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 107,
+      "RES_SEQ": 107,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          19.891,
+          -3.461,
+          291.352
+        ],
+        "C": [
+          22.214,
+          -4.012,
+          291.764
+        ],
+        "CA": [
+          21.241,
+          -2.975,
+          291.265
+        ],
+        "O": [
+          21.855,
+          -4.849,
+          292.593
+        ],
+        "CB": [
+          21.346,
+          -1.756,
+          292.124
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 108,
+      "RES_SEQ": 108,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          23.451,
+          -3.996,
+          291.289
+        ],
+        "C": [
+          24.933,
+          -4.548,
+          293.22
+        ],
+        "CA": [
+          24.46,
+          -4.935,
+          291.798
+        ],
+        "O": [
+          25.488,
+          -3.492,
+          293.401
+        ],
+        "CB": [
+          25.636,
+          -4.944,
+          290.833
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 109,
+      "RES_SEQ": 109,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          24.738,
+          -5.415,
+          294.196
+        ],
+        "C": [
+          26.64,
+          -5.544,
+          295.706
+        ],
+        "CA": [
+          25.18,
+          -5.149,
+          295.559
+        ],
+        "O": [
+          27.424,
+          -4.889,
+          296.428
+        ],
+        "CB": [
+          24.429,
+          -6.039,
+          296.54
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 110,
+      "RES_SEQ": 110,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          26.964,
+          -6.665,
+          295.07
+        ],
+        "C": [
+          28.355,
+          -8.568,
+          294.493
+        ],
+        "CA": [
+          28.278,
+          -7.228,
+          295.189
+        ],
+        "O": [
+          27.432,
+          -8.977,
+          293.762
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 111,
+      "RES_SEQ": 111,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          29.438,
+          -9.28,
+          294.765
+        ],
+        "C": [
+          30.295,
+          -11.54,
+          295.045
+        ],
+        "CA": [
+          29.637,
+          -10.544,
+          294.102
+        ],
+        "O": [
+          31.266,
+          -11.21,
+          295.731
+        ],
+        "CB": [
+          30.401,
+          -10.333,
+          292.755
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 112,
+      "RES_SEQ": 112,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          29.739,
+          -12.742,
+          295.092
+        ],
+        "C": [
+          31.373,
+          -14.472,
+          294.799
+        ],
+        "CA": [
+          30.391,
+          -13.84,
+          295.774
+        ],
+        "O": [
+          31.052,
+          -14.658,
+          293.629
+        ],
+        "CB": [
+          29.392,
+          -14.916,
+          296.222
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 113,
+      "RES_SEQ": 113,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          32.562,
+          -14.805,
+          295.281
+        ],
+        "C": [
+          33.904,
+          -16.811,
+          295.121
+        ],
+        "CA": [
+          33.552,
+          -15.481,
+          294.466
+        ],
+        "O": [
+          34.162,
+          -16.847,
+          296.316
+        ],
+        "CB": [
+          34.818,
+          -14.629,
+          294.38
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Y",
+      "RES_NAME_3LT": "TYR",
+      "RES_ORDER": 114,
+      "RES_SEQ": 114,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          33.939,
+          -17.885,
+          294.341
+        ],
+        "C": [
+          35.318,
+          -19.87,
+          293.848
+        ],
+        "CA": [
+          34.369,
+          -19.194,
+          294.849
+        ],
+        "O": [
+          35.564,
+          -19.312,
+          292.78
+        ],
+        "CB": [
+          33.163,
+          -20.057,
+          295.12
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 115,
+      "RES_SEQ": 115,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          35.87,
+          -21.041,
+          294.19
+        ],
+        "C": [
+          36.048,
+          -22.647,
+          292.303
+        ],
+        "CA": [
+          36.789,
+          -21.735,
+          293.268
+        ],
+        "O": [
+          35.239,
+          -23.487,
+          292.708
+        ],
+        "CB": [
+          37.842,
+          -22.568,
+          294.002
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "G",
+      "RES_NAME_3LT": "GLY",
+      "RES_ORDER": 116,
+      "RES_SEQ": 116,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          36.355,
+          -22.492,
+          291.021
+        ],
+        "C": [
+          36.376,
+          -24.871,
+          290.256
+        ],
+        "CA": [
+          35.934,
+          -23.452,
+          290.01
+        ],
+        "O": [
+          35.947,
+          -25.761,
+          289.553
+        ],
+        "CB": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Q",
+      "RES_NAME_3LT": "GLN",
+      "RES_ORDER": 117,
+      "RES_SEQ": 117,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          37.224,
+          -25.119,
+          291.237
+        ],
+        "C": [
+          36.714,
+          -27.031,
+          292.775
+        ],
+        "CA": [
+          37.497,
+          -26.513,
+          291.573
+        ],
+        "O": [
+          36.957,
+          -28.149,
+          293.234
+        ],
+        "CB": [
+          39.007,
+          -26.757,
+          291.722
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 118,
+      "RES_SEQ": 118,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          35.747,
+          -26.256,
+          293.265
+        ],
+        "C": [
+          33.957,
+          -27.852,
+          293.6
+        ],
+        "CA": [
+          34.814,
+          -26.751,
+          294.27
+        ],
+        "O": [
+          33.385,
+          -27.611,
+          292.525
+        ],
+        "CB": [
+          33.928,
+          -25.617,
+          294.748
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "P",
+      "RES_NAME_3LT": "PRO",
+      "RES_ORDER": 119,
+      "RES_SEQ": 119,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          33.882,
+          -29.062,
+          294.204
+        ],
+        "C": [
+          31.685,
+          -29.866,
+          293.246
+        ],
+        "CA": [
+          33.166,
+          -30.169,
+          293.532
+        ],
+        "O": [
+          31.046,
+          -29.119,
+          293.991
+        ],
+        "CB": [
+          33.304,
+          -31.341,
+          294.518
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 120,
+      "RES_SEQ": 120,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          31.141,
+          -30.442,
+          292.181
+        ],
+        "C": [
+          28.641,
+          -30.262,
+          292.731
+        ],
+        "CA": [
+          29.79,
+          -30.082,
+          291.706
+        ],
+        "O": [
+          27.629,
+          -29.558,
+          292.638
+        ],
+        "CB": [
+          29.465,
+          -30.805,
+          290.4
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 121,
+      "RES_SEQ": 121,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          28.791,
+          -31.18,
+          293.697
+        ],
+        "C": [
+          27.837,
+          -30.213,
+          295.776
+        ],
+        "CA": [
+          27.783,
+          -31.374,
+          294.776
+        ],
+        "O": [
+          26.801,
+          -29.708,
+          296.212
+        ],
+        "CB": [
+          27.944,
+          -32.746,
+          295.464
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 122,
+      "RES_SEQ": 122,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          29.042,
+          -29.787,
+          296.128
+        ],
+        "C": [
+          28.738,
+          -27.361,
+          296.3
+        ],
+        "CA": [
+          29.209,
+          -28.625,
+          296.997
+        ],
+        "O": [
+          28.163,
+          -26.49,
+          296.933
+        ],
+        "CB": [
+          30.663,
+          -28.47,
+          297.47
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "V",
+      "RES_NAME_3LT": "VAL",
+      "RES_ORDER": 123,
+      "RES_SEQ": 123,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          28.964,
+          -27.261,
+          294.998
+        ],
+        "C": [
+          26.948,
+          -26.085,
+          294.124
+        ],
+        "CA": [
+          28.471,
+          -26.105,
+          294.23
+        ],
+        "O": [
+          26.328,
+          -25.008,
+          294.153
+        ],
+        "CB": [
+          29.092,
+          -26.049,
+          292.811
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "A",
+      "RES_NAME_3LT": "ALA",
+      "RES_ORDER": 124,
+      "RES_SEQ": 124,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          26.354,
+          -27.268,
+          293.982
+        ],
+        "C": [
+          24.415,
+          -26.879,
+          295.41
+        ],
+        "CA": [
+          24.909,
+          -27.398,
+          294.062
+        ],
+        "O": [
+          23.5,
+          -26.064,
+          295.466
+        ],
+        "CB": [
+          24.501,
+          -28.842,
+          293.879
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "R",
+      "RES_NAME_3LT": "ARG",
+      "RES_ORDER": 125,
+      "RES_SEQ": 125,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          25.036,
+          -27.344,
+          296.492
+        ],
+        "C": [
+          24.721,
+          -25.404,
+          297.943
+        ],
+        "CA": [
+          24.645,
+          -26.925,
+          297.834
+        ],
+        "O": [
+          23.795,
+          -24.747,
+          298.403
+        ],
+        "CB": [
+          25.526,
+          -27.585,
+          298.897
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "M",
+      "RES_NAME_3LT": "MET",
+      "RES_ORDER": 126,
+      "RES_SEQ": 126,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          25.834,
+          -24.859,
+          297.488
+        ],
+        "C": [
+          24.919,
+          -22.684,
+          296.688
+        ],
+        "CA": [
+          26.043,
+          -23.425,
+          297.458
+        ],
+        "O": [
+          24.467,
+          -21.59,
+          297.077
+        ],
+        "CB": [
+          27.418,
+          -23.132,
+          296.856
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "N",
+      "RES_NAME_3LT": "ASN",
+      "RES_ORDER": 127,
+      "RES_SEQ": 127,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          24.452,
+          -23.284,
+          295.603
+        ],
+        "C": [
+          22.011,
+          -22.742,
+          295.499
+        ],
+        "CA": [
+          23.376,
+          -22.661,
+          294.827
+        ],
+        "O": [
+          21.255,
+          -21.769,
+          295.471
+        ],
+        "CB": [
+          23.365,
+          -23.148,
+          293.379
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 128,
+      "RES_SEQ": 128,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          21.698,
+          -23.865,
+          296.147
+        ],
+        "C": [
+          20.41,
+          -22.976,
+          298.001
+        ],
+        "CA": [
+          20.431,
+          -23.989,
+          296.89
+        ],
+        "O": [
+          19.402,
+          -22.314,
+          298.224
+        ],
+        "CB": [
+          20.233,
+          -25.382,
+          297.448
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "E",
+      "RES_NAME_3LT": "GLU",
+      "RES_ORDER": 129,
+      "RES_SEQ": 129,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          21.535,
+          -22.834,
+          298.695
+        ],
+        "C": [
+          21.409,
+          -20.457,
+          299.183
+        ],
+        "CA": [
+          21.623,
+          -21.836,
+          299.739
+        ],
+        "O": [
+          20.704,
+          -19.643,
+          299.789
+        ],
+        "CB": [
+          22.983,
+          -21.875,
+          300.418
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 130,
+      "RES_SEQ": 130,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          22.037,
+          -20.182,
+          298.043
+        ],
+        "C": [
+          20.485,
+          -18.56,
+          297.088
+        ],
+        "CA": [
+          21.933,
+          -18.869,
+          297.452
+        ],
+        "O": [
+          20.079,
+          -17.418,
+          297.156
+        ],
+        "CB": [
+          22.881,
+          -18.726,
+          296.249
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "T",
+      "RES_NAME_3LT": "THR",
+      "RES_ORDER": 131,
+      "RES_SEQ": 131,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          19.694,
+          -19.55,
+          296.708
+        ],
+        "C": [
+          17.568,
+          -18.66,
+          297.598
+        ],
+        "CA": [
+          18.292,
+          -19.272,
+          296.399
+        ],
+        "O": [
+          16.849,
+          -17.676,
+          297.471
+        ],
+        "CB": [
+          17.548,
+          -20.544,
+          295.99
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 132,
+      "RES_SEQ": 132,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          17.755,
+          -19.271,
+          298.76
+        ],
+        "C": [
+          17.784,
+          -17.394,
+          300.397
+        ],
+        "CA": [
+          17.197,
+          -18.749,
+          300.012
+        ],
+        "O": [
+          17.062,
+          -16.523,
+          300.817
+        ],
+        "CB": [
+          17.414,
+          -19.745,
+          301.153
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 133,
+      "RES_SEQ": 133,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          19.08,
+          -17.221,
+          300.271
+        ],
+        "C": [
+          18.984,
+          -14.85,
+          299.585
+        ],
+        "CA": [
+          19.636,
+          -15.905,
+          300.501
+        ],
+        "O": [
+          18.622,
+          -13.8,
+          300.035
+        ],
+        "CB": [
+          21.151,
+          -15.901,
+          300.304
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 134,
+      "RES_SEQ": 134,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          18.868,
+          -15.134,
+          298.299
+        ],
+        "C": [
+          16.859,
+          -13.847,
+          297.817
+        ],
+        "CA": [
+          18.257,
+          -14.204,
+          297.343
+        ],
+        "O": [
+          16.494,
+          -12.676,
+          297.935
+        ],
+        "CB": [
+          18.145,
+          -14.846,
+          295.954
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "L",
+      "RES_NAME_3LT": "LEU",
+      "RES_ORDER": 135,
+      "RES_SEQ": 135,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          16.065,
+          -14.869,
+          298.11
+        ],
+        "C": [
+          14.571,
+          -13.846,
+          299.817
+        ],
+        "CA": [
+          14.682,
+          -14.644,
+          298.517
+        ],
+        "O": [
+          13.795,
+          -12.927,
+          299.886
+        ],
+        "CB": [
+          13.9,
+          -15.97,
+          298.601
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "C",
+      "RES_NAME_3LT": "CYS",
+      "RES_ORDER": 136,
+      "RES_SEQ": 136,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          15.346,
+          -14.192,
+          300.837
+        ],
+        "C": [
+          15.92,
+          -12.07,
+          302.014
+        ],
+        "CA": [
+          15.32,
+          -13.474,
+          302.109
+        ],
+        "O": [
+          15.413,
+          -11.15,
+          302.625
+        ],
+        "CB": [
+          15.965,
+          -14.336,
+          303.207
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "Y",
+      "RES_NAME_3LT": "TYR",
+      "RES_ORDER": 137,
+      "RES_SEQ": 137,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          16.948,
+          -11.884,
+          301.2
+        ],
+        "C": [
+          16.715,
+          -9.54,
+          300.532
+        ],
+        "CA": [
+          17.647,
+          -10.593,
+          301.071
+        ],
+        "O": [
+          16.663,
+          -8.43,
+          301.044
+        ],
+        "CB": [
+          18.862,
+          -10.721,
+          300.16
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "S",
+      "RES_NAME_3LT": "SER",
+      "RES_ORDER": 138,
+      "RES_SEQ": 138,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          15.976,
+          -9.908,
+          299.493
+        ],
+        "C": [
+          13.915,
+          -8.528,
+          299.844
+        ],
+        "CA": [
+          15.008,
+          -8.986,
+          298.872
+        ],
+        "O": [
+          13.671,
+          -7.312,
+          299.956
+        ],
+        "CB": [
+          14.371,
+          -9.622,
+          297.649
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "H",
+      "RES_NAME_3LT": "HIS",
+      "RES_ORDER": 139,
+      "RES_SEQ": 139,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          13.331,
+          -9.49,
+          300.567
+        ],
+        "C": [
+          12.766,
+          -8.579,
+          302.796
+        ],
+        "CA": [
+          12.256,
+          -9.255,
+          301.535
+        ],
+        "O": [
+          12.054,
+          -8.616,
+          303.794
+        ],
+        "CB": [
+          11.578,
+          -10.579,
+          302.002
+        ]
+      }
+    },
+    {
+      "RES_NAME_1LT": "F",
+      "RES_NAME_3LT": "PHE",
+      "RES_ORDER": 140,
+      "RES_SEQ": 140,
+      "CHAIN_ID": "A",
+      "COORD": {
+        "N": [
+          13.97,
+          -8.013,
+          302.83
+        ],
+        "C": [
+          13.756,
+          -6.304,
+          304.638
+        ],
+        "CA": [
+          14.465,
+          -7.565,
+          304.108
+        ],
+        "O": [
+          14.129,
+          -5.198,
+          304.292
+        ],
+        "CB": [
+          15.977,
+          -7.431,
+          304.072
+        ]
+      }
+    }
+  ],
+  "STRUCTURES": null
+}
