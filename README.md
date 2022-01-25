@@ -20,7 +20,7 @@ A_Prot_Paper/A_Prot_predicted_pdb/
 - esm 0.3.0 (https://github.com/facebookresearch/esm)
 - pytorch 1.7.1
 - einops
-
+- pyrosetta 4 (http://www.pyrosetta.org/)
 
 ## Usages
 
