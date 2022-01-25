@@ -1,7 +1,7 @@
 # A_Prot_Paper
 
 ## Description
-A Prot paper related materials:
+**A Prot paper related materials:**
 
 The MSAs used for the A-Prot are at:
 
