@@ -290,6 +290,7 @@ if __name__ == '__main__':
     output_phi_np = output_phi.detach().cpu().numpy()
 
     np.savez_compressed(args.output_path,
+                        query_seq=query_seq,
                         dist=output_dist_np,
                         omega=output_omega_np,
                         theta=output_theta_np,
