@@ -28,7 +28,10 @@ A_Prot_Paper/A_Prot_predicted_pdb/
 python run_a_prot.py --input_path T0998.json --output_path T0998.npz --conv_model_path a_prot_resnet_weights.pth
 ```
 The input file should be in format .fa or .a3m like MSA file, or .json file like ours.
-The ```a_prot_resnet_weights.pth``` trained network weights can be downloaded from ```https://drive.google.com/drive/folders/1JLSsSzKu3NBTKg9KwSlXCB_8q3E-g2Gv?usp=sharing```
+The ```a_prot_resnet_weights.pth``` trained network weights can be downloaded from 
+```
+https://drive.google.com/drive/folders/1JLSsSzKu3NBTKg9KwSlXCB_8q3E-g2Gv?usp=sharing
+```
 
 (2) Run structure modeling
 ```
