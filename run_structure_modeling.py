@@ -34,7 +34,7 @@ def main():
 
     # read and process restraints & sequence
     npz = np.load(args.input_path)
-    seq = npz['query_seq'].tolist()
+    seq = npz['query_seq'].tolist()[1]
 
     L = len(seq)
     params['seq'] = seq
