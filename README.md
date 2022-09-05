@@ -40,7 +40,7 @@ python run_structure_modeling.py --input_path T0998.npz --output_path T0998.pdb
 
 ## Reference
 
-- Yiyu Hong, Juyong Lee, Junsu Ko. A-Prot: Protein structure modeling using MSA transformer. bioRxiv 2021.09.10.459866; doi: https://doi.org/10.1101/2021.09.10.459866
+- Hong, Y., Lee, J. & Ko, J. A-Prot: protein structure modeling using MSA transformer. BMC Bioinformatics 23, 93 (2022). https://doi.org/10.1186/s12859-022-04628-8
 
 - J Yang, I Anishchenko, H Park, Z Peng, S Ovchinnikov, D Baker. Improved protein structure prediction using predicted inter-residue orientations. (2020) PNAS. 117(3): 1496-1503
 
